@@ -2,7 +2,10 @@
 
     <li>
     <div class="user-view">
-     <h5 class="branded">{{ site.title }}</h5>
+     <h5>
+      <span class="branded">{{ site.title }}</span>
+      <span>Gamer</span>
+     </h5>
     </div>
     </li>
 
@@ -31,7 +34,7 @@
      </li>
 
     <li>
-     <a class="waves-effect waves-yellow" href="https://as-saadah.github.io/games/about/">
+     <a class="waves-effect waves-yellow" href="{{ "about" | relative_url }}">
       <i class="material-icons white-text">report_problem</i> Penafian (Disclaimer)
      </a>
     </li>
