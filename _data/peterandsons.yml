@@ -25,3 +25,38 @@
   lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=barbarossa
   provider: Peter & Sons
+
+- title: Book of Books
+  gameid: bookofbooks
+  img: peter-and-sons/book-of-books.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=bookofbooks
+  provider: Peter & Sons
+
+- title: The Legend of Musashi
+  gameid: thelegendofmusashi
+  img: peter-and-sons/the-legend-of-musashi.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=thelegendofmusashi
+  provider: Peter & Sons
+
+- title: Dungeon Tower
+  gameid: dungeontower
+  img: peter-and-sons/dungeon-tower.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=dungeontower
+  provider: Peter & Sons
+
+- title: Voodo Hex
+  gameid: voodohex
+  img: peter-and-sons/voodoo-hex.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=voodohex
+  provider: Peter & Sons
+
+- title: Dragonblox Gigablox
+  gameid: dragonblox
+  img: peter-and-sons/dragonblox.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=dragonblox
+  provider: Peter & Sons
