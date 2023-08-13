@@ -67,3 +67,10 @@
   lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=dungeontower
   provider: Peter & Sons
+
+- title: Dragonblox Gigablox
+  gameid: dragonblox
+  img: peter-and-sons/dragonblox.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=dragonblox
+  provider: Peter & Sons
