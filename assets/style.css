@@ -7,6 +7,13 @@
  font-size: 105% !important;	
  font-family: 'Bad Script', cursive !important;
  font-weight: 800 !important;
+ color: #ef6c00;
+}
+.branded a {
+ font-size: 105% !important;	
+ font-family: 'Bad Script', cursive !important;
+ font-weight: 800 !important;
+ color: #ef6c00;
 }
 .nav-wrapper {
  height: 30px !important;
