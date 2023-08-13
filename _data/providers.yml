@@ -1,241 +1,357 @@
 - title: Pocket Games Soft
   img: pgsoft.webp
+  url: pgsoft
 - title: Pragmatic Play
   img: pragmatic-play.webp
+  url: pragmatic-play
 - title: Reel Kingdom
   img: reel-kingdom.webp
+  url: reel-kingdom
 - title: Wild Streak Gaming
   img: wsg.webp
+  url: wild-streak-gaming
 - title: Rabcat
   img: rabcat.webp
+  url: rabcat
 - title: Red Tiger
   img: redtiger.webp
+  url: redtiger
 - title: YGGDrasil
   img: yggdrasil.webp
+  url: yggdrasil
 - title: All41 Studios
   img: all41-studios.webp
+  url: all41-studios
 - title: Stormcraft Studios
   img: stormcraft-studios.webp
+  url: stormcraft-studios
 - title: Alchemy Gaming
   img: alchemy-gaming.webp
+  url: alcbemy-gaming
 - title: NetEnt
   img: netent.webp
+  url: netent
 - title: Microgaming
   img: microgaming.webp
+  url: micrograming
 - title: Nolimit City
   img: nolimit-city.webp
+  url: nolimit-city
 - title: Foxium
   img: foxium.webp
+  url: foxium
 - title: Neon Valley Studios
   img: neon-valley-studios.webp
+  url: neon-valley-studios
 - title: Triple Edge Studios
   img: triple-edge-studios.webp
+  url: triple-edge-studios
 - title: Gameburger Studios
   img: gameburger-studios.webp
+  url: gameburger-studios
 - title: Relax Gaming
   img: relax-gaming.webp
+  url: relax-gaming
 - title: iSoftBet
   img: isoftbet.webp
+  url: isofbet
 - title: Just For The Win
   img: just-for-the-win.webp
+  url: just-for-the-win
 - title: Fortune Factory Studios
   img: fortune-factory-studios.webp
+  url: fortune-factory-studios
 - title: Naga Games
   img: naga-games.webp
+  url: naga-games
 - title: Eurasian Gaming
   img: eurasian-gaming.webp
+  url: eurasian-gaming
 - title: Habanero
   img: habanero.webp
+  url: habanero
 - title: Advant Play
   img: advant-play.webp
+  url: advant-play
 - title: Spadegaming
   img: spadegaming.webp
+  url: spadegaming
 - title: BGaming
   img: bgaming.webp
+  url: bgaming
 - title: Playtech
   img: playtech.webp
+  url: playtech
 - title: PlayNGo
   img: playngo.webp
+  url: playngo
 - title: Game Global
   img: global-games.webp
+  url: game-global
 - title: Big Time Gaming
   img: big-time-gaming.webp
+  url: big-time-gaming
 - title: Booming Games
   img: booming-games.webp
+  url: booming-games
 - title: Reel Play
   img: reelplay.webp
-- title: Top Trend Gaming
+  url: reelplay
+- title: TopTrend Gaming
   img: toptrend-gaming.webp
+  url: toptrend-gaming
 - title: Elk Studios
   img: elk-studios.webp
+  url: elk-studios
 - title: Megaways
   img: megaways.webp
+  url: megaways
 - title: Playstar
   img: playstar.webp
+  url: playstar
 - title: Hacksaw Gaming
   img: hacksaw-gaming.webp
+  url: hacksaw-gaming
 - title: CQ9 Gaming
   img: cq9-gaming.webp
+  url: cq9gaming
 - title: Just Do The Best
   img: jdb.webp
+  url: jdb
 - title: Reevo
   img: reevo.webp
+  url: reevo
 - title: Dragoon Soft
   img: dragoon-soft.webp
+  url: dragoonsoft
 - title: KA Gaming
   img: ka-gaming.webp
+  url: kagaming
 - title: Evoplay
   img: evoplay.webp
+  url: evoplay
 - title: Mancala Gaming
   img: mancala-gaming.webp
-- title: Sky Wind
-  img: sky-wind.webp
+  url: mancala-gaming
+- title: Skywind Group
+  img: skywind-group.webp
+  url: skywind
 - title: Jili
   img: jili.webp
+  url: jili
 - title: IDN Play
   img: idnplay.webp
+  url: idnplay
 - title: Kalamba Games
   img: kalamba-games.webp
+  url: kalamaba-games
 - title: Print Studios
   img: print-studios.webp
+  url: print-studios
 - title: Slotmill
   img: slotmill.webp
+  url: slotmill
 - title: Thunderkick
   img: thunderkick.webp
+  url: thunderkick
 - title: Various Studios
   img: various-studios.webp
+  url: various-studios
 - title: Sling Shot Studios
   img: slingshot-studios.webp
+  url: slingshot-studios
 - title: Push Gaming
   img: push-gaming.webp
+  url: push-gaming
 - title: Quickspin
   img: quick-spin.webp
+  url: quickspin
 - title: Peter & Sons
   img: peter-sons.webp
+  url: peter-and-sons
 - title: Iron Dog Studios
   img: iron-dog-studio.webp
+  url: irondog-studios
 - title: Jelly Entertainment
   img: jelly.webp
+  url: jelly
 - title: Inspired
   img: inspired.webp
+  url: inspired
 - title: Lucksome
   img: lucksome.webp
+  url: lucksome
 - title: Mercur Gaming
   img: mercur-gaming.webp
+  url: mercur-gaming
 - title: Light & Wonder
   img: light-wonder.webp
+  url: light-and-wonder
 - title: Avatar UX
   img: avatar-ux.webp
+  url: avatarux
 - title: 4ThePlayer
   img: 4theplayer.webp
+  url: 4theplayer
 - title: StakeLogic
   img: stakelogic.webp
+  url: stakelogic
 - title: Pear Fiction Studios
   img: pear-fiction-studios.webp
+  url: pear-fiction-studios
 - title: Greentube
   img: greentube.webp
+  url: greentube
 - title: Fantasma Games
   img: fantasma.webp
+  url: fantasma
 - title: Crazy Tooth Studio
   img: crazy-tooth-studio.webp
+  url: crazy-tooth-studio
 - title: Wazdan
   img: wazdan.webp
+  url: wazdan
 - title: Snowborn Games
   img: snowborn-games.webp
+  url: snowborn-games
 - title: Red Rake Gaming
   img: red-rake-gaming.webp
+  url: redrake-gaming
 - title: Gold Coin Studios
   img: gold-coin-studios.webp  
+  url: goldcoin-studios
 - title: Nextgen Gaming
   img: nextgen-gaming.webp  
+  url: nextgen-gaming
 - title: Novomatic
   img: novomatic.webp  
+  url: novomatic
 - title: R. Franco Digital
   img: r-franco-digital.webp  
+  url: rfranco-digital
 - title: Zitro
   img: zitro.webp  
+  url: zitro
 - title: Truelab
   img: true-lab.webp  
+  url: truelab
 - title: MGA Games
   img: mga-games.webp  
+  url: mga-games
 - title: Mag Interactive
   img: mag-interactive.webp  
+  url: mag
 - title: Jade Rabbit Studio
   img: jade-rabbit-studio.webp  
+  url: jade-rabbit-studio
 - title: Genesis
   img: genesis.webp  
+  url: genesis
 - title: Gameplay
   img: gameplay.webp  
+  url: gameplay
 - title: Gamebeat
   img: game-beat.webp  
+  url: gamebeat
 - title: Felix Gaming
   img: felix-gaming.webp  
+  url: felix-gaming
 - title: Dragon Gaming
   img: dragon-gaming.webp  
+  url: dragon-gaming
 - title: Concept Gaming
   img: concept-gaming.webp  
+  url: concept-gaming
 - title: Capecod
   img: capecod.webp  
+  url: capecod
 - title: Caleta
   img: caleta-gaming.webp  
+  url: caleta
 - title: Betsoft
   img: betsoft.webp  
+  url: betsoft
 - title: Bally
-  img: bally.webp  
+  img: bally.webp
+  url: bally
 - title: Aristocrat
   img: aristocrat.webp  
+  url: aristocrat
 - title: Armadillo Studios
   img: armadillo-studios.webp  
+  url: armadillo-studios
 - title: Amigo Gaming
-  img: amigo-gaming.webp  
+  img: amigo-gaming.webp
+  url: amigo-gaming
 - title: Amatic Industries
   img: amatic.webp  
+  url: amatic
 - title: Endorphina
   img: endorphina.webp  
+  url: endorphina
 - title: Gong Gaming Technologies
   img: gong-gaming.webp  
-
-
+  url: gong-gaming
 - title: BP Games
   img: bp-games.webp  
+  url: bpgames
 - title: Belatra Games
   img: belatra-games.webp  
+  url: belatra-games
 - title: FunTa Gaming
   img: funta-gaming.webp  
+  url: funta-gaming
 - title: Leap
   img: leap-gaming.webp  
+  url: leap
 - title: Lady Luck Games
   img: lady-luck-games.webp  
+  url: lady-luck-games
 - title: PlayPearls
   img: play-pearls.webp  
+  url: playpearls
 - title: Platipus Gaming
   img: platipus-gaming.webp  
+  url: platipus
 - title: Playson
   img: playson.webp  
+  url: playson
 - title: Rarestone
   img: rare-stone.webp  
+  url: rarestone
 - title: Shuffle Master
   img: shuffle-master.webp  
+  url: shuffle-master
 - title: Skill On Net
   img: skill-on-net.webp  
+  url: skill-on-net
 - title: Slingo
   img: slingo.webp  
+  url: slingo
 - title: Smartsoft Gaming
   img: smartsoft-gaming.webp  
+  url: smartsoft-gaming
 - title: Spearhead
   img: spearhead.webp  
+  url: spearhead
 - title: Spin2Win
   img: spin2-win.webp  
+  url: spin2win
 - title: Spinmatic
   img: spinmatic.webp  
+  url: spinmatic
 - title: Spribe
   img: spribe.webp  
+  url: spribe
 - title: Synot
   img: synot.webp  
+  url: synot
 - title: WMS Games
   img: wms.webp  
+  url: wmsgames
 - title: World Match
   img: world-match.webp  
+  url: world-match
 - title: Zeus Play
   img: zeus-play.webp  
-
+  url: zeus-play
