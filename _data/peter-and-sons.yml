@@ -1,0 +1,13 @@
+- title: Peter Hunter
+  gameid: peterhunter
+  img: peter-and-sons/peter-hunter.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=peterhunter
+  provider: Peter & Sons
+
+- title: Wild Duel
+  gameid: duel
+  img: peter-and-sons/wild-duel.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=duel
+  provider: Peter & Sons
