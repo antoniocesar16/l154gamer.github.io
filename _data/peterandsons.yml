@@ -11,3 +11,17 @@
   lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=duel
   provider: Peter & Sons
+
+- title: Thunder Hawk
+  gameid: thunderhawk
+  img: peter-and-sons/thunder-hawk.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=thunderhawk
+  provider: Peter & Sons
+
+- title: Barbarossa DoubleMax
+  gameid: barbarossa
+  img: peter-and-sons/barbarossa.webp
+  lang: ID
+  permalink: https://peterandsons.org/launcher.html?gameId=barbarossa
+  provider: Peter & Sons
