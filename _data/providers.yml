@@ -1,62 +1,62 @@
 - title: Pocket Games Soft
   img: pgsoft.webp
   url: pgsoft
-  class: active
+  available: available
   
 - title: Pragmatic Play
   img: pragmatic-play.webp
   url: pragmatic-play
-  class: active
+  available: available
   
 - title: Reel Kingdom
   img: reel-kingdom.webp
   url: reel-kingdom
-  class: active
+  available: available
   
 - title: Wild Streak Gaming
   img: wsg.webp
   url: wild-streak-gaming
-  class: active
+  available: not-available
   
 - title: Rabcat
   img: rabcat.webp
   url: rabcat
-  class: active
+  available: available
   
 - title: Red Tiger
   img: redtiger.webp
   url: redtiger
-  class: active
+  available: available
   
 - title: YGGDrasil
   img: yggdrasil.webp
   url: yggdrasil
-  class: active
+  available: available
   
 - title: All41 Studios
   img: all41-studios.webp
   url: all41-studios
-  class: active
+  available: available: not-available
   
 - title: Stormcraft Studios
   img: stormcraft-studios.webp
   url: stormcraft-studios
-  class: active
+  available: not-available
   
 - title: Alchemy Gaming
   img: alchemy-gaming.webp
   url: alchemy-gaming
-  class: active
+  available: not-available
   
 - title: NetEnt
   img: netent.webp
   url: netent
-  class: active
+  available: available
   
 - title: Microgaming
   img: microgaming.webp
   url: microgaming
-  class: active
+  available: available
   
 - title: Nolimit City
   img: nolimit-city.webp
@@ -66,7 +66,7 @@
 - title: Foxium
   img: foxium.webp
   url: foxium
-  class: disabled
+  available: not-available
   
 - title: Neon Valley Studios
   img: neon-valley-studios.webp
@@ -76,215 +76,263 @@
 - title: Triple Edge Studios
   img: triple-edge-studios.webp
   url: triple-edge-studios
-  class: disabled
+  available: not-available
   
 - title: Gameburger Studios
   img: gameburger-studios.webp
   url: gameburger-studios
-  class: disabled
+  available: not-available
   
 - title: Relax Gaming
   img: relax-gaming.webp
   url: relax-gaming
-  class: disabled
+  available: not-available
   
 - title: iSoftBet
   img: isoftbet.webp
   url: isofbet
-  class: disabled
+  available: available
   
 - title: Just For The Win
   img: just-for-the-win.webp
   url: just-for-the-win
-  class: disabled
+  available: not-available
   
 - title: Fortune Factory Studios
   img: fortune-factory-studios.webp
   url: fortune-factory-studios
-  class: disabled
+  available: not-available
   
 - title: Naga Games
   img: naga-games.webp
   url: naga-games
-  class: active
+  available: available
   
 - title: Eurasian Gaming
   img: eurasian-gaming.webp
   url: eagaming
-  class: active
+  available: available
   
 - title: Habanero
   img: habanero.webp
   url: habanero
-  class: active
+  available: available
 
 - title: Advant Play
   img: advant-play.webp
   url: advant-play
-  class: active
+  available: available
   
 - title: Spadegaming
   img: spadegaming.webp
   url: spadegaming
-  class: active
+  available: available
   
 - title: BGaming
   img: bgaming.webp
   url: bgaming
-  class: active
+  available: available
   
 - title: Playtech
   img: playtech.webp
   url: playtech
-  class: active
+  available: not-available
   
 - title: PlayNGo
   img: playngo.webp
   url: playngo
-  class: disabled
+  available: not-available
   
 - title: Game Global
   img: global-games.webp
   url: game-global
-  class: disabled
+  available: not-available
   
 - title: Big Time Gaming
   img: big-time-gaming.webp
   url: big-time-gaming
-  class: disabled
+  available: not-available
   
 - title: Booming Games
   img: booming-games.webp
   url: booming-games
-  class: disabled
+  available: not-available
   
 - title: Reel Play
   img: reelplay.webp
   url: reelplay
-  class: disabled
+  available: not-available
   
 - title: TopTrend Gaming
   img: toptrend-gaming.webp
   url: toptrend-gaming
-  class: disabled
+  available: not-available
   
 - title: Elk Studios
   img: elk-studios.webp
   url: elk-studios
-  class: disabled
+  available: not-available
   
 - title: Megaways
   img: megaways.webp
   url: megaways
-  class: active
+  available: available
   
 - title: Playstar
   img: playstar.webp
   url: playstar
-  class: disabled
+  available: not-available
   
 - title: Hacksaw Gaming
   img: hacksaw-gaming.webp
   url: hacksaw-gaming
-  class: disabled
+  available: not-available
   
 - title: CQ9 Gaming
   img: cq9-gaming.webp
   url: cq9gaming
-  class: disabled
+  available: not-available
   
 - title: Just Do The Best
   img: jdb.webp
   url: jdb
-  class: disabled
+  available: not-available
   
 - title: Reevo
   img: reevo.webp
   url: reevo
-  class: disabled
+  available: not-available
   
 - title: Dragoon Soft
   img: dragoon-soft.webp
   url: dragoonsoft
-  class: disabled
+  available: not-available
   
 - title: KA Gaming
   img: ka-gaming.webp
   url: kagaming
-  class: disabled
+  available: not-available
   
 - title: Evoplay
   img: evoplay.webp
   url: evoplay
+  available: not-available
+  
 - title: Mancala Gaming
   img: mancala-gaming.webp
   url: mancala-gaming
+  available: not-available
+  
 - title: Skywind Group
   img: sky-wind.webp
   url: skywind
+  available: not-available
+  
 - title: Jili
   img: jili.webp
   url: jili
+  available: not-available
+  
 - title: IDN Play Casino
   img: idnplay.webp
   url: idnplay
+  available: not-available
+  
 - title: Kalamba Games
   img: kalamba-games.webp
   url: kalamaba-games
+  available: not-available
+  
 - title: Print Studios
   img: print-studios.webp
   url: print-studios
+  available: not-available
+  
 - title: Slotmill
   img: slotmill.webp
   url: slotmill
+  available: not-available
+  
 - title: Thunderkick
   img: thunderkick.webp
   url: thunderkick
+  available: not-available
+  
 - title: Various Studios
   img: various-studios.webp
   url: various-studios
+  available: not-available
+  
 - title: Sling Shot Studios
   img: slingshot-studios.webp
   url: slingshot-studios
+  available: not-available
+  
 - title: Push Gaming
   img: push-gaming.webp
   url: push-gaming
+  available: not-available
+  
 - title: Quickspin
   img: quick-spin.webp
   url: quickspin
+  available: not-available
+
 - title: Peter & Sons
   img: peter-sons.webp
   url: peter-and-sons
+  available: available
+  
 - title: Iron Dog Studios
   img: iron-dog-studio.webp
   url: irondog-studios
+  available: not-available
+  
 - title: Jelly Entertainment
   img: jelly.webp
   url: jelly
+  available: not-available
+  
 - title: Inspired
   img: inspired.webp
   url: inspired
+  available: not-available
+  
 - title: Lucksome
   img: lucksome.webp
   url: lucksome
+  available: not-available
+  
 - title: Mercur Gaming
   img: mercur-gaming.webp
   url: mercur-gaming
+  available: not-available
+  
 - title: Light & Wonder
   img: light-wonder.webp
   url: light-and-wonder
+  available: not-available
+  
 - title: Avatar UX
   img: avatar-ux.webp
   url: avatarux
+  available: not-available
+  
 - title: 4ThePlayer
   img: 4theplayer.webp
   url: 4theplayer
+  available: not-available
+  
 - title: StakeLogic
   img: stakelogic.webp
   url: stakelogic
+  available: not-available
+  
 - title: Pear Fiction Studios
   img: pear-fiction-studios.webp
   url: pear-fiction-studios
+  available: not-available
+  
 - title: Greentube
   img: greentube.webp
   url: greentube
