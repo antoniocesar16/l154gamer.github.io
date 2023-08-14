@@ -619,12 +619,16 @@ div.scrollmenu {
   padding-bottom: 10px;
 }	    
 
-.disable, #not-available {
+  .disable {
   /* Note: pointer-events not supported by IE10 and under */
   pointer-events: none !important;
   opacity: 0.4 !important;
-}
-
+  }
+ #not-available {
+  /* Note: pointer-events not supported by IE10 and under */
+  pointer-events: none !important;
+  opacity: 0.4 !important;
+ }
 /* Disable scrolling on child elements */
 .disable div,
 .disable textarea {
