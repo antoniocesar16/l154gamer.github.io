@@ -71,7 +71,7 @@
 - title: Neon Valley Studios
   img: neon-valley-studios.webp
   url: neon-valley-studios
-  class: disabled
+  available: not-available
   
 - title: Triple Edge Studios
   img: triple-edge-studios.webp
@@ -90,7 +90,7 @@
   
 - title: iSoftBet
   img: isoftbet.webp
-  url: isofbet
+  url: isoftbet
   available: available
   
 - title: Just For The Win
@@ -336,156 +336,260 @@
 - title: Greentube
   img: greentube.webp
   url: greentube
+  available: not-available
+  
 - title: Fantasma Games
   img: fantasma.webp
   url: fantasma
+  available: not-available
+  
 - title: Crazy Tooth Studio
   img: crazy-tooth-studio.webp
   url: crazy-tooth-studio
+  available: not-available
+  
 - title: Wazdan
   img: wazdan.webp
   url: wazdan
+  available: not-available
+  
 - title: Snowborn Games
   img: snowborn-games.webp
   url: snowborn-games
+  available: not-available
+  
 - title: Red Rake Gaming
   img: red-rake-gaming.webp
   url: redrake-gaming
+  available: not-available
+  
 - title: Gold Coin Studios
   img: gold-coin-studios.webp  
   url: goldcoin-studios
+  available: not-available
+  
 - title: Nextgen Gaming
   img: nextgen-gaming.webp  
   url: nextgen-gaming
+  available: not-available
+  
 - title: Novomatic
   img: novomatic.webp  
   url: novomatic
+  available: not-available
+  
 - title: R. Franco Digital
   img: r-franco-digital.webp  
   url: rfranco-digital
+  available: not-available
+  
 - title: Zitro
   img: zitro.webp  
   url: zitro
+  available: not-available
+  
 - title: Truelab
   img: true-lab.webp  
   url: truelab
+  available: not-available
+  
 - title: MGA Games
   img: mga-games.webp  
   url: mga-games
+  available: not-available
+  
 - title: Mag Interactive
   img: mag-interactive.webp  
   url: mag
+  available: not-available
+  
 - title: Jade Rabbit Studio
   img: jade-rabbit-studio.webp  
   url: jade-rabbit-studio
+  available: not-available
+  
 - title: Genesis
   img: genesis.webp  
   url: genesis
+  available: not-available
+  
 - title: Gameplay
   img: gameplay.webp  
   url: gameplay
+  available: not-available
+  
 - title: Gamebeat
   img: game-beat.webp  
   url: gamebeat
+  available: not-available
+  
 - title: Felix Gaming
   img: felix-gaming.webp  
   url: felix-gaming
+  available: not-available
+  
 - title: Dragon Gaming
   img: dragon-gaming.webp  
   url: dragon-gaming
+  available: not-available
+  
 - title: Concept Gaming
   img: concept-gaming.webp  
   url: concept-gaming
+  available: not-available
+  
 - title: Capecod
   img: capecod.webp  
   url: capecod
+  available: not-available
+  
 - title: Caleta
   img: caleta-gaming.webp  
   url: caleta
+  available: not-available
+  
 - title: Betsoft
   img: betsoft.webp  
   url: betsoft
+  available: not-available
+  
 - title: Bally
   img: bally.webp
   url: bally
+  available: not-available
+  
 - title: Aristocrat
   img: aristocrat.webp  
   url: aristocrat
+  available: not-available
+  
 - title: Armadillo Studios
   img: armadillo-studios.webp  
   url: armadillo-studios
+  available: not-available
+  
 - title: Amigo Gaming
   img: amigo-gaming.webp
   url: amigo-gaming
+  available: not-available
+  
 - title: Amatic Industries
   img: amatic.webp  
   url: amatic
+  available: not-available
+  
 - title: Endorphina
   img: endorphina.webp  
   url: endorphina
+  available: not-available
+  
 - title: Gong Gaming Technologies
   img: gong-gaming.webp  
   url: gong-gaming
+  available: not-available
+  
 - title: Bigpot Gaming
   img: bp-games.webp  
   url: bpgaming
+  available: not-available
+  
 - title: Belatra Games
   img: belatra-games.webp  
   url: belatra-games
+  available: not-available
+  
 - title: FunTa Gaming
   img: funta-gaming.webp  
   url: funta-gaming
+  available: not-available
+  
 - title: Leap
   img: leap-gaming.webp  
   url: leap
+  available: not-available
+  
 - title: Lady Luck Games
   img: lady-luck-games.webp  
   url: lady-luck-games
+  available: not-available
+  
 - title: PlayPearls
   img: play-pearls.webp  
   url: playpearls
+  available: not-available
+  
 - title: Platipus Gaming
   img: platipus-gaming.webp  
   url: platipus
+  available: not-available
+  
 - title: Playson
   img: playson.webp  
   url: playson
+  available: not-available
+  
 - title: Rarestone
   img: rare-stone.webp  
   url: rarestone
+  available: not-available
+  
 - title: Shuffle Master
   img: shuffle-master.webp  
   url: shuffle-master
+  available: not-available
+  
 - title: Skill On Net
   img: skill-on-net.webp  
   url: skill-on-net
+  available: not-available
+  
 - title: Slingo
   img: slingo.webp  
   url: slingo
+  available: not-available
+  
 - title: Smartsoft Gaming
   img: smartsoft-gaming.webp  
   url: smartsoft-gaming
+  available: not-available
+  
 - title: Spearhead
   img: spearhead.webp  
   url: spearhead
+  available: not-available
+  
 - title: Spin2Win
   img: spin2-win.webp  
   url: spin2win
+  available: not-available
+  
 - title: Spinmatic
   img: spinmatic.webp  
   url: spinmatic
+  available: not-available
+  
 - title: Spribe
   img: spribe.webp  
   url: spribe
+  available: not-available
+  
 - title: Synot
   img: synot.webp  
   url: synot
+  available: not-available
+  
 - title: WMS Games
   img: wms.webp  
   url: wmsgames
+  available: not-available
+  
 - title: World Match
   img: world-match.webp  
   url: world-match
+  available: not-available
+  
 - title: Zeus Play
   img: zeus-play.webp  
   url: zeus-play
+  available: not-available
+
