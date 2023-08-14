@@ -249,6 +249,7 @@
   id: 111
   lang: Groundhog Harvest
   provider: PG Soft
+  available: not-available
   
 - title: Dragon Legend - Mythical Treasure Jackpot
   img: dragon-legend.webp
@@ -368,6 +369,7 @@
   id: 43
   lang: Tiga Monyet
   provider: PG Soft
+  available: not-available
   
 - title: Midas Fortune
   img: midas-fortune.webp
@@ -417,6 +419,7 @@
   url: pgsoft/sushi-oishi
   lang: Sushi Oishi
   provider: PG Soft
+  available: not-available
   
 - title: Galactic Gems
   id: 86
@@ -488,6 +491,7 @@
   lang: American Blackjack
   type: Table Games
   provider: PG Soft
+  available: not-available
 
 - title: European Blackjack
   url: pgsoft/table-games/european-blackjack
@@ -495,6 +499,7 @@
   lang: European Blackjack
   type: Table Games
   provider: PG Soft  
+  available: not-available
   
 - title: Fortune Tiger
   id: 126
@@ -593,6 +598,7 @@
   img: wizdom-wonders.webp
   lang: Wisdom Wonders
   provider: PG Soft
+  available: not-available
   
 - title: Alchemy Gold
   id: 1368367
