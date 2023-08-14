@@ -6,13 +6,9 @@ active: providers
 ---
 
 <style>
- .disable, #not-available {
+ .disable, .disable div, #not-available {
   opacity: 0.4 !important;
   pointer-events: none !important;
-}
-/* Disable scrolling on child elements */
-.disable div,
-.disable textarea {
   overflow: hidden !important;
 }
 </style>
@@ -33,8 +29,3 @@ active: providers
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
-<script>
-$(document).ready(function() {
-    $("#not-available").addClass("disable");
-}); 
-</script>
