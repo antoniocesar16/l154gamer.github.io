@@ -7,7 +7,8 @@ active: pgsoft
 
 <div class="row">
  {% for game in site.data.pg_soft %}
- <div id="{{ game.available }}" class="col column-content s6 m6">
+ <div id="{{ game.available }}">
+ <div class="col column-content s6 m6">
  <div class="blog-card blog-card-blog sticky-action">
    <div class="blog-card-image">
     <a href="{{ game.url | relative_url }}" class="waves-effect waves-block waves-light"> 
@@ -22,6 +23,7 @@ active: pgsoft
       <a id="en" href="{{ game.url | relative_url }}">{{ game.lang }}</a>
      </h4>
    </div>
+ </div>
  </div>
  </div>
  {% else %}
