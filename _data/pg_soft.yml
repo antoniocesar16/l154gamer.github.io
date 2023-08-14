@@ -711,7 +711,23 @@
   url: pgsoft/fortune-gods
   lang: Dewa Keberuntungan
   provider: PG Soft
+
+- title: Summon & Conquer
+  id: 17
+  img: summon-and-conquer.webp
+  url: pgsoft/summon-conquer
+  lang: Summon & Conquer
+  available: not-available
+  provider: PG Soft
   
+- title: Steampunk - Wheel of Destiny
+  id: 16
+  img: steampunk.webp
+  url: pgsoft/steampunk
+  lang: Steampunk - Wheel of Destiny
+  available: not-available
+  provider: PG Soft  
+
 - title: Prosperity Fortune Tree
   id: 1312883
   img: prosperity-fortune-tree.webp
