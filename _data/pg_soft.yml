@@ -243,14 +243,6 @@
   lang: Legenda Perseus
   provider: PG Soft
   
-- title: Groundhog Harvest
-  img: groundhog-harvest.webp
-  url: pgsoft/groundhog-harvest
-  id: 111
-  lang: Groundhog Harvest
-  provider: PG Soft
-  available: not-available
-  
 - title: Dragon Legend - Mythical Treasure Jackpot
   img: dragon-legend.webp
   url: pgsoft/dragon-legend
@@ -362,15 +354,7 @@
   id: 119
   lang: Keajaiban Membara
   provider: PG Soft
-  
-- title: 3 Monkeys
-  img: 3monkeys.webp
-  url: pgsoft/3monkeys
-  id: 43
-  lang: Tiga Monyet
-  provider: PG Soft
-  available: not-available
-  
+
 - title: Midas Fortune
   img: midas-fortune.webp
   url: pgsoft/midas-fortune
@@ -485,22 +469,6 @@
   type: Table Games
   provider: PG Soft
 
-- title: American Blackjack
-  url: pgsoft/table-games/american-blackjack
-  img: american-blackjack.webp
-  lang: American Blackjack
-  type: Table Games
-  provider: PG Soft
-  available: not-available
-
-- title: European Blackjack
-  url: pgsoft/table-games/european-blackjack
-  img: european-blackjack.webp
-  lang: European Blackjack
-  type: Table Games
-  provider: PG Soft  
-  available: not-available
-  
 - title: Fortune Tiger
   id: 126
   img: fortune-tiger.webp
@@ -591,15 +559,7 @@
   img: santas-gift-rush.webp
   lang: Limpahan Kado Santa
   provider: PG Soft
-  
-- title: Wizdom Wonders
-  id: 17
-  url: pgsoft/wizdom-wonders
-  img: wizdom-wonders.webp
-  lang: Wisdom Wonders
-  provider: PG Soft
-  available: not-available
-  
+
 - title: Alchemy Gold
   id: 1368367
   url: pgsoft/alchemy-gold
@@ -712,6 +672,41 @@
   lang: Dewa Keberuntungan
   provider: PG Soft
 
+- title: Wizdom Wonders
+  id: 17
+  url: pgsoft/wizdom-wonders
+  img: wizdom-wonders.webp
+  lang: Wisdom Wonders
+  provider: PG Soft
+  available: not-available
+- title: 3 Monkeys
+  img: 3monkeys.webp
+  url: pgsoft/3monkeys
+  id: 43
+  lang: Tiga Monyet
+  provider: PG Soft
+  available: not-available
+- title: Groundhog Harvest
+  img: groundhog-harvest.webp
+  url: pgsoft/groundhog-harvest
+  id: 111
+  lang: Groundhog Harvest
+  provider: PG Soft
+  available: not-available
+- title: American Blackjack
+  url: pgsoft/table-games/american-blackjack
+  img: american-blackjack.webp
+  lang: American Blackjack
+  type: Table Games
+  provider: PG Soft
+  available: not-available
+- title: European Blackjack
+  url: pgsoft/table-games/european-blackjack
+  img: european-blackjack.webp
+  lang: European Blackjack
+  type: Table Games
+  provider: PG Soft  
+  available: not-available
 - title: Summon & Conquer
   id: 17
   img: summon-and-conquer.webp
@@ -719,7 +714,6 @@
   lang: Summon & Conquer
   available: not-available
   provider: PG Soft
-  
 - title: Steampunk - Wheel of Destiny
   id: 16
   img: steampunk.webp
