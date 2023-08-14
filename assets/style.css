@@ -618,3 +618,7 @@ div.scrollmenu {
   display: block;
   padding-bottom: 10px;
 }	    
+ .disable, .disable div, #not-available {
+  opacity: 0.4 !important;
+  pointer-events: none !important;
+}
