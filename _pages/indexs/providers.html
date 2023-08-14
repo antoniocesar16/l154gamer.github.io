@@ -27,12 +27,12 @@ active: providers
         </div>
       </div>
  </div>
+ <script>
+$(document).ready(function() {
+    $("#{{ game.available }}").addClass("disable");
+}); 
+ </script>
  {% else %}
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
-<script>
-$(document).ready(function() {
-    $("#not-available").addClass("disable");
-}); 
-</script>
