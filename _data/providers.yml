@@ -1,132 +1,218 @@
 - title: Pocket Games Soft
   img: pgsoft.webp
   url: pgsoft
+  class: active
+  
 - title: Pragmatic Play
   img: pragmatic-play.webp
   url: pragmatic-play
+  class: active
+  
 - title: Reel Kingdom
   img: reel-kingdom.webp
   url: reel-kingdom
+  class: active
+  
 - title: Wild Streak Gaming
   img: wsg.webp
   url: wild-streak-gaming
+  class: active
+  
 - title: Rabcat
   img: rabcat.webp
   url: rabcat
+  class: active
+  
 - title: Red Tiger
   img: redtiger.webp
   url: redtiger
+  class: active
+  
 - title: YGGDrasil
   img: yggdrasil.webp
   url: yggdrasil
+  class: active
+  
 - title: All41 Studios
   img: all41-studios.webp
   url: all41-studios
+  class: active
+  
 - title: Stormcraft Studios
   img: stormcraft-studios.webp
   url: stormcraft-studios
+  class: active
+  
 - title: Alchemy Gaming
   img: alchemy-gaming.webp
   url: alcbemy-gaming
+  class: active
+  
 - title: NetEnt
   img: netent.webp
   url: netent
+  class: active
+  
 - title: Microgaming
   img: microgaming.webp
-  url: micrograming
+  url: microgaming
+  class: active
+  
 - title: Nolimit City
   img: nolimit-city.webp
   url: nolimit-city
+  class: active
+  
 - title: Foxium
   img: foxium.webp
   url: foxium
+  class: disabled
+  
 - title: Neon Valley Studios
   img: neon-valley-studios.webp
   url: neon-valley-studios
+  class: disabled
+  
 - title: Triple Edge Studios
   img: triple-edge-studios.webp
   url: triple-edge-studios
+  class: disabled
+  
 - title: Gameburger Studios
   img: gameburger-studios.webp
   url: gameburger-studios
+  class: disabled
+  
 - title: Relax Gaming
   img: relax-gaming.webp
   url: relax-gaming
+  class: disabled
+  
 - title: iSoftBet
   img: isoftbet.webp
   url: isofbet
+  class: disabled
+  
 - title: Just For The Win
   img: just-for-the-win.webp
   url: just-for-the-win
+  class: disabled
+  
 - title: Fortune Factory Studios
   img: fortune-factory-studios.webp
   url: fortune-factory-studios
+  class: disabled
+  
 - title: Naga Games
   img: naga-games.webp
   url: naga-games
+  class: active
+  
 - title: Eurasian Gaming
   img: eurasian-gaming.webp
   url: eurasian-gaming
+  class: active
+  
 - title: Habanero
   img: habanero.webp
   url: habanero
+  class: active
+
 - title: Advant Play
   img: advant-play.webp
   url: advant-play
+  class: active
+  
 - title: Spadegaming
   img: spadegaming.webp
   url: spadegaming
+  class: active
+  
 - title: BGaming
   img: bgaming.webp
   url: bgaming
+  class: active
+  
 - title: Playtech
   img: playtech.webp
   url: playtech
+  class: active
+  
 - title: PlayNGo
   img: playngo.webp
   url: playngo
+  class: disabled
+  
 - title: Game Global
   img: global-games.webp
   url: game-global
+  class: disabled
+  
 - title: Big Time Gaming
   img: big-time-gaming.webp
   url: big-time-gaming
+  class: disabled
+  
 - title: Booming Games
   img: booming-games.webp
   url: booming-games
+  class: disabled
+  
 - title: Reel Play
   img: reelplay.webp
   url: reelplay
+  class: disabled
+  
 - title: TopTrend Gaming
   img: toptrend-gaming.webp
   url: toptrend-gaming
+  class: disabled
+  
 - title: Elk Studios
   img: elk-studios.webp
   url: elk-studios
+  class: disabled
+  
 - title: Megaways
   img: megaways.webp
   url: megaways
+  class: active
+  
 - title: Playstar
   img: playstar.webp
   url: playstar
+  class: disabled
+  
 - title: Hacksaw Gaming
   img: hacksaw-gaming.webp
   url: hacksaw-gaming
+  class: disabled
+  
 - title: CQ9 Gaming
   img: cq9-gaming.webp
   url: cq9gaming
+  class: disabled
+  
 - title: Just Do The Best
   img: jdb.webp
   url: jdb
+  class: disabled
+  
 - title: Reevo
   img: reevo.webp
   url: reevo
+  class: disabled
+  
 - title: Dragoon Soft
   img: dragoon-soft.webp
   url: dragoonsoft
+  class: disabled
+  
 - title: KA Gaming
   img: ka-gaming.webp
   url: kagaming
+  class: disabled
+  
 - title: Evoplay
   img: evoplay.webp
   url: evoplay
