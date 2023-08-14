@@ -5,6 +5,17 @@ permalink: /providers/
 active: providers
 ---
 
+<style>
+ .disable {
+  opacity: 0.4 !important;
+  pointer-events: none !important;
+}
+/* Disable scrolling on child elements */
+.disable div,
+.disable textarea {
+  overflow: hidden !important;
+}
+</style>
 <div class="row">
  {% for game in site.data.providers %}
  <div class="col column-content s6 m6 {{ game.class }}">
