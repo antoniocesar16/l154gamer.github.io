@@ -16,7 +16,7 @@
 - title: Wild Streak Gaming
   img: wsg.webp
   url: wild-streak-gaming
-  available: not-available
+  available: available
   
 - title: Rabcat
   img: rabcat.webp
@@ -163,6 +163,11 @@
   url: pulse8studios
   available: available
 
+- title: Playtech
+  img: playtech.webp
+  url: playtech
+  available: available
+
 - title: Realtime Gaming
   img: realtime-gaming.webp  
   url: realtimegaming
@@ -172,11 +177,6 @@
   img: relax-gaming.webp
   url: relax-gaming
   available: not-available
- 
-- title: Playtech
-  img: playtech.webp
-  url: playtech
-  available: available
   
 - title: PlayNGo
   img: playngo.webp
