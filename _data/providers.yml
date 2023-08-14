@@ -36,17 +36,17 @@
 - title: All41 Studios
   img: all41-studios.webp
   url: all41-studios
-  available: not-available
+  available: available
   
 - title: Stormcraft Studios
   img: stormcraft-studios.webp
   url: stormcraft-studios
-  available: not-available
+  available: available
   
 - title: Alchemy Gaming
   img: alchemy-gaming.webp
   url: alchemy-gaming
-  available: not-available
+  available: available
   
 - title: NetEnt
   img: netent.webp
@@ -66,23 +66,28 @@
 - title: Foxium
   img: foxium.webp
   url: foxium
-  available: not-available
+  available: available
   
 - title: Neon Valley Studios
   img: neon-valley-studios.webp
   url: neon-valley-studios
-  available: not-available
+  available: available
   
 - title: Triple Edge Studios
   img: triple-edge-studios.webp
   url: triple-edge-studios
-  available: not-available
+  available: available
   
 - title: Gameburger Studios
   img: gameburger-studios.webp
   url: gameburger-studios
-  available: not-available
+  available: available
   
+- title: SpinPlay Games
+  img: spinplay-games.webp
+  url: spinplay-games
+  available: available
+
 - title: Relax Gaming
   img: relax-gaming.webp
   url: relax-gaming
@@ -96,12 +101,12 @@
 - title: Just For The Win
   img: just-for-the-win.webp
   url: just-for-the-win
-  available: not-available
+  available: available
   
 - title: Fortune Factory Studios
   img: fortune-factory-studios.webp
   url: fortune-factory-studios
-  available: not-available
+  available: available
   
 - title: Naga Games
   img: naga-games.webp
@@ -366,7 +371,7 @@
 - title: Gold Coin Studios
   img: gold-coin-studios.webp  
   url: goldcoin-studios
-  available: not-available
+  available: available
   
 - title: Nextgen Gaming
   img: nextgen-gaming.webp  
@@ -489,9 +494,9 @@
   available: not-available
   
 - title: Bigpot Gaming
-  img: bp-games.webp  
+  img: bpgaming.webp  
   url: bpgaming
-  available: not-available
+  available: available
   
 - title: Belatra Games
   img: belatra-games.webp  
