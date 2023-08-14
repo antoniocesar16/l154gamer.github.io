@@ -18,7 +18,7 @@ active: providers
 </style>
 <div class="row">
  {% for game in site.data.providers %}
- <div class="col column-content s6 m6 {{ game.class }}">
+ <div class="col column-content s6 m6" id="{{ game.class }}">
       <div class="card">
         <div class="card-image">
          <a href="{{ game.url | relative_url }}">
