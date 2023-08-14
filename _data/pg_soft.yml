@@ -397,14 +397,6 @@
   lang: Babi Emas
   provider: PG Soft
   
-- title: Sushi Oishi
-  id: 109
-  img: sushi-oishi.webp
-  url: pgsoft/sushi-oishi
-  lang: Sushi Oishi
-  provider: PG Soft
-  available: not-available
-  
 - title: Galactic Gems
   id: 86
   img: galactic-gems.webp
@@ -721,6 +713,13 @@
   lang: Steampunk - Wheel of Destiny
   available: not-available
   provider: PG Soft  
+- title: Sushi Oishi
+  id: 109
+  img: sushi-oishi.webp
+  url: pgsoft/sushi-oishi
+  lang: Sushi Oishi
+  provider: PG Soft
+  available: not-available
 
 - title: Prosperity Fortune Tree
   id: 1312883
