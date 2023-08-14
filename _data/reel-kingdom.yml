@@ -4,6 +4,7 @@
   url: reel-kingdom/spirit-adventure
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10spiritadv
   provider: Reel Kingdom
 
 - title: Emerald King
@@ -12,6 +13,7 @@
   url: reel-kingdom/emerald-king
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20eking
   provider: Reel Kingdom
 
 - title: Emerald King — Rainbow Road
@@ -20,6 +22,7 @@
   url: reel-kingdom/emerald-king-rainbow-road
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ekingrr
   provider: Reel Kingdom
 
 - title: Ultra — Hold & Spin
@@ -28,6 +31,7 @@
   url: reel-kingdom/ultra-hold-spin
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5ultra
   provider: Reel Kingdom
 
 - title: Dragon — Hot Hold & Spin
@@ -36,6 +40,7 @@
   url: reel-kingdom/dragon-hot-hold-spin
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5drhs
   provider: Reel Kingdom
 
 - title: Pizza! Pizza? Pizza!
@@ -44,6 +49,7 @@
   url: reel-kingdom/pizza
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayspizza
   provider: Reel Kingdom
 
 - title: Eye Storm
@@ -52,6 +58,7 @@
   url: reel-kingdom/eye-storm
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10eyestorm
   provider: Reel Kingdom
 
 - title: Rock Vegas
@@ -60,6 +67,7 @@
   url: reel-kingdom/rock-vegas
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20rockvegas
   provider: Reel Kingdom
 
 - title: Lucky, Grace & Charm — Mega Hold & spin
@@ -68,6 +76,7 @@
   url: reel-kingdom/lucky-grace-charm
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10luckcharm
   provider: Reel Kingdom
 
 - title: Floating Dragon — Hold & Spin
@@ -76,6 +85,7 @@
   url: reel-kingdom/floating-dragon
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10floatdrg
   provider: Reel Kingdom 
 
 - title: Snakes & Ladders
@@ -84,6 +94,7 @@
   url: reel-kingdom/snakes-ladders
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10snakeeyes
   provider: Reel Kingdom   
 
 - title: Bigger Bass Bonanza
@@ -92,6 +103,7 @@
   url: reel-kingdom/bigger-bass-bonanza
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs12bbb
   provider: Reel Kingdom
 
 - title: Big Bass Splash
@@ -100,6 +112,7 @@
   url: reel-kingdom/big-bass-splash
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10txbigbass
   provider: Reel Kingdom
 
 - title: Big Bass Bonanza — Keeping It Reel
@@ -108,6 +121,7 @@
   url: reel-kingdom/big-bass-keeping-it-reel
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbkir
   provider: Reel Kingdom
 
 - title: Christmas Big Bass Bonanza
@@ -116,6 +130,7 @@
   url: reel-kingdom/christmas-big-bass-bonanza
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bxmasbnza
   provider: Reel Kingdom
 
 - title: Bigger Bass — Blizzard Christmas Catch
@@ -124,6 +139,7 @@
   url: reel-kingdom/bigger-bass-blizzard
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs12bbbxmas
   provider: Reel Kingdom
 
 - title: Club Tropicana
@@ -132,6 +148,7 @@
   url: reel-kingdom/club-tropicana
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs12tropicana
   provider: Reel Kingdom
 
 - title: Big Bass Bonanza
@@ -140,6 +157,7 @@
   url: reel-kingdom/big-bass-bonanza
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbbonanza
   provider: Reel Kingdom
 
 - title: Big Bass Bonanza — Hold & Spinner
@@ -148,6 +166,7 @@
   url: reel-kingdom/big-bass-bonanza-hold-spinner
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbhas
   provider: Reel Kingdom
 
 - title: Star Pirates Code
@@ -156,6 +175,7 @@
   url: reel-kingdom/star-pirates-code
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10starpirate
   provider: Reel Kingdom
 
 - title: Fish Eye
@@ -164,6 +184,7 @@
   url: reel-kingdom/fish-eye
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10fisheye
   provider: Reel Kingdom
 
 - title: Tic Tac Take
@@ -172,6 +193,7 @@
   url: reel-kingdom/tic-tac-take
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10tictac
   provider: Reel Kingdom
 
 - title: Lobster Bobs Crazy Crab Shack
@@ -180,6 +202,7 @@
   url: reel-kingdom/lobster-bobs-crazy-crab-shack
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20lobcrab
   provider: Reel Kingdom
  
 - title: Lamp of Infinity
@@ -188,6 +211,7 @@
   url: reel-kingdom/lamp-of-infinity
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20lampinf
   provider: Reel Kingdom
 
 - title: Big Bass Amazon Xtreme
@@ -196,6 +220,7 @@
   url: reel-kingdom/big-bass-amazon-xtreme
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbextreme
   provider: Reel Kingdom
 
 - title: Book of Kingdoms
@@ -204,67 +229,86 @@
   url: reel-kingdom/book-of-kingdoms
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25bkofkngdm
   provider: Reel Kingdom
+
 - title: Return of The Dead
   symbol: vs10returndead
   img: return-of-the-dead.webp
   url: reel-kingdom/return-of-the-dead
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10returndead
   provider: Reel Kingdom
+
 - title: Hot To Burn
   symbol: vs5hotburn
   img: hot-to-burn.webp
   url: reel-kingdom/hot-to-burn
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5hotburn
   provider: Reel Kingdom
+
 - title: Hot To Burn — Hold & Spin
   symbol: vs20hburnhs
   img: hot-to-burn-hold-spin.webp
   url: reel-kingdom/hot-to-burn-hold-and-spin
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hburnhs
   provider: Reel Kingdom
+
 - title: Hot To Burn Extreme
   symbol: vs40hotburnx
   img: hot-to-burn-extreme.webp
   url: reel-kingdom/hot-to-burn-extreme
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40hotburnx
   provider: Reel Kingdom
+
 - title: Ultra Burn
   symbol: vs5ultrab
   img: ultra-burn.webp
   url: reel-kingdom/ultra-burn
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5ultrab
   provider: Reel Kingdom
+
 - title: Cash Elevator
   symbol: vs20terrorv
   img: cash-elevator.webp
   url: reel-kingdom/cash-elevator
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20terrorv
   provider: Reel Kingdom
+
 - title: Little Gem — Hot & Spin
   symbol: vs5littlegem
   img: little-gem.webp
   url: reel-kingdom/little-gem
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5littlegem
   provider: Reel Kingdom
+
 - title: Magic Money Maze
   symbol: vs10mmm
   img: magic-money-maze.webp
   url: reel-kingdom/magic-money-maze
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10mmm
   provider: Reel Kingdom
+
 - title: Floating Dragon – Dragon Boat Festival
   symbol: vs10fdrasbf
   img: floating-dragon-boat-festival.webp
   url: reel-kingdom/floating-dragon-boat-festival
   currency: idr
   lang: id
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10fdrasbf
   provider: Reel Kingdom
