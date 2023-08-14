@@ -87,11 +87,6 @@
   img: spinplay-games.webp
   url: spinplay-games
   available: available
-
-- title: Relax Gaming
-  img: relax-gaming.webp
-  url: relax-gaming
-  available: not-available
   
 - title: iSoftBet
   img: isoftbet.webp
@@ -158,10 +153,15 @@
   url: bpgaming
   available: available
 
+- title: Relax Gaming
+  img: relax-gaming.webp
+  url: relax-gaming
+  available: not-available
+ 
 - title: Playtech
   img: playtech.webp
   url: playtech
-  available: not-available
+  available: available
   
 - title: PlayNGo
   img: playngo.webp
