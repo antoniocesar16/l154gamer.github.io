@@ -5,6 +5,23 @@ permalink: /pgsoft/
 active: pgsoft
 ---
 
+<style>
+  .disable {
+  /* Note: pointer-events not supported by IE10 and under */
+  pointer-events: none !important;
+  opacity: 0.4 !important;
+  }
+ #not-available {
+  /* Note: pointer-events not supported by IE10 and under */
+  pointer-events: none !important;
+  opacity: 0.4 !important;
+ }
+/* Disable scrolling on child elements */
+.disable div,
+.disable textarea {
+  overflow: hidden;
+}
+</style>
 <div class="row">
  {% for game in site.data.pg_soft %}
  <div id="{{ game.available }}">
@@ -30,3 +47,8 @@ active: pgsoft
   <p>Tidak ada data.</p>
  {% endfor %}
 </div>
+<script>
+$(document).ready(function() {
+    $("#not-available").addClass("disable");
+});	
+</script>
