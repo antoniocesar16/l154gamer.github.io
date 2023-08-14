@@ -137,7 +137,27 @@
   img: bgaming.webp
   url: bgaming
   available: available
-  
+
+- title: Megaways
+  img: megaways.webp
+  url: megaways
+  available: available
+
+- title: Peter & Sons
+  img: peter-sons.webp
+  url: peter-and-sons
+  available: available
+
+- title: Gold Coin Studios
+  img: gold-coin-studios.webp  
+  url: goldcoin-studios
+  available: available
+
+- title: Bigpot Gaming
+  img: bpgaming.webp  
+  url: bpgaming
+  available: available
+
 - title: Playtech
   img: playtech.webp
   url: playtech
@@ -177,11 +197,6 @@
   img: elk-studios.webp
   url: elk-studios
   available: not-available
-  
-- title: Megaways
-  img: megaways.webp
-  url: megaways
-  available: available
   
 - title: Playstar
   img: playstar.webp
@@ -282,11 +297,6 @@
   img: quick-spin.webp
   url: quickspin
   available: not-available
-
-- title: Peter & Sons
-  img: peter-sons.webp
-  url: peter-and-sons
-  available: available
   
 - title: Iron Dog Studios
   img: iron-dog-studio.webp
@@ -367,12 +377,7 @@
   img: red-rake-gaming.webp
   url: redrake-gaming
   available: not-available
-  
-- title: Gold Coin Studios
-  img: gold-coin-studios.webp  
-  url: goldcoin-studios
-  available: available
-  
+
 - title: Nextgen Gaming
   img: nextgen-gaming.webp  
   url: nextgen-gaming
@@ -492,11 +497,6 @@
   img: gong-gaming.webp  
   url: gong-gaming
   available: not-available
-  
-- title: Bigpot Gaming
-  img: bpgaming.webp  
-  url: bpgaming
-  available: available
   
 - title: Belatra Games
   img: belatra-games.webp  
