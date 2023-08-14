@@ -153,6 +153,21 @@
   url: bpgaming
   available: available
 
+- title: Northernlights Gaming
+  img: northernlights.webp  
+  url: northernlights
+  available: available
+
+- title: Pulse 8 Studios
+  img: pulse8studios.webp  
+  url: pulse8studios
+  available: available
+
+- title: Realtime Gaming
+  img: realtime-gaming.webp  
+  url: realtimegaming
+  available: available
+  
 - title: Relax Gaming
   img: relax-gaming.webp
   url: relax-gaming
