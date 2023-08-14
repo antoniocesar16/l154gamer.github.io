@@ -1,12 +1,10 @@
 - title: Sahara Riches Megaways
-  img: sahara-riches.webp
-  url: playtech/sahara-riches
+  img: megaways/sahara-riches.webp
   currency: IDR
   lang: id
   provider: Playtech
 - title: Buffalo Blitz Megaways
-  img: buffalo-blitz.webp
-  url: playtech/buffalo-blitz
+  img: megaways/buffalo-blitz.webp
   currency: IDR
   lang: id
   provider: Playtech
