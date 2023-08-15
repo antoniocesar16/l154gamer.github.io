@@ -168,6 +168,11 @@
   url: playtech
   available: available
 
+- title: PlayNGo
+  img: playngo.webp
+  url: playngo
+  available: available
+
 - title: Realtime Gaming
   img: realtime-gaming.webp  
   url: realtimegaming
@@ -176,11 +181,6 @@
 - title: Relax Gaming
   img: relax-gaming.webp
   url: relax-gaming
-  available: not-available
-  
-- title: PlayNGo
-  img: playngo.webp
-  url: playngo
   available: not-available
   
 - title: Game Global
