@@ -173,14 +173,14 @@
   url: playngo
   available: available
 
-- title: Realtime Gaming
-  img: realtime-gaming.webp  
-  url: realtimegaming
-  available: not-available
-  
 - title: Relax Gaming
   img: relax-gaming.webp
   url: relax-gaming
+  available: available
+
+- title: Realtime Gaming
+  img: realtime-gaming.webp  
+  url: realtimegaming
   available: not-available
   
 - title: Game Global
