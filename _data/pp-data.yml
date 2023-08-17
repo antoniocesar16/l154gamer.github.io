@@ -1678,3 +1678,11 @@ joker-race:
   url: pragmatic-play/joker-race
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25jokrace
   provider: Pragmatic Play
+mahjong-wins:
+  title: Mahjong Wins
+  symbol: vs1024mahjwins
+  img: mahjong-wins.webp
+  lang: ID
+  url: pragmatic-play/mahjong-wins
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjwins
+  provider: Pragmatic Play
