@@ -1015,7 +1015,9 @@ towering-fortunes:
   url: pragmatic-play/towering-fortunes
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20theights
   provider: Pragmatic Play
+  
 great-rhino:
   title: Great Rhino
   symbol: vs20rhino
@@ -1023,7 +1025,9 @@ great-rhino:
   url: pragmatic-play/great-rhino
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20rhino
   provider: Pragmatic Play
+  
 great-rhino-deluxe:
   title: Great Rhino Deluxe
   symbol: vs20rhinoluxe
@@ -1031,7 +1035,9 @@ great-rhino-deluxe:
   url: pragmatic-play/great-rhino-deluxe
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20rhinoluxe
   provider: Pragmatic Play
+  
 gold-rush:
   title: Gold Rush
   symbol: vs25goldrush
@@ -1039,7 +1045,9 @@ gold-rush:
   url: pragmatic-play/gold-rush
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25goldrush
   provider: Pragmatic Play
+  
 aztec-gates:
   title: Gates of Aztec
   symbol: vs20aztecgates
@@ -1047,7 +1055,9 @@ aztec-gates:
   url: pragmatic-play/aztec-gates
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20aztecgates
   provider: Pragmatic Play
+  
 hokkaido-wolf:
   title: Hokkaido Wolf
   symbol: vs576hokkwolf
@@ -1055,7 +1065,9 @@ hokkaido-wolf:
   url: pragmatic-play/hokkaido-wolf
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs576hokkwolf
   provider: Pragmatic Play
+  
 super7s:
   title: Super 7s™
   symbol: vs5super7
@@ -1063,7 +1075,9 @@ super7s:
   url: pragmatic-play/super7s
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5super7
   provider: Pragmatic Play  
+  
 monster-superlanche:
   title: Monster Superlanche
   symbol: vs20superlanche
@@ -1071,6 +1085,9 @@ monster-superlanche:
   url: pragmatic-play/monster-superlanche
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20superlanche
+  provider: Pragmatic Play
+
 tiger-warrior:
   title: Tiger Warrior
   symbol: vs25tigerwar
@@ -1078,7 +1095,9 @@ tiger-warrior:
   url: pragmatic-play/tiger-warrior
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25tigerwar
   provider: Pragmatic Play
+  
 street-racer:
   title: Street Racer
   symbol: vs40streetracer
@@ -1086,7 +1105,9 @@ street-racer:
   url: pragmatic-play/street-racer
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40streetracer
   provider: Pragmatic Play
+  
 star-bounty:
   title: Star Bounty
   symbol: vswayshive
@@ -1094,7 +1115,9 @@ star-bounty:
   url: pragmatic-play/star-bounty
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayshive
   provider: Pragmatic Play
+  
 fire-archer:
   title: Fire Archer
   symbol: vs25archer
@@ -1102,7 +1125,9 @@ fire-archer:
   url: pragmatic-play/fire-archer
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25archer
   provider: Pragmatic Play  
+  
 atlantis-queen:
   title: Queen of Atlantis
   symbol: vs1024atlantis
@@ -1110,7 +1135,9 @@ atlantis-queen:
   url: pragmatic-play/queen-of-atlantis
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024atlantis
   provider: Pragmatic Play
+  
 aladdins-treasure:
   title: Aladdin's Treasure
   symbol: vs50amt
@@ -1118,7 +1145,9 @@ aladdins-treasure:
   url: pragmatic-play/aladdins-treasure
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50amt
   provider: Pragmatic Play
+  
 pirate-gold-deluxe:
   title: Pirate Gold Deluxe
   symbol: vs40pirgold
@@ -1126,7 +1155,9 @@ pirate-gold-deluxe:
   url: pragmatic-play/pirate-gold-deluxe
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40pirgold
   provider: Pragmatic Play
+  
 fruit-rainbow:
   title: Fruit Rainbow
   symbol: vs40frrainbow
@@ -1134,7 +1165,9 @@ fruit-rainbow:
   url: pragmatic-play/fruit-rainbow
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40frrainbow
   provider: Pragmatic Play   
+  
 mahjong-panda:
   title: Mahjong Panda
   symbol: vs1024mahjpanda
@@ -1142,7 +1175,9 @@ mahjong-panda:
   url: pragmatic-play/mahjong-panda
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjpanda
   provider: Pragmatic Play
+  
 wild-beach-party:
   title: Wild Beach Party
   symbol: vs20bchprty
@@ -1150,7 +1185,9 @@ wild-beach-party:
   url: pragmatic-play/wild-beach-party
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20bchprty
   provider: Pragmatic Play
+  
 jasmine-dreams:
   title: Jasmine Dreams
   symbol: vs20mvwild
@@ -1158,7 +1195,9 @@ jasmine-dreams:
   url: pragmatic-play/jasmine-dreams
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mvwild
   provider: Pragmatic Play  
+  
 cowboy-coins:
   title: Cowboy Coins
   symbol: vswaysultrcoin
@@ -1166,7 +1205,9 @@ cowboy-coins:
   url: pragmatic-play/cowboy-coins
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysultrcoin
   provider: Pragmatic Play   
+  
 vegas-nights:
   title: Vegas Nights
   symbol: vs25vegas
@@ -1174,7 +1215,9 @@ vegas-nights:
   url: pragmatic-play/vegas-nights
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25vegas
   provider: Pragmatic Play
+  
 pinup-girls:
   title: Pinup Girls
   symbol: vs20ltng
@@ -1182,7 +1225,9 @@ pinup-girls:
   url: pragmatic-play/pinup-girls
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ltng
   provider: Pragmatic Play
+  
 flying-hippo:
   title: Flying Hippo
   symbol: vs20hippos
@@ -1190,15 +1235,9 @@ flying-hippo:
   url: pragmatic-play/flying-hippo
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hippos
   provider: Pragmatic Play
-flying-hippo:
-  title: Flying Hippo
-  symbol: vs20hippos
-  img: flying-hippo.webp
-  url: pragmatic-play/flying-hippo
-  currency: idr
-  lang: id
-  provider: Pragmatic Play
+  
 wild-wild-bananas:
   title: Wild wild Bananas
   symbol: vswayswwhex
@@ -1206,7 +1245,9 @@ wild-wild-bananas:
   url: pragmatic-play/wild-wild-bananas
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswwhex
   provider: Pragmatic Play
+  
 cash-patrol:
   title: Cash Patrol
   symbol: vs25copsrobbers
@@ -1214,7 +1255,9 @@ cash-patrol:
   url: pragmatic-play/cash-patrol
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25copsrobbers
   provider: Pragmatic Play
+  
 greedy-wolf:
   title: Greedy Wolf
   symbol: vs20wolfie
@@ -1222,7 +1265,9 @@ greedy-wolf:
   url: pragmatic-play/greedy-wolf
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20wolfie
   provider: Pragmatic Play
+  
 drago-jewels:
   title: Drago Jewels of Fortune
   symbol: vs1600drago
@@ -1230,7 +1275,9 @@ drago-jewels:
   url: pragmatic-play/drago-jewels
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1600drago
   provider: Pragmatic Play
+  
 wild-west-duels:
   title: Wild West Duels
   symbol: vs20pistols
@@ -1238,7 +1285,9 @@ wild-west-duels:
   url: pragmatic-play/wild-west-duels
   currency: idr
   lang: id
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20pistols
   provider: Pragmatic Play
+  
 yum-yum-powerways:
   title: Yum Yum Powerways
   symbol: vswaysyumyum
