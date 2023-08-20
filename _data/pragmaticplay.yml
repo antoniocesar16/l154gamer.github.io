@@ -1490,3 +1490,61 @@
   currency: idr
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20starlightx
+
+- title: The Wild Machine
+  symbol: vs40madwheel
+  img: the-wild-machine.webp
+  url: pragmatic-play/wild-machine
+  currency: idr
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40madwheel
+  
+- title: Sweet Power Nudge 
+  symbol: vs20clspwrndg
+  img: sweet-power-nudge.webp
+  url: pragmatic-play/sweet-power-nudge
+  currency: idr
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20clspwrndg
+  
+- title: Hot Pepper
+  symbol: vs20dugems
+  img: hot-pepper.webp
+  url: pragmatic-play/hot-pepper
+  currency: idr
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20dugems
+  
+- title: North Guardians
+  symbol: vs50northgard
+  img: north-guardians.webp
+  url: pragmatic-play/north-guardians
+  currency: idr
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50northgard
+  
+- title: Gates of Valhalla
+  symbol: vs10runes
+  img: valhalla-gates.webp
+  url: pragmatic-play/valhalla-gates
+  currency: idr
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10runes
+  
+- title: Santa's Wonderland
+  symbol: vs20santawonder
+  img: santas-wonderland.webp
+  url: pragmatic-play/santas-wonderland
+  currency: idr
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20santawonder
+  
+- title: Santa
+  symbol: vs20santa
+  img: santa.webp
+  url: pragmatic-play/santa
+  currency: idr
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20santa
+
+  
