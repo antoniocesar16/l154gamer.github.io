@@ -2470,3 +2470,31 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs100sh
 
+- title: Fire Hot 5
+  symbol: vs5firehot
+  img: fire-hot5.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5firehot
+
+- title: Fire Hot 20
+  symbol: vs20fh
+  img: fire-hot20.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fh
+
+- title: Fire Hot 40
+  symbol: vs40firehot
+  img: fire-hot40.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40firehot
+
+- title: Fire Hot 100
+  symbol: vs100firehot
+  img: fire-hot100.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs100firehot
+
