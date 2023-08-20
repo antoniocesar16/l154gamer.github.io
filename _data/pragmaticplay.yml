@@ -96,7 +96,6 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wildwest
   buy_free_spins: Ya
-  provider: Pragmatic Play
   
 - title: Wild West Duels
   symbol: vs20pistols
@@ -595,6 +594,7 @@
   available: available
   url: pragmatic-play/megaways/rocket-blast-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrockblst
+  provider: Pragmatic Play
   line: Megaways
 
 - title: Slot Mania Candy 
@@ -603,6 +603,8 @@
   available: available
   url: pragmatic-play/slotmania-candy-village
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slmancan
+  provider: Pragmatic Play
+  line: Slot Mania
 
 - title: Slot Mania Rabbit 
   symbol: vs20smrabbit
@@ -610,6 +612,8 @@
   available: available
   url: pragmatic-play/slotmania-rabbit
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smrabbit
+  provider: Pragmatic Play
+  line: Slot Mania
 
 - title: Diamond Cascade 
   symbol: vs50dmdcascade
@@ -617,6 +621,7 @@
   available: available
   url: pragmatic-play/diamond-cascade
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50dmdcascade
+  provider: Pragmatic Play
 
 - title: Saiyan Mania
   symbol: vs20saiman
@@ -624,6 +629,7 @@
   available: available
   url: pragmatic-play/saiyan-mania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20saiman
+  provider: Pragmatic Play
 
 - title: Hellvis Wild
   symbol: vs243nudge4gold
@@ -631,6 +637,7 @@
   available: available
   url: pragmatic-play/hellvis-wild
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243nudge4gold
+  provider: Pragmatic Play
 
 - title: Joker Race
   symbol: vs25jokrace
@@ -638,6 +645,7 @@
   available: available
   url: pragmatic-play/joker-race
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25jokrace
+  provider: Pragmatic Play
 
 - title: Mahjong Wins
   symbol: vs1024mahjwins
@@ -645,6 +653,7 @@
   available: available
   url: pragmatic-play/mahjong-wins
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjwins
+  provider: Pragmatic Play
 
 - title: Wild West Gold Megaways
   symbol: vswayswildwest
@@ -654,6 +663,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswildwest
   line: Megaways
+  
 - title: Aztec King Megaways
   symbol: vswaysaztecking
   img: aztec-king-megaways.webp
@@ -662,6 +672,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysaztecking
   line: Megaways
+  
 - title: Mammoth Gold Megaways
   symbol: vs20mammoth
   img: mammoth-gold.webp
@@ -670,6 +681,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mammoth
   line: Megaways
+  
 - title: Power of Thor Megaways
   symbol: vswayshammthor
   img: megaways-thor.webp
@@ -678,6 +690,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayshammthor
   line: Megaways
+  
 - title: 5 Rabbits Megaways
   symbol: vswaysrabbits
   img: megaways-rabbits.webp
@@ -686,6 +699,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrabbits
   line: Megaways 
+  
 - title: 5 Lions Megaways
   symbol: vswayslions
   img: megaways-lions.webp
@@ -694,6 +708,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayslions
   line: Megaways
+  
 - title: Extra Juicy Megaways
   symbol: vswaysxjuicy
   img: megaways-extra-juicy.webp
@@ -702,6 +717,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysxjuicy
   line: Megaways
+  
 - title: Great Rhino Megaways
   symbol: vswaysrhino
   img: great-rhino-megaways.webp
@@ -710,6 +726,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrhino
   line: Megaways
+  
 - title: Crystal Caverns Megaways
   symbol: vswayscryscav
   img: crystal-caverns.webp
@@ -718,6 +735,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayscryscav
   line: Megaways  
+  
 - title: Floating Dragon Megaways
   symbol: vswaysfltdrg
   img: floating-dragon.webp
@@ -726,6 +744,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfltdrg
   line: Megaways
+  
 - title: The Dog House Megaways
   symbol: vswaysdogs
   img: megaways-dog-house.webp
@@ -734,6 +753,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysdogs
   line: Megaways
+  
 - title: Legend of Heroes Megaways
   symbol: vswayslofhero
   img: megaways-legend-of-heroes.webp
@@ -742,6 +762,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayslofhero
   line: Megaways
+  
 - title: Rise of Samurai Megaways
   symbol: vswayssamurai
   img: megaways-risesamurai.webp
@@ -750,6 +771,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayssamurai
   line: Megaways
+  
 - title: Elemental Gems Megaways
   symbol: vswayselements
   img: elemental-gems-megaways.webp
@@ -758,6 +780,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayselements
   line: Megaways
+  
 - title: Lucky Fishing Megaways
   symbol: vswaysluckyfish
   img: lucky-fishing-megaways.webp
@@ -766,6 +789,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysluckyfish
   line: Megaways
+  
 - title: Madame Destiny Megaways
   symbol: vswaysmadame
   img: madame-destiny-megaways.webp
@@ -774,6 +798,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmadame
   line: Megaways
+  
 - title: Big Bass Bonanza Megaways
   symbol: vswaysbbb
   img: big-bass-bonanza-megaways.webp
@@ -782,6 +807,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbbb
   line: Megaways
+  
 - title: Wild Wild Riches Megaways
   symbol: vswayswwriches
   img: wild-wild-riches-megaways.webp
@@ -790,6 +816,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswwriches
   line: Megaways 
+  
 - title: Spin & Score Megaways
   symbol: vswaysfrywld
   img: spin-score-megaways.webp
@@ -798,6 +825,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfrywld
   line: Megaways
+  
 - title: Buffalo King Megaways
   symbol: vswaysbufking
   img: buffalo-king-megaways.webp
@@ -806,6 +834,7 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbufking
   line: Megaways
+  
 - title: Wild Celebrity Bus Megaways
   symbol: vswaysrsm
   img: wild-celebrity-bus-megaways.webp
@@ -813,6 +842,8 @@
   url: pragmatic-play/megaways/wild-celebrity-bus-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrsm
   line: Megaways
+  provider: Pragmatic Play
+  
 - title: Old Gold Miner Megaways
   symbol: vswaysoldminer
   img: old-gold-miner-megaways.webp
@@ -820,13 +851,17 @@
   url: pragmatic-play/megaways/old-gold-miner-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysoldminer
   line: Megaways
+  provider: Pragmatic Play
+  
 - title: Chilli Heat Megaways
   symbol: vswayschilheat
   img: chilli-heat-megaways.webp
   lang: En
   url: pragmatic-play/megaways/chilli-heat-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayschilheat
+  provider: Pragmatic Play
   line: Megaways
+  
 - title: Power of Merlin Megaways 
   symbol: vswayspowzeus
   img: power-of-merlin-megaways.webp
@@ -834,6 +869,8 @@
   url: pragmatic-play/megaways/power-of-merlin-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayspowzeus
   line: Megaways
+  provider: Pragmatic Play
+  
 - title: Starz Megaways 
   symbol: vs117649starz
   img: starz-megaways.webp
@@ -841,6 +878,8 @@
   url: pragmatic-play/megaways/starz-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs117649starz
   line: Megaways
+  provider: Pragmatic Play
+  
 - title: Madame Mystique Megaways 
   symbol: vswaysmadameh
   img: madame-mystique-megaways.webp
@@ -848,6 +887,8 @@
   url: pragmatic-play/megaways/madame-mystique-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmadameh
   line: Megaways
+  provider: Pragmatic Play
+  
 - title: Curse of The Werewolf Megaways 
   symbol: vswayswerewolf
   img: curse-of-the-werewolf-megaways.webp
@@ -855,6 +896,7 @@
   url: pragmatic-play/megaways/curse-of-the-werewolf-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswerewolf
   line: Megaways
+  provider: Pragmatic Play
   
 - title: A Christmas Carol Megaways 
   symbol: vs20xmascarol
@@ -863,6 +905,7 @@
   url: pragmatic-play/megaways/christmas-carol-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmascarol
   line: Megaways
+  provider: Pragmatic Play
   
 - title: Muertos Multiplier Megaways 
   symbol: vs20muertos
@@ -871,6 +914,7 @@
   url: pragmatic-play/megaways/muertos-multiplier-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20muertos
   line: Megaways
+  provider: Pragmatic Play
   
 - title: Fury of Odin Megaways 
   symbol: vswaysfuryodin
@@ -879,6 +923,7 @@
   url: pragmatic-play/megaways/fury-of-odin-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfuryodin
   line: Megaways
+  provider: Pragmatic Play
 
 - title: Fairytale Fortune
   symbol: vs15fairytale
@@ -887,7 +932,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs15fairytale
-  permalink: 
+  
 - title: John Hunter and The Book of Tut
   symbol: vs10bookoftut
   img: john-hunter-tut-book.webp
@@ -895,7 +940,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bookoftut
-  permalink: 
+  
 - title: John Hunter and The Book of Tut Respin
   symbol: vs10tut
   img: john-hunter-book-tut-respin.webp
@@ -903,7 +948,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10tut
-  permalink: 
+  
 - title: John Hunter and the Aztec Treasure
   symbol: vs7776secrets
   img: john-hunter-aztec-treasure.webp
@@ -911,7 +956,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs7776secrets
-  permalink: 
+  
 - title: John Hunter and The Quest for Bermuda Riches
   symbol: vs20bermuda
   img: john-hunter-bermuda.webp
@@ -919,7 +964,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20bermuda
-  permalink: 
+  
 - title: John Hunter and The Secrets of Da Vinci's Treasure
   symbol: vs25davinci
   img: john-hunter-da-vinci.webp
@@ -927,7 +972,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25davinci
-  permalink: 
+  
 - title: John Hunter and the Tomb of the Scarab Queen
   symbol: vs25scarabqueen
   img: john-hunter-scarab-queen.webp
@@ -935,7 +980,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25scarabqueen
-  permalink: 
+  
 - title: John Hunter and the Mayan Gods
   symbol: vs10mayangods
   img: john-hunter-mayan-gods.webp
@@ -943,7 +988,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10mayangods
-  permalink: 
+ 
 - title: Book of Fallen
   symbol: vs10bookfallen
   img: book-of-fallen.webp
@@ -951,7 +996,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bookfallen
-  permalink: 
+  
 - title: Wild Gladiator
   symbol: vs25gladiator
   img: wild-gladiators.webp
@@ -959,7 +1004,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25gladiator
-  permalink: 
+  
 - title: Book of Golden Sands
   symbol: vswaysbook
   img: book-of-golden-sands.webp
@@ -967,7 +1012,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbook
-  permalink: 
+  
 - title: Peking Luck 
   symbol: vs25peking
   img: peking-luck.webp
@@ -975,7 +1020,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25peking
-  permalink: 
+  
 - title: 3 Kingdoms - Battle of Red Cliffs
   symbol: vs25kingdoms
   img: 3kingdoms.webp
@@ -983,7 +1028,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25kingdoms
-  permalink: 
+  
 - title: Monkey Madness
   symbol: vs9madmonkey
   img: monkey-madness.webp
@@ -991,7 +1036,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9madmonkey
-  permalink: 
+  
 - title: Empty The Bank
   symbol: vs20emptyban
   img: empty-the-bank.webp
@@ -999,7 +1044,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20emptyban
-  permalink: 
+  
 - title: Day of Dead
   symbol: vs20daydead
   img: day-of-dead.webp
@@ -1007,7 +1052,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20daydead
-  permalink: 
+  
 - title: Disco Lady
   symbol: vs243discolady
   img: disco-lady.webp
@@ -1015,7 +1060,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243discolady
-  permalink: 
+  
 - title: Smugglers Cove
   symbol: vs20smugcove
   img: smugglers-cove.webp
@@ -1023,7 +1068,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smugcove
-  permalink: 
+  
 - title: Wild Depths
   symbol: vs40wanderw
   img: wild-depths.webp
@@ -1031,7 +1076,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wanderw
-  permalink:   
+  
 - title: Hot Safari
   symbol: vs25safari
   img: hot-safari.webp
@@ -1039,7 +1084,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25safari
-  permalink:  
+  
 - title: Safari King
   symbol: vs50safariking
   img: safari-king.webp
@@ -1047,7 +1092,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50safariking
-  permalink:  
+  
 - title: Bronco Spirit
   symbol: vs75bronco
   img: bronco-spirit.webp
@@ -1055,7 +1100,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs75bronco
-  permalink:  
+  
 - title: Jungle Gorilla
   symbol: vs20gorilla
   img: jungle-gorilla.webp
@@ -1063,7 +1108,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gorilla
-  permalink:  
+ 
 - title: Wolf Gold
   symbol: vs25wolfgold
   img: wolf-gold.webp
@@ -1071,7 +1116,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25wolfgold
-  permalink:  
+ 
 - title: Vampires VS Wolves
   symbol: vs10vampwolf
   img: vampires-vs-wolves.webp
@@ -1079,7 +1124,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10vampwolf
-  permalink:  
+  
 - title: Rabbit Garden
   symbol: vs20goldclust
   img: rabbit-garden.webp
@@ -1087,7 +1132,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20goldclust
-  permalink:  
+  
 - title: African Elephant
   symbol: vs20hotzone
   img: african-elephant.webp
@@ -1095,7 +1140,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20hotzone
-  permalink:  
+  
 - title: Fruits of the Amazon
   symbol: vs20framazon
   img: fruits-of-the-amazon.webp
@@ -1103,7 +1148,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20framazon
-  permalink:  
+  
 - title: The Red Queen
   symbol: vswaysredqueen
   img: the-red-queen.webp
@@ -1111,7 +1156,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysredqueen
-  permalink:  
+  
 - title: Moonshot
   symbol: vs1024moonsh
   img: moonshot.webp
@@ -1119,7 +1164,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024moonsh
-  permalink:  
+  
 - title: Jewel Rush
   symbol: vs20jewelparty
   img: jewel-rush.webp
@@ -1127,7 +1172,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20jewelparty
-  permalink:  
+  
 - title: Wisdom of Athena
   symbol: vs20procount
   img: wisdom-of-athena.webp
@@ -1135,7 +1180,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20procount
-  permalink:  
+  
 - title: Pirates Pub
   symbol: vs9outlaw
   img: pirate-pub.webp
@@ -1143,7 +1188,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9outlaw
-  permalink:  
+  
 - title: Knight Hot Spotz
   symbol: vs25spotz
   img: knight-hot-spotz.webp
@@ -1151,7 +1196,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25spotz
-  permalink:  
+  
 - title: Kingdom of the Dead
   symbol: vs10kingofdth
   img: kingdom-of-the-dead.webp
@@ -1159,7 +1204,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10kingofdth
-  permalink:  
+  
 - title: Frogs & Bugs
   symbol: vswaysfrbugs
   img: frogs-and-bugs.webp
@@ -1167,7 +1212,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfrbugs
-  permalink:  
+  
 - title: Robber Strike
   symbol: vs4096robber
   img: robber-strike.webp
@@ -1175,7 +1220,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs4096robber
-  permalink:  
+  
 - title: Sticky Bees
   symbol: vs20clustwild
   img: sticky-bees.webp
@@ -1183,7 +1228,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20clustwild
-  permalink: 
+ 
 - title: Gates of Hades
   symbol: vs20ghades
   img: gates-of-hades.webp
@@ -1191,7 +1236,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ghades
-  permalink: 
+  
 - title: Zeus Vs Hades
   symbol: vs15godsofwar
   img: zeus-vs-hades.webp
@@ -1199,7 +1244,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs15godsofwar
-  permalink: 
+  
 - title: Jane Hunter & The Mask of Montezuma
   symbol: vs10jnmntzma
   img: jane-hunter.webp
@@ -1207,7 +1252,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10jnmntzma
-  permalink: 
+ 
 - title: Secret City Gold
   symbol: vs25spgldways
   img: secret-city-gold.webp
@@ -1215,7 +1260,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25spgldways
-  permalink: 
+ 
 - title: Queen of Gods
   symbol: vs10egrich
   img: queen-of-gods.webp
@@ -1223,7 +1268,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10egrich
-  permalink: 
+  
 - title: Krakens Sky Bounty
   symbol: vs50jucier
   img: sky-bounty.webp
@@ -1231,7 +1276,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50jucier
-  permalink: 
+  
 - title: 3 Buzzing Wilds
   symbol: vs20wildparty
   img: 3buzzing-wilds.webp
@@ -1239,7 +1284,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20wildparty
-  permalink: 
+  
 - title: The Catfather
   symbol: vs9catz
   img: the-catfather.webp
@@ -1247,7 +1292,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9catz
-  permalink: 
+  
 - title: Guarana Eyes of The Amazon
   symbol: vs20guarush
   img: guarana-eyes-of-the-amazon.webp
@@ -1255,7 +1300,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20guarush
-  permalink: 
+ 
 - title: Sugar Twist
   symbol: vs20sugarrushh
   img: sugar-twist.webp
