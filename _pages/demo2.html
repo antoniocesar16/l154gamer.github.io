@@ -8,7 +8,7 @@ permalink: /demo2/
 <div class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid><!-- Grids -->
 <!-- Grid 1 -->     
 {% for game in site.data.pg_soft %}	
-<div data-pilih="{{ game.buy_spin }}" data-pilih="{{ game.type }}" class="uk-width-1-2 bc">
+<div {% if site.data.pg_soft.buy_spin %} data-pilih="{{ game.buy_spin }}" {% else %} data-pilih="{{ game.type }} {% endif %}" class="uk-width-1-2 bc">
  <div class="uk-card uk-card-default"><!-- card --> 
   <div class="uk-card-media-top"><!-- card img -->                
    <a class="uk-link-toggle" target="modal_iframe" onClick="showModal()" href="{{ game.permalink }}" uk-toggle="target: #modal"><img src="../assets/img/pgsoft/{{ game.img }}" width="1800" height="1200" alt="" class="uk-box-shadow-bottom"></a>
