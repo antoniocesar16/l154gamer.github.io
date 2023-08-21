@@ -11,7 +11,7 @@
   url: pgsoft/mahjong-ways2
   id: 74
   lang: Cara Mahyong 2
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Lucky Neko
@@ -19,7 +19,7 @@
   url: pgsoft/lucky-neko
   id: 89
   lang: Neko Yang Beruntung
-  buy_free_spins: Tidak
+  buy_spin: Ya
   provider: PG Soft
   
 - title: Wild Bandito
@@ -27,7 +27,7 @@
   url: pgsoft/wild-bandito
   id: 104
   lang: Bandit Yang Liar
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Medusa - The Curse of Athena
@@ -35,7 +35,7 @@
   url: pgsoft/medusa
   id: 7
   lang: Medusa - Kutukan Athena
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Medusa II - The Quest of Perseus
@@ -43,7 +43,7 @@
   url: pgsoft/medusa2
   id: 6
   lang: Medusa II - Petualangan Perseus
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Dragon Hatch
@@ -795,7 +795,7 @@
   img: super-golf-drive.webp
   url: pgsoft/super-golf-drive
   lang: Super Golf Drive
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Lucky Clover Lady
@@ -803,6 +803,7 @@
   img: lucky-clover-lady.webp
   url: pgsoft/lucky-clover-lady
   lang: Lucky Clover Lady
+  buy_spin: Ya
   provider: PG Soft
 
 - title: Majestic Treasures
@@ -810,6 +811,7 @@
   img: majestic-treasures.webp
   url: pgsoft/majestic-treasures
   lang: Harta Karun Megah
+  buy_spin: Tidak
   provider: PG Soft
 
 - title: Fruity Candy
@@ -818,7 +820,7 @@
   url: pgsoft/fruity-candy
   lang: Permen Buah
   type: Video Slots
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: PG Soft 
 
 - title: Cruise Royale
@@ -827,4 +829,5 @@
   url: pgsoft/cruise-royale
   lang: Cruise Royale
   type: Video Slots
+  buy_spin: Ya
   provider: PG Soft 
