@@ -3,7 +3,7 @@
   url: pgsoft/mahjong-ways
   id: 65
   lang: Cara Mahyong
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Mahjong Ways 2
@@ -102,6 +102,7 @@
   url: pgsoft/aztec-treasures
   id: 87
   lang: Harta Karun Aztek
+  buy_spin: Ya
   provider: PG Soft
   
 - title: Garuda Gems
@@ -215,6 +216,7 @@
   url: pgsoft/wild-bounty-showdown
   id: 135
   lang: Perebutan Hadiah Wild
+  buy_spin: Ya
   provider: PG Soft
   
 - title: Bikini Paradise
@@ -357,6 +359,7 @@
   url: pgsoft/wild-fireworks
   id: 83
   lang: Kembang Api
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Spirited Wonders 
@@ -470,6 +473,7 @@
   img: baccarat-deluxe.webp
   lang: Bakarat Mewah
   type: tablegames
+  buy_spin: Tidak
   provider: PG Soft
 
 - title: Fortune Tiger
@@ -682,12 +686,14 @@
   lang: Wisdom Wonders
   provider: PG Soft
   available: not-available
+  buy_spin: Tidak
 - title: 3 Monkeys
   img: 3monkeys.webp
   url: pgsoft/3monkeys
   id: 43
   lang: Tiga Monyet
   provider: PG Soft
+  buy_spin: Tidak
   available: not-available
 - title: Groundhog Harvest
   img: groundhog-harvest.webp
@@ -696,6 +702,7 @@
   lang: Groundhog Harvest
   provider: PG Soft
   available: not-available
+  buy_spin: Tidak
 - title: American Blackjack
   url: pgsoft/table-games/american-blackjack
   img: american-blackjack.webp
@@ -703,12 +710,14 @@
   type: tablegames
   provider: PG Soft
   available: not-available
+  buy_spin: Tidak
 - title: European Blackjack
   url: pgsoft/table-games/european-blackjack
   img: european-blackjack.webp
   lang: European Blackjack
   type: tablegames
   provider: PG Soft  
+  buy_spin: Tidak
   available: not-available
 - title: Summon & Conquer
   id: 17
@@ -717,6 +726,7 @@
   lang: Summon & Conquer
   available: not-available
   provider: PG Soft
+  buy_spin: Tidak
 - title: Steampunk - Wheel of Destiny
   id: 16
   img: steampunk.webp
@@ -724,6 +734,7 @@
   lang: Steampunk - Wheel of Destiny
   available: not-available
   provider: PG Soft   
+  buy_spin: Tidak
 - title: Sushi Oishi
   id: 109
   img: sushi-oishi.webp
@@ -731,6 +742,7 @@
   lang: Sushi Oishi
   provider: PG Soft
   available: not-available
+  buy_spin: Tidak
 
 - title: Prosperity Fortune Tree
   id: 1312883
