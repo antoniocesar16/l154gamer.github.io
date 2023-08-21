@@ -54,8 +54,8 @@
                 <div class="uk-navbar-dropdown">
                     <ul class="uk-nav uk-navbar-dropdown-nav uk-text-large">                       
                         <li class="uk-active"><a href="{{ site.url }}">Beranda</a></li>
-                        <li><a href="#">Penafian</a></li>
-                        <li><a href="#">Donlot App</a></li>
+                        <li><a href="{{ "about" | relative_url }}">Penafian</a></li>
+                        <li><a href="https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk">Donlot App</a></li>
                     </ul>
                 </div>              
                 
@@ -92,30 +92,16 @@
 <div class="uk-section"><!-- Section -->
  <div data-uk-filter=".js-filter" class="uk-container"><!-- Container -->
   <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3>
-  <ul class="uk-subnav uk-subnav-pill">
-    <li uk-filter-control><a href="#">Semua</a></li>
-    <li uk-filter-control="[data-pilih='buyspin']"><a href="#buyspin">Beli Spin</a></li>
-    <li uk-filter-control="[data-pilih='casino']"><a href="#casino">Table Games</a></li>
-  </ul>
-      
-  <div class="uk-button-group"><!-- Buttons group -->
-    <button id="grid" uk-icon="icon: thumbnails" class="uk-button uk-button-default active"></button>
-    <button id="list" uk-icon="icon: list" class="uk-button uk-button-default"></button>
- <form class="uk-search uk-search-default">
-    <span uk-search-icon></span>
-    <input id="myfilter" class="uk-form-width-small uk-search-input" type="search" placeholder="Cari di {{ page.title }}" aria-label="Search">
- </form>   
-  </div><!-- /Buttons group -->     
-     
-{{ content }}
-     
- </div><!-- /Container -->   
+   {% include filter.html %}
+   {{ content }}    
+ </div><!-- /Container -->
 </div><!-- /Section -->    
 
+<!-- modal -->    
 <div id="modal" class="uk-modal-full" uk-modal>
-    <div class="uk-modal-dialog">
-        <button onClick="hideModal()" class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
-<div class="uk-cover-container" uk-height-viewport>
+ <div class="uk-modal-dialog">
+  <button onClick="hideModal()" class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+ <div class="uk-cover-container" uk-height-viewport>
   <iframe 
       name="modal_iframe" 
       id="game-slot"
@@ -126,12 +112,12 @@
       allow="autoplay; encrypted-media" 
       donotallowfullscreen>
       <p>Your browser does not support iframes.</p>
- </iframe>    
-</div> 
- 
-    </div>
+   </iframe>    
+  </div> 
+ </div>
 </div>
-
+<!-- /modal -->
+    
 <!-- JS -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
@@ -202,4 +188,4 @@ window.addEventListener("load", function(event) {
 });
 </script>
 </body>
-</html>    
+</html>
