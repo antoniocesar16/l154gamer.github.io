@@ -273,7 +273,7 @@
   url: pgsoft/raider-janes-crypt-of-fortune
   id: 113
   lang: Harta Ruang Bawah Tanah Raider Jane
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Rooster Rumble
@@ -281,7 +281,7 @@
   url: pgsoft/rooster-rumble
   id: 123
   lang: Pertarungan Ayam
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Reel Love 
@@ -331,6 +331,7 @@
   url: pgsoft/lucky-piggy
   id: 130
   lang: Babi Beruntung
+  buy_spin: Ya
   provider: PG Soft
   
 - title: Jungle Delight 
