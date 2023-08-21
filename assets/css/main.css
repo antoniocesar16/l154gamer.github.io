@@ -213,6 +213,9 @@ html, body {
     background-color: var(--section) !important;
     color: var(--color-text) !important;
 }
+.uk-section {
+    min-height: 100vh;
+}
 .uk-card-default {
     background-color: var(--bg-card) !important;
     color: var(--color-text) !important;
