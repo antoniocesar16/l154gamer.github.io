@@ -276,3 +276,13 @@ html, body {
 #modal, .uk-modal-full {
  z-index: 9999 !important;
 }
+  .disable {
+  /* Note: pointer-events not supported by IE10 and under */
+  pointer-events: none !important;
+  opacity: 0.4 !important;
+  }
+ #not-available {
+  /* Note: pointer-events not supported by IE10 and under */
+  pointer-events: none !important;
+  opacity: 0.4 !important;
+  }
