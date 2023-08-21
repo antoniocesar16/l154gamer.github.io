@@ -3,6 +3,7 @@
   url: pgsoft/mahjong-ways
   id: 65
   lang: Cara Mahyong
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Mahjong Ways 2
@@ -10,6 +11,7 @@
   url: pgsoft/mahjong-ways2
   id: 74
   lang: Cara Mahyong 2
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Lucky Neko
@@ -17,6 +19,7 @@
   url: pgsoft/lucky-neko
   id: 89
   lang: Neko Yang Beruntung
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Wild Bandito
@@ -24,6 +27,7 @@
   url: pgsoft/wild-bandito
   id: 104
   lang: Bandit Yang Liar
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Medusa - The Curse of Athena
@@ -31,6 +35,7 @@
   url: pgsoft/medusa
   id: 7
   lang: Medusa - Kutukan Athena
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Medusa II - The Quest of Perseus
@@ -38,6 +43,7 @@
   url: pgsoft/medusa2
   id: 6
   lang: Medusa II - Petualangan Perseus
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Dragon Hatch
@@ -73,6 +79,7 @@
   url: pgsoft/candy-bonanza
   id: 100
   lang: Bonanza Permen
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Candy Burst
@@ -80,6 +87,7 @@
   url: pgsoft/candy-burst
   id: 70
   lang: Semburan Permen
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Mermaid Riches
@@ -157,6 +165,7 @@
   url: pgsoft/supermarket-spree
   id: 115
   lang: Kesenangan Supermarket
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Cocktail Nights
@@ -262,6 +271,7 @@
   url: pgsoft/raider-janes-crypt-of-fortune
   id: 113
   lang: Harta Ruang Bawah Tanah Raider Jane
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Rooster Rumble
@@ -269,6 +279,7 @@
   url: pgsoft/rooster-rumble
   id: 123
   lang: Pertarungan Ayam
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Reel Love 
@@ -458,7 +469,7 @@
   url: pgsoft/table-games/baccarat-deluxe
   img: baccarat-deluxe.webp
   lang: Bakarat Mewah
-  type: Table Games
+  type: tablegames
   provider: PG Soft
 
 - title: Fortune Tiger
@@ -647,7 +658,7 @@
   id: 42
   img: ganesha-gold.webp
   url: pgsoft/ganesha-gold
-  lang: Ganesha Emaa
+  lang: Ganesha Emas
   provider: PG Soft
   
 - title: Fortune Mouse
@@ -689,14 +700,14 @@
   url: pgsoft/table-games/american-blackjack
   img: american-blackjack.webp
   lang: American Blackjack
-  type: Table Games
+  type: tablegames
   provider: PG Soft
   available: not-available
 - title: European Blackjack
   url: pgsoft/table-games/european-blackjack
   img: european-blackjack.webp
   lang: European Blackjack
-  type: Table Games
+  type: tablegames
   provider: PG Soft  
   available: not-available
 - title: Summon & Conquer
@@ -712,7 +723,7 @@
   url: pgsoft/steampunk
   lang: Steampunk - Wheel of Destiny
   available: not-available
-  provider: PG Soft  
+  provider: PG Soft   
 - title: Sushi Oishi
   id: 109
   img: sushi-oishi.webp
@@ -740,6 +751,7 @@
   img: hawaiian-tiki.webp
   url: pgsoft/hawaiian-tiki
   lang: Tiki Hawaii
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Legendary Monkey King
@@ -768,6 +780,7 @@
   img: songkran-splash.webp
   url: pgsoft/songkran-splash
   lang: Percikan Songkran
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Mystical Spirits
@@ -782,8 +795,7 @@
   img: super-golf-drive.webp
   url: pgsoft/super-golf-drive
   lang: Super Golf Drive
-  iframe-width: 100%
-  iframe-height: 800px
+  buy_free_spins: Tidak
   provider: PG Soft
   
 - title: Lucky Clover Lady
@@ -806,6 +818,7 @@
   url: pgsoft/fruity-candy
   lang: Permen Buah
   type: Video Slots
+  buy_free_spins: Ya
   provider: PG Soft 
 
 - title: Cruise Royale
