@@ -89,3 +89,117 @@
         </div>
 </nav>    
 
+<div class="uk-section"><!-- Section -->
+ <div data-uk-filter=".js-filter" class="uk-container"><!-- Container -->
+  <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3>
+  <ul class="uk-subnav uk-subnav-pill">
+    <li uk-filter-control><a href="#">Semua</a></li>
+    <li uk-filter-control="[data-pilih='buyspin']"><a href="#buyspin">Beli Spin</a></li>
+    <li uk-filter-control="[data-pilih='tablegames']"><a href="#tablegames">Table Games</a></li>
+  </ul>
+      
+  <div class="uk-button-group"><!-- Buttons group -->
+    <button id="grid" uk-icon="icon: thumbnails" class="uk-button uk-button-default active"></button>
+    <button id="list" uk-icon="icon: list" class="uk-button uk-button-default"></button>
+ <form class="uk-search uk-search-default">
+    <span uk-search-icon></span>
+    <input id="myfilter" class="uk-form-width-small uk-search-input" type="search" placeholder="Cari di Pragmatic Play" aria-label="Search">
+ </form>   
+  </div><!-- /Buttons group -->     
+     
+{{ content }}
+     
+ </div><!-- /Container -->   
+</div><!-- /Section -->    
+
+<div id="modal" class="uk-modal-full" uk-modal>
+    <div class="uk-modal-dialog">
+        <button onClick="hideModal()" class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
+<div class="uk-cover-container" uk-height-viewport>
+  <iframe 
+      name="modal_iframe" 
+      id="game-slot"
+      src="" 
+      width="100%" 
+      height="680px" 
+      frameborder="0" 
+      allow="autoplay; encrypted-media" 
+      donotallowfullscreen>
+      <p>Your browser does not support iframes.</p>
+ </iframe>    
+</div> 
+ 
+    </div>
+</div>
+
+<!-- JS -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>     
+<script src="./theme.js"></script>
+<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+  $('#grid').click(function(event) {
+    event.preventDefault()
+    $('.bc').addClass('grid')
+    $('.bc').removeClass('list')
+    localStorage.setItem('.bc', 'grid');
+  });
+  $('#list').click(function(event){
+    event.preventDefault();
+    $('.bc').addClass('list')
+    $('.bc').removeClass('grid')
+    localStorage.setItem('.bc', 'list')
+  })
+  let itemClass = localStorage.getItem('.bc')
+  $('.bc').addClass(itemClass)
+});
+</script>    
+<script>
+function showModal()
+{
+  $('#modal').show();
+}
+
+function hideModal()
+{
+  $('#modal').hide();
+}
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const inputEl = document.getElementById('myfilter');
+    const tags = Array.from(document.querySelectorAll('.uk-card'));
+
+    inputEl.addEventListener('keyup', () => {
+        const value = inputEl.value;
+
+        tags.forEach(tag => {
+            if (tag.textContent.includes(value)) {
+                tag.parentNode.style.display = 'block'
+            } else {
+                tag.parentNode.style.display = 'none'
+            }
+        })
+    })
+})    
+</script>
+
+<script>
+window.addEventListener("load", function(event) {
+  //hash = document.location.hash;
+  //console.log("Hash: " + hash);
+
+  //Let's assume the document.location.hash returns #white
+  hash = '#semua';
+
+  if (hash !== "") {
+    //get the color subnav button
+    pilih = document.querySelector('a[href="'+hash+'"]');
+    //trigger the click event
+    pilih.click();
+  }
+});
+</script>
+</body>
+</html>    
