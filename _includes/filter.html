@@ -1,0 +1,15 @@
+
+  <ul class="uk-subnav uk-subnav-pill">
+    <li uk-filter-control><a href="#">Semua</a></li>
+    <li uk-filter-control="[data-pilih='buyspin']"><a href="#buyspin">Beli Spin</a></li>
+    <li uk-filter-control="[data-pilih='casino']"><a href="#casino">Table Games</a></li>
+  </ul>
+      
+  <div class="uk-button-group"><!-- Buttons group -->
+    <button id="grid" uk-icon="icon: thumbnails" class="uk-button uk-button-default active"></button>
+    <button id="list" uk-icon="icon: list" class="uk-button uk-button-default"></button>
+    <form class="uk-search uk-search-default">
+    <span uk-search-icon></span>
+    <input id="myfilter" class="uk-form-width-small uk-search-input" type="search" placeholder="Cari di {{ page.title }}" aria-label="Search">
+    </form>   
+  </div><!-- /Buttons group -->
