@@ -4,6 +4,7 @@
   id: 65
   lang: Cara Mahyong
   buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Mahjong Ways 2
@@ -12,6 +13,7 @@
   id: 74
   lang: Cara Mahyong 2
   buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Lucky Neko
@@ -19,7 +21,8 @@
   url: pgsoft/lucky-neko
   id: 89
   lang: Neko Yang Beruntung
-  buy_spin: Ya
+  buy_spin: buyspin
+  permalink: https://m.pgsoft-games.com/89/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Wild Bandito
@@ -28,6 +31,7 @@
   id: 104
   lang: Bandit Yang Liar
   buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/104/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Medusa - The Curse of Athena
@@ -36,6 +40,7 @@
   id: 7
   lang: Medusa - Kutukan Athena
   buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/7/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Medusa II - The Quest of Perseus
@@ -44,6 +49,7 @@
   id: 6
   lang: Medusa II - Petualangan Perseus
   buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/6/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Dragon Hatch
@@ -51,13 +57,17 @@
   url: pgsoft/dragon-hatch
   lang: Naga Menetas
   id: 57
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/57/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Ways of The Qilin
   img: qilin-ways.webp
   url: pgsoft/qilin-ways
   id: 106
-  lang: Jalan Qilin
+  lang: Cara
+  buy_spin: buyspin
+  permalink: https://m.pgsoft-games.com/106/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Phoenix Rises
@@ -65,6 +75,8 @@
   url: pgsoft/phoenix-rises
   id: 82
   lang: Phoenix Bangkit
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/82/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Jurassic Kingdom
@@ -72,6 +84,8 @@
   url: pgsoft/jurassic-kingdom
   id: 110
   lang: Kerajaan Jurassic
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/110/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Candy Bonanza
@@ -79,7 +93,8 @@
   url: pgsoft/candy-bonanza
   id: 100
   lang: Bonanza Permen
-  buy_free_spins: Tidak
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/100/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Candy Burst
@@ -87,7 +102,8 @@
   url: pgsoft/candy-burst
   id: 70
   lang: Semburan Permen
-  buy_free_spins: Tidak
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/70/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Mermaid Riches
@@ -95,6 +111,8 @@
   url: pgsoft/mermaid-riches
   id: 102
   lang: Kekayaan Putri Duyung
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/102/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Treasures of Aztec
@@ -102,7 +120,8 @@
   url: pgsoft/aztec-treasures
   id: 87
   lang: Harta Karun Aztek
-  buy_spin: Ya
+  buy_spin: buyspin
+  permalink: https://m.pgsoft-games.com/87/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Garuda Gems
@@ -110,6 +129,8 @@
   url: pgsoft/garuda-gems
   id: 122
   lang: Permata Garuda
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/122/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Bali Vacation - Infinity Reels
@@ -117,6 +138,8 @@
   url: pgsoft/bali-vacation
   id: 94
   lang: Liburan Di Bali
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/94/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Opera Dynasty
@@ -124,6 +147,8 @@
   url: pgsoft/opera-dynasty
   id: 93
   lang: Opera Dinasti
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/93/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: The Queen's Banquet
@@ -131,6 +156,8 @@
   url: pgsoft/queens-banquet
   id: 120
   lang: Perjamuan Ratu
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/120/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Honey Trap of Diao Chan
@@ -138,6 +165,8 @@
   url: pgsoft/honey-trap-of-diao-chan
   id: 1
   lang: Jebakan Madu Diao Chan
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/1/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Dreams of Macau
@@ -145,6 +174,8 @@
   url: pgsoft/dreams-macau
   id: 79
   lang: Mimpi Macau
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/79/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Queen Bounty
@@ -152,6 +183,8 @@
   url: pgsoft/queen-bounty
   id: 84
   lang: Ratu Hadiah
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/84/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Rise of Apollo
@@ -159,6 +192,8 @@
   url: pgsoft/apollo-rise
   id: 101
   lang: Kebangkitan Apollo
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/101/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Supermarket Spree
@@ -166,7 +201,8 @@
   url: pgsoft/supermarket-spree
   id: 115
   lang: Kesenangan Supermarket
-  buy_free_spins: Tidak
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/115/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Cocktail Nights
@@ -174,6 +210,8 @@
   url: pgsoft/cocktail-nights
   id: 117
   lang: Malam Koktail
+  buy_spin: buyspin
+  permalink: https://m.pgsoft-games.com/117/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Leprechaun Riches
@@ -181,6 +219,8 @@
   url: pgsoft/leprechaun-riches
   id: 60
   lang: Kekayaan Kurcaci
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/60/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Secrets of Cleopatra - Infinity reels
@@ -188,6 +228,8 @@
   url: pgsoft/secrets-cleopatra
   id: 90
   lang: Rahasia Cleopatra
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/90/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Circus Delight
@@ -195,6 +237,8 @@
   url: pgsoft/circus-delight
   id: 80
   lang: Kegembiraan Sirkus
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/80/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Vampire's Charm
@@ -202,6 +246,8 @@
   url: pgsoft/vampires-charm
   id: 58
   lang: Pesona Vampir
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/58/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Crypto Gold
@@ -209,6 +255,8 @@
   url: pgsoft/crypto-gold
   id: 103
   lang: Emas Mata Uang Virtual
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/103/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Wild Bounty Showdown
@@ -216,7 +264,8 @@
   url: pgsoft/wild-bounty-showdown
   id: 135
   lang: Perebutan Hadiah Wild
-  buy_spin: Ya
+  buy_spin: buyspin
+  permalink: https://m.pgsoft-games.com/135/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Bikini Paradise
@@ -224,6 +273,8 @@
   url: pgsoft/bikini-paradise
   id: 69
   lang: Surga Bikini
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/69/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Butterfly Blossom
@@ -231,6 +282,8 @@
   url: pgsoft/butterfly-blossom
   id: 125
   lang: Kupu-Kupu Mekar
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/125/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Emperor's Favour
@@ -238,6 +291,8 @@
   url: pgsoft/emperors-favour
   id: 44
   lang: Kebaikan Kaisar
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/44/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Egypt's Book of Mystery
@@ -245,6 +300,8 @@
   url: pgsoft/egypt-book-mystery
   id: 73
   lang: Buku Misteri Mesir
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/73/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Legend of Perseus
@@ -252,6 +309,8 @@
   url: pgsoft/legend-of-perseus
   id: 128
   lang: Legenda Perseus
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/128/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Dragon Legend - Mythical Treasure Jackpot
@@ -259,6 +318,8 @@
   url: pgsoft/dragon-legend
   id: 29
   lang: Legenda Naga
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/29/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Jack Frost's Winter - Infinity Reels
@@ -266,6 +327,8 @@
   url: pgsoft/jack-frosts-winter
   id: 97
   lang: Salju Jack Frost
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/97/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Raider Jane's Crypt Of Fortune
@@ -274,6 +337,7 @@
   id: 113
   lang: Harta Ruang Bawah Tanah Raider Jane
   buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/113/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Rooster Rumble
@@ -282,6 +346,7 @@
   id: 123
   lang: Pertarungan Ayam
   buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/123/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Reel Love 
@@ -289,6 +354,8 @@
   url: pgsoft/reel-love
   id: 20
   lang: Rol Cinta
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/20/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Totem Wonders
@@ -296,6 +363,8 @@
   url: pgsoft/totem-wonders
   id: 57
   lang: Keajaiban Totem
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/57/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Plushie Frenzy
@@ -303,6 +372,8 @@
   url: pgsoft/plushie-frenzy
   id: 25
   lang: Kegirangan Boneka
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/25/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Symbols of Egypt 
@@ -310,6 +381,8 @@
   url: pgsoft/symbols-of-egypt
   id: 41
   lang: Simbol-Simbol Mesir
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/41/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Win Win Won
@@ -317,6 +390,8 @@
   url: pgsoft/win-win-won
   id: 24
   lang: Menang Menang Menang
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/24/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Fortune Rabbit 
@@ -324,6 +399,8 @@
   url: pgsoft/fortune-rabbit
   id: 1543462
   lang: Kelinci Keberuntungan
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/1543462/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Lucky Piggy 
@@ -331,7 +408,8 @@
   url: pgsoft/lucky-piggy
   id: 130
   lang: Babi Beruntung
-  buy_spin: Ya
+  buy_spin: buyspin
+  permalink: https://m.pgsoft-games.com/130/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Jungle Delight 
@@ -339,6 +417,8 @@
   url: pgsoft/jungle-delight
   id: 40
   lang: Hutan Yang Menyenangkan
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/40/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Captain's Bounty 
@@ -346,6 +426,8 @@
   url: pgsoft/captains-bounty
   id: 54
   lang: Hadiah Kapten
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/54/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Battleground Royale 
@@ -353,6 +435,8 @@
   url: pgsoft/battleground-royale
   id: 124
   lang: Medan Tempur Mewah
+  buy_spin: buyspin
+  permalink: https://m.pgsoft-games.com/124/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Wild Fireworks 
@@ -361,6 +445,7 @@
   id: 83
   lang: Kembang Api
   buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/83/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Spirited Wonders 
@@ -368,6 +453,8 @@
   url: pgsoft/spirited-wonders
   id: 119
   lang: Keajaiban Membara
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/119/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
 
 - title: Midas Fortune
@@ -375,6 +462,8 @@
   url: pgsoft/midas-fortune
   id: 1402846
   lang: Keberuntungan Midas
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/1402846/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Dragon Tiger Luck
@@ -382,6 +471,8 @@
   url: pgsoft/dragon-tiger-luck
   id: 63
   lang: Keberuntungan Harimau Naga
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/63/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: The Great Icescape
@@ -389,6 +480,8 @@
   img: great-icescape.webp
   url: pgsoft/great-icescape
   lang: Pelarian Es Yang Hebat
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/53/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Heist Stakes
@@ -396,6 +489,8 @@
   img: heist-stakes.webp
   url: pgsoft/heist-stakes
   lang: Taruhan Perampokan
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/105/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Genie's 3 Wishes
@@ -403,6 +498,8 @@
   img: genies-3-wishes.webp
   url: pgsoft/genies-3-wishes
   lang: Jin 3 Keinginan
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/85/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Piggy Gold
@@ -410,6 +507,8 @@
   img: piggy-gold.webp
   url: pgsoft/piggy-gold
   lang: Babi Emas
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/39/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Galactic Gems
@@ -417,6 +516,8 @@
   img: galactic-gems.webp
   url: pgsoft/galactic-gems
   lang: Permata Galaksi
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/86/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Thai River Wonders
@@ -424,6 +525,8 @@
   img: thai-river-wonders.webp
   url: pgsoft/thai-river-wonders
   lang: Keajaiban Sungai Thailand
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/92/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Muay Thai Champion
@@ -431,6 +534,8 @@
   img: muay-thai-champion.webp
   url: pgsoft/muay-thai-champion
   lang: Juara Muaythai
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/64/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Farm Invaders
@@ -438,6 +543,8 @@
   img: farm-invaders.webp
   url: pgsoft/farm-invaders
   lang: Penjajah Ladang
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/116/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Emoji Riches
@@ -445,6 +552,8 @@
   img: emoji-riches.webp
   url: pgsoft/emoji-riches
   lang: Kekayaan Emoji
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/114/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Hot Pot Chili Jackpot
@@ -452,6 +561,8 @@
   url: pgsoft/hot-pot
   img: hot-pot.webp
   lang: Hot Pot Cabai
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/28/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Mask Carnival
@@ -459,6 +570,8 @@
   url: pgsoft/mask-carnival
   img: mask-carnival.webp
   lang: Pesta Topeng
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/118/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Speed Winner
@@ -466,6 +579,8 @@
   url: pgsoft/speed-winner
   img: speed-winner.webp
   lang: Pemenang Adu Cepat
+  buy_spin: buyspin
+  permalink: https://m.pgsoft-games.com/127/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Baccarat Deluxe
@@ -475,6 +590,7 @@
   lang: Bakarat Mewah
   type: tablegames
   buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/31/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
 
 - title: Fortune Tiger
@@ -482,6 +598,8 @@
   img: fortune-tiger.webp
   url: pgsoft/fortune-tiger
   lang: Keberuntungan Harimau
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/126/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Ninja Vs Samurai
@@ -489,6 +607,8 @@
   img: samurai-vs-ninja.webp
   url: pgsoft/samurai-vs-ninja
   lang: Ninja Vs Samurai
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/59/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Hood VS Wolf - The Wild Hunt
@@ -496,6 +616,8 @@
   img: hood-vs-wolf.webp
   url: pgsoft/hood-vs-wolf
   lang: Sikerudung Merah Vs Serigala
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/18/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Gem Saviour
@@ -503,6 +625,8 @@
   url: pgsoft/gem-saviour
   id: 2
   lang: Penyelamat Permata
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/2/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Gem Saviour Sword
@@ -510,6 +634,8 @@
   url: pgsoft/gem-saviour-sword
   id: 38
   lang: Penyelamat Permata - Pedang
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/38/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Gem Saviour Conquest
@@ -517,6 +643,8 @@
   img: gem-saviour-conquest.webp
   url: pgsoft/gem-saviour-conquest
   lang: Penyelamat Permata Penaklukan
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/62/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Buffalo Win - Infinity Reels
@@ -524,6 +652,8 @@
   url: pgsoft/buffalo-win
   img: buffalo-win.webp
   lang: Kemenangan Kerbau
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/108/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Wild Coaster
@@ -531,6 +661,8 @@
   url: pgsoft/wild-coaster
   img: wild-coaster.webp
   lang: Kereta Luncur
+  buy_spin: buyspin
+  permalink: https://m.pgsoft-games.com/132/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Hip Hop Panda
@@ -538,6 +670,8 @@
   url: pgsoft/hip-hop-panda
   img: hip-hop-panda.webp
   lang: Panda Hip Hop
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/33/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Guardians of Ice & Fire
@@ -545,6 +679,8 @@
   url: pgsoft/guardians-ice-fire
   img: guardians-ice-fire.webp
   lang: Penjaga Es & Api
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/91/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Asgardian Rising
@@ -552,6 +688,8 @@
   url: pgsoft/asgardian-rising
   img: asgardian-rising.webp
   lang: Kebangkitan Asgardian
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/1340277/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Win Win Fish Prawn Crab
@@ -559,6 +697,8 @@
   url: pgsoft/win-win-fish-prawn-crab
   img: fish-prawn.webp
   lang: Menang Terus Di Permainan Ikan Udang Kepiting
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/129/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Santa's Gift Rush
@@ -566,6 +706,8 @@
   url: pgsoft/santas-gift-rush
   img: santas-gift-rush.webp
   lang: Limpahan Kado Santa
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/37/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
 
 - title: Alchemy Gold
@@ -573,6 +715,8 @@
   url: pgsoft/alchemy-gold
   img: alchemy-gold.webp
   lang: Alkimia Emas
+  buy_spin: Tidak
+  permalink: https://m.pgsoft-games.com/1368367/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
 - title: Double Fortune
@@ -622,6 +766,7 @@
   url: pgsoft/caishen-wins
   img: caishen-wins.webp
   lang: Kemenangan Caishen
+  buy_spin: buyspin
   provider: PG Soft
   
 - title: Journey to the Wealth
@@ -764,7 +909,7 @@
   img: hawaiian-tiki.webp
   url: pgsoft/hawaiian-tiki
   lang: Tiki Hawaii
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Legendary Monkey King
@@ -793,7 +938,7 @@
   img: songkran-splash.webp
   url: pgsoft/songkran-splash
   lang: Percikan Songkran
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: PG Soft
   
 - title: Mystical Spirits
@@ -816,7 +961,7 @@
   img: lucky-clover-lady.webp
   url: pgsoft/lucky-clover-lady
   lang: Lucky Clover Lady
-  buy_spin: Ya
+  buy_spin: buyspin
   provider: PG Soft
 
 - title: Majestic Treasures
@@ -833,7 +978,7 @@
   url: pgsoft/fruity-candy
   lang: Permen Buah
   type: Video Slots
-  buy_spin: Ya
+  buy_spin: buyspin
   provider: PG Soft 
 
 - title: Cruise Royale
@@ -842,5 +987,6 @@
   url: pgsoft/cruise-royale
   lang: Cruise Royale
   type: Video Slots
-  buy_spin: Ya
+  buy_spin: buyspin
   provider: PG Soft 
+
