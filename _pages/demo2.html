@@ -1,5 +1,5 @@
 ---
-layout: theme
+layout: main
 title: Demo
 active: demo2
 permalink: /demo2/
@@ -17,4 +17,34 @@ permalink: /demo2/
     {% endfor %}
     </ol>
   {% endfor %}
+{% endfor %}
+
+{% for item in site.data.widget %}
+{% for subcategory in item.subcategories %}
+<div><!-- grid div -->
+ <div class="uk-card uk-card-default uk-card-body"><!-- card -->
+        <!-- clearfix -->
+        <div class="uk-clearfix">
+         <div class="uk-float-left">
+          <p class="uk-text-bold uk-text-uppercase">{{ item.title }}</p><!-- card title --> 
+         </div>
+         <div class="uk-float-right">
+          <a href="#!" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: arrow-right"></span></a>
+         </div>
+        </div>
+        <!-- /clearfix -->                 
+  <div class="uk-grid-small" uk-grid><!-- begin content grids -->
+   <!-- begin content imgs -->
+    {% for item in subcategory.items %}
+     <div class="uk-width-1-2">
+      <a href="#!">
+        <img class="uk-border-rounded" src="{{ item.img }}" width="1800" height="1200" alt="">
+      </a>
+     </div>
+    {% endfor %}
+    <!-- /End content imgs -->
+  </div><!-- /End content grids -->
+ </div><!-- /card -->
+</div><!-- /grid div -->
+{% endfor %}
 {% endfor %}
