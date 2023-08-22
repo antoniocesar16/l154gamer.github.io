@@ -5,20 +5,7 @@ active: demo2
 permalink: /demo2/
 ---
 
-{% for item in site.data.widget %}
-  <h3>{{ item.title }}</h3>
-  {% for subcategory in item.subcategories %}
-    <h6>{{ subcategory.title }}</h6>
-    <ol>
-    {% for item in subcategory.items %}
-      <li style="padding-left: 12px;">
-       <img src="{{ item.img }}"/>
-      </li>
-    {% endfor %}
-    </ol>
-  {% endfor %}
-{% endfor %}
-
+<div class="uk-child-width-expand@s" uk-grid><!-- grids -->
 {% for item in site.data.widget %}
 {% for subcategory in item.subcategories %}
 <div><!-- grid div -->
@@ -26,7 +13,7 @@ permalink: /demo2/
         <!-- clearfix -->
         <div class="uk-clearfix">
          <div class="uk-float-left">
-          <p class="uk-text-bold uk-text-uppercase">{{ item.title }}</p><!-- card title --> 
+          <p class="uk-text-bold uk-text-uppercase">{{ subcategory.title }}</p><!-- card title --> 
          </div>
          <div class="uk-float-right">
           <a href="#!" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: arrow-right"></span></a>
@@ -48,3 +35,4 @@ permalink: /demo2/
 </div><!-- /grid div -->
 {% endfor %}
 {% endfor %}
+</div><!-- /grids -->
