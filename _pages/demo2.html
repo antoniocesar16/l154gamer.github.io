@@ -24,7 +24,7 @@ permalink: /demo2/
    <!-- begin content imgs -->
     {% for item in subcategory.items %}
      <div class="uk-width-1-2">
-      <a href="#!">
+      <a href="{{ item.url }}">
         <img class="uk-border-rounded" src="{{ item.img }}" width="1800" height="1200" alt="">
       </a>
      </div>
