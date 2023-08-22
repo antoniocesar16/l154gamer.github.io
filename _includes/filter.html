@@ -1,7 +1,15 @@
 
   <ul class="uk-subnav uk-subnav-pill">
     <li uk-filter-control><a href="#">Semua</a></li>
+    {% if page.active == "pgsoft" %}
+    <li uk-filter-control="[data-pilih='classic']"><a href="#classic">Classic</a></li>
+    <li uk-filter-control="[data-pilih='megaways']"><a href="#megaways">Megaways</a></li>
+    <li uk-filter-control="[data-pilih='slotmania']"><a href="#slotmania">Slot Mania</a></li>
+    <li uk-filter-control="[data-pilih='reelkingdom']"><a href="#reelkingdom">Reel Kingdom</a></li>
+    {% endif %}
+    {% if page.active == "pgsoft" %}
     <li uk-filter-control="[data-pilih='buyspin']"><a href="#buyspin">Beli Spin</a></li>
+    {% endif %}
     <li uk-filter-control="[data-pilih='casino']"><a href="#casino">Table Games</a></li>
   </ul>
       
