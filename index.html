@@ -1,6 +1,30 @@
 ---
-layout: default
+layout: main
 id: index
 active: beranda
 ---
-{% include feature.html %}
+
+<!-- pragmatic play -->
+<div><!-- grid div -->
+ <div class="uk-card uk-card-default uk-card-body"><!-- card -->
+        <!-- clearfix -->
+        <div class="uk-clearfix">
+         <div class="uk-float-left">
+          <p class="uk-text-bold uk-text-uppercase">Pragmatic Play</p><!-- card title --> 
+         </div>
+         <div class="uk-float-right">
+          <a href="{{ "pragmatic-play" | relative_url }}" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: arrow-right"></span></a>
+         </div>
+        </div>
+        <!-- /clearfix -->                 
+  <div class="uk-grid-small" uk-grid><!-- begin content grids -->
+   <!-- begin content imgs -->
+                <div class="uk-width-1-2"><a href="{{ "pragmatic-play" | relative_url }}"><img class="uk-border-rounded" src="https://l154gamer.github.io/assets/feature/peaky-blinders.webp" width="1800" height="1200" alt=""></a></div>
+                <div class="uk-width-1-2"><a href="{{ "pragmatic-play" | relative_url }}"><img class="uk-border-rounded" src="https://l154gamer.github.io/assets/feature/cowboys-coins.webp" width="1800" height="1200" alt=""></a></div>
+                <div class="uk-width-1-2"><a href="{{ "pragmatic-play" | relative_url }}"><img class="uk-border-rounded" src="https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-duels.webp" width="1800" height="1200" alt=""></a></div>
+                <div class="uk-width-1-2"><a href="{{ "pragmatic-play" | relative_url }}"><img class="uk-border-rounded" src="https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-gold.webp" width="1800" height="1200" alt=""></a></div>
+    <!-- /End content imgs -->
+  </div><!-- /End content grids -->
+ </div><!-- /card -->
+</div><!-- /grid div -->
+<!-- /pragmatic play -->
