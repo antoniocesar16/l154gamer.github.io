@@ -1,42 +1,23 @@
 ---
-layout: single-page
+layout: theme
 title: Slots Providers
 permalink: /providers/
 active: providers
 ---
 
-<style>
-  .disable {
-  /* Note: pointer-events not supported by IE10 and under */
-  pointer-events: none !important;
-  opacity: 0.4 !important;
-  }
- #not-available {
-  /* Note: pointer-events not supported by IE10 and under */
-  pointer-events: none !important;
-  opacity: 0.4 !important;
- }
-</style>
-
-<div class="row">
- {% for game in site.data.providers %}
- <div id="{{ game.available }}">
-  <div class="col column-content s6 m6">
-      <div class="card">
-        <div class="card-image">
-         <a href="{{ game.url | relative_url }}">
-          <img class="lazy" src="{{ "assets/loader.gif" | relative_url }}" data-src="../assets/img/providers/{{ game.img }}" alt="{{ game.title }}">
-         </a>
-        </div>
-      </div>
-  </div>
- </div> 
+<div class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid><!-- Grids -->
+<!-- Grid 1 -->     
+ {% for game in site.data.providers %}	
+ <div data-pilih="{{ game.type }}" id="{{ game.available }}" class="uk-width-1-2 bc">
+  <div class="uk-card uk-card-default"><!-- card --> 
+  <div class="uk-card-media-top"><!-- card img -->                
+   <a href="{{ game.url | relative_url }}">
+    <img data-src="../assets/img/providers/{{ game.img }}" width="1800" height="1200" alt="{{ game.title }}" uk-img="loading: eager"></a>
+  </div><!-- /card img --> 
+ </div><!-- /card --> 
+ </div>    
  {% else %}
   <p>Tidak ada data.</p>
- {% endfor %}
-</div>
-<script>
-$(document).ready(function() {
-    $("#not-available").addClass("disable");
-});	
-</script>
+ {% endfor %}	
+<!-- /Grid 1 -->            
+</div><!-- /Grids -->
