@@ -36,7 +36,11 @@
 
 <div class="uk-section"><!-- Section -->
  <div data-uk-filter=".js-filter" class="uk-container"><!-- Container -->
+ {% if page.url == "/" %}
+  {% else %}  
   <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3> 
+  {% include filter.html %}
+ {% endif %}
   {{ content }}    
  </div><!-- /Container -->
 </div><!-- /Section -->    
