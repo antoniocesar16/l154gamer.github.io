@@ -1,17 +1,174 @@
-<!doctype html>
-<html lang="id">
- <head>
-  {% include head.html %}
- </head>
+<!DOCTYPE html>
+<html data-theme="dark">
+    <head>
+        <title>
+         {% if page.title %}
+          {{ page.title }}
+         {% else %}
+          {{ site.title }}
+         {% endif %}
+        </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="theme-color" content="Canvas">
+        <meta name="format-detection" content="telephone=no,email=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="renderer" content="webkit">
+        <meta name="force-rendering" content="webkit">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="full-screen" content="yes">
+        <meta name="x5-fullscreen" content="true">
+        <meta name="screen-orientation" content="portrait">
+        <meta name="x5-orientation" content="portrait">
+        <meta name="browsermode" content="application">
+        <meta name="x5-page-mode" content="app">
+        
+<!-- CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/css/uikit.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/ng-table@2.0.2/bundles/ng-table.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+<link rel="stylesheet" href="https://l154gamer.github.io/assets/css/main.css">
+<style>
+
+</style>
+</head>
 <body>
+<div id="offcanvas-push" uk-offcanvas="mode: push; overlay: true">
+    <div class="uk-offcanvas-bar">        
+<div class="uk-width-1-2@s">
+    <ul class="uk-text-large uk-nav-default uk-nav-divider" uk-nav>
+      {% for vendor in site.data.vendors %}
+        <li><a href="{{ vendor.url | relative_url }}">{{ vendor.title }}</a></li>
+      {% endfor %}
+    </ul>
+</div>
 
- {% include main-navbar.html %}
+    </div>
+</div>    
+<nav class="uk-navbar-container uk-navbar-transparent uk-fixed-navigation uk-navbar="mode: click"">
+        <div uk-navbar>
+            <div class="uk-navbar-left">                
+               <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="#"></a>
+                <div class="uk-navbar-dropdown">
+                    <ul class="uk-nav uk-navbar-dropdown-nav uk-text-large">                       
+                        <li><a href="{{ site.url }}">Beranda</a></li>
+                        <li><a href="{{ "about" | relative_url }}">Penafian</a></li>
+                        <li><a href="https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk">Donlot App</a></li>
+                    </ul>
+                </div>              
+                
+                <a class="uk-text-bold uk-navbar-item uk-logo branded" href="{{ site.url }}">{{ site.title }}</a>   
+            </div>
+            <div class="uk-navbar-right">
+            <button class="uk-button uk-button-default uk-margin-small-right" type="button" uk-toggle="target: #offcanvas-push">Games</button>
+            
+             <a href="{{ relative_url }}" uk-icon="icon:refresh"></a>         
+            
+    <button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
+      <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
+        <mask class="moon" id="moon-mask">
+          <rect x="0" y="0" width="100%" height="100%" fill="white" />
+          <circle cx="24" cy="10" r="6" fill="black" />
+        </mask>
+        <circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor" />
+        <g class="sun-beams" stroke="currentColor">
+          <line x1="12" y1="1" x2="12" y2="3" />
+          <line x1="12" y1="21" x2="12" y2="23" />
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+          <line x1="1" y1="12" x2="3" y2="12" />
+          <line x1="21" y1="12" x2="23" y2="12" />
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+         </g>
+      </svg>
+    </button>            
+            </div>
+        </div>
+</nav>    
 
-<div class="container" style="width:95% !important; margin-top: 40px;"> <!--container--> 
- {{ content }}
-</div> <!--/container--> 
+<div class="uk-section"><!-- Section -->
+ <div data-uk-filter=".js-filter" class="uk-container"><!-- Container -->
+  <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3> 
+  {{ content }}    
+ </div><!-- /Container -->
+</div><!-- /Section -->    
 
- {% include scripts.html %}
+<!-- JS -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>     
+<script src="https://l154gamer.github.io/assets/js/theme.js"></script>
+<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+  $('#grid').click(function(event) {
+    event.preventDefault()
+    $('.bc').addClass('grid')
+    $('.bc').removeClass('list')
+    localStorage.setItem('.bc', 'grid');
+  });
+  $('#list').click(function(event){
+    event.preventDefault();
+    $('.bc').addClass('list')
+    $('.bc').removeClass('grid')
+    localStorage.setItem('.bc', 'list')
+  })
+  let itemClass = localStorage.getItem('.bc')
+  $('.bc').addClass(itemClass)
+});
+</script>    
+<script>
+function showModal()
+{
+  $('#modal').show();
+}
 
- </body>
+function hideModal()
+{
+  $('#modal').hide();
+}
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const inputEl = document.getElementById('myfilter');
+    const tags = Array.from(document.querySelectorAll('.uk-card'));
+
+    inputEl.addEventListener('keyup', () => {
+        const value = inputEl.value;
+
+        tags.forEach(tag => {
+            if (tag.textContent.includes(value)) {
+                tag.parentNode.style.display = 'block'
+            } else {
+                tag.parentNode.style.display = 'none'
+            }
+        })
+    })
+})    
+</script>
+
+<script>
+window.addEventListener("load", function(event) {
+  //hash = document.location.hash;
+  //console.log("Hash: " + hash);
+
+  //Let's assume the document.location.hash returns #white
+  hash = '#semua';
+
+  if (hash !== "") {
+    //get the color subnav button
+    pilih = document.querySelector('a[href="'+hash+'"]');
+    //trigger the click event
+    pilih.click();
+  }
+});
+</script>
+<script>
+$(document).ready(function() {
+    $("#not-available").addClass("disable");
+});	
+</script>    
+</body>
 </html>
