@@ -5,7 +5,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympgate
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: Pragmatic Play
   
 - title: Starlight Princess
@@ -15,7 +15,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20starlight
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: Pragmatic Play
   
 - title: Starlight Christmas
@@ -25,7 +25,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20schristmas
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: Pragmatic Play
   
 - title: Gates of Gatot Kaca
@@ -35,7 +35,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotgates
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: Pragmatic Play
   
 - title: Gatot Kaca Fury
@@ -45,7 +45,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20gatotfury
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: Pragmatic Play
   
 - title: Sweet Bonanza
@@ -55,7 +55,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitsw
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: Pragmatic Play
   
 - title: Sweet Bonanza XMAS
@@ -65,7 +65,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sbxmas
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: Pragmatic Play
   
 - title: Aztec Gems
@@ -75,7 +75,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5aztecgems
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: Pragmatic Play
   
 - title: Aztec Gema Deluxe
@@ -85,7 +85,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs9aztecgemsdx
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: Pragmatic Play
   
 - title: Wild West Gold
@@ -95,7 +95,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40wildwest
-  buy_free_spins: Ya
+  buy_spin: Ya
   
 - title: Wild West Duels
   symbol: vs20pistols
@@ -104,7 +104,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20pistols
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: Pragmatic Play
   
 - title: Diamond Strike
@@ -114,7 +114,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs15diamond
-  buy_free_spins: Tidak
+  type: classic
   provider: Pragmatic Play
   
 - title: Drill That Gold
@@ -124,7 +124,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20drtgold
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: Pragmatic Play
   
 - title: Bonanza Gold
@@ -134,7 +134,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20bonzgold
-  buy_free_spins: Tidak
+  buy_spin: Tidak
   provider: Pragmatic Play
   
 - title: Pyramid Bonanza
@@ -144,7 +144,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20pbonanza
-  buy_free_spins: Ya
+  buy_spin: Ya
   provider: Pragmatic Play
   
 - title: Gems Bonanza
@@ -1568,6 +1568,7 @@
   url: pragmatic-play/infini88-gates-of-olympus
   provider: Pragmatic Play
   available: available
+  type: infini88
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olginf88
   
 - title: Infini88 Sweet Bonanza
@@ -1576,6 +1577,7 @@
   url: pragmatic-play/infini88-sweet-bonanza
   provider: Pragmatic Play
   available: available
+  type: infini88
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20swbinf88
 
 - title: Starlight Princess 1000
@@ -1584,6 +1586,7 @@
   url: pragmatic-play/starlight-princess-1000
   provider: Pragmatic Play
   available: available
+  type: infini88
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20starlightx
 
 - title: The Wild Machine
@@ -2560,4 +2563,4 @@
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs7fire88
 
-  
+
