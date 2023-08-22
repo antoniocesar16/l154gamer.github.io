@@ -385,6 +385,7 @@
   url: pragmatic-play/juicy-fruits
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs50juicyfr
   
 - title: Extra Juicy
@@ -393,6 +394,7 @@
   url: pragmatic-play/extra-juicy
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10fruity2
   
 - title: 8 Dragons
@@ -538,6 +540,7 @@
   url: pragmatic-play/spaceman
   provider: Pragmatic Play
   available: available
+  type: casino
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=1302
   
 - title: Spartan King
@@ -595,7 +598,7 @@
   url: pragmatic-play/megaways/rocket-blast-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrockblst
   provider: Pragmatic Play
-  line: Megaways
+  type: Megaways
 
 - title: Slot Mania Candy 
   symbol: vs20slmancan
@@ -604,7 +607,7 @@
   url: pragmatic-play/slotmania-candy-village
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slmancan
   provider: Pragmatic Play
-  line: Slot Mania
+  type: Slot Mania
 
 - title: Slot Mania Rabbit 
   symbol: vs20smrabbit
@@ -613,7 +616,7 @@
   url: pragmatic-play/slotmania-rabbit
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smrabbit
   provider: Pragmatic Play
-  line: Slot Mania
+  type: Slot Mania
 
 - title: Diamond Cascade 
   symbol: vs50dmdcascade
@@ -662,7 +665,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswildwest
-  line: Megaways
+  type: Megaways
   
 - title: Aztec King Megaways
   symbol: vswaysaztecking
@@ -671,7 +674,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysaztecking
-  line: Megaways
+  type: Megaways
   
 - title: Mammoth Gold Megaways
   symbol: vs20mammoth
@@ -680,7 +683,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20mammoth
-  line: Megaways
+  type: Megaways
   
 - title: Power of Thor Megaways
   symbol: vswayshammthor
@@ -689,7 +692,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayshammthor
-  line: Megaways
+  type: Megaways
   
 - title: 5 Rabbits Megaways
   symbol: vswaysrabbits
@@ -698,7 +701,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrabbits
-  line: Megaways 
+  type: Megaways 
   
 - title: 5 Lions Megaways
   symbol: vswayslions
@@ -707,7 +710,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayslions
-  line: Megaways
+  type: Megaways
   
 - title: Extra Juicy Megaways
   symbol: vswaysxjuicy
@@ -716,7 +719,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysxjuicy
-  line: Megaways
+  type: Megaways
   
 - title: Great Rhino Megaways
   symbol: vswaysrhino
@@ -725,7 +728,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrhino
-  line: Megaways
+  type: Megaways
   
 - title: Crystal Caverns Megaways
   symbol: vswayscryscav
@@ -734,7 +737,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayscryscav
-  line: Megaways  
+  type: Megaways  
   
 - title: Floating Dragon Megaways
   symbol: vswaysfltdrg
@@ -743,7 +746,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfltdrg
-  line: Megaways
+  type: Megaways
   
 - title: The Dog House Megaways
   symbol: vswaysdogs
@@ -752,7 +755,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysdogs
-  line: Megaways
+  type: Megaways
   
 - title: Legend of Heroes Megaways
   symbol: vswayslofhero
@@ -761,7 +764,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayslofhero
-  line: Megaways
+  type: Megaways
   
 - title: Rise of Samurai Megaways
   symbol: vswayssamurai
@@ -770,7 +773,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayssamurai
-  line: Megaways
+  type: Megaways
   
 - title: Elemental Gems Megaways
   symbol: vswayselements
@@ -779,7 +782,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayselements
-  line: Megaways
+  type: Megaways
   
 - title: Lucky Fishing Megaways
   symbol: vswaysluckyfish
@@ -788,7 +791,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysluckyfish
-  line: Megaways
+  type: Megaways
   
 - title: Madame Destiny Megaways
   symbol: vswaysmadame
@@ -797,7 +800,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmadame
-  line: Megaways
+  type: Megaways
   
 - title: Big Bass Bonanza Megaways
   symbol: vswaysbbb
@@ -806,7 +809,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbbb
-  line: Megaways
+  type: Megaways
   
 - title: Wild Wild Riches Megaways
   symbol: vswayswwriches
@@ -815,7 +818,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswwriches
-  line: Megaways 
+  type: Megaways 
   
 - title: Spin & Score Megaways
   symbol: vswaysfrywld
@@ -824,7 +827,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfrywld
-  line: Megaways
+  type: Megaways
   
 - title: Buffalo King Megaways
   symbol: vswaysbufking
@@ -833,7 +836,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbufking
-  line: Megaways
+  type: Megaways
   
 - title: Wild Celebrity Bus Megaways
   symbol: vswaysrsm
@@ -841,7 +844,7 @@
   lang: En
   url: pragmatic-play/megaways/wild-celebrity-bus-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysrsm
-  line: Megaways
+  type: Megaways
   provider: Pragmatic Play
   
 - title: Old Gold Miner Megaways
@@ -850,7 +853,7 @@
   lang: En
   url: pragmatic-play/megaways/old-gold-miner-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysoldminer
-  line: Megaways
+  type: Megaways
   provider: Pragmatic Play
   
 - title: Chilli Heat Megaways
@@ -860,7 +863,7 @@
   url: pragmatic-play/megaways/chilli-heat-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayschilheat
   provider: Pragmatic Play
-  line: Megaways
+  type: Megaways
   
 - title: Power of Merlin Megaways 
   symbol: vswayspowzeus
@@ -868,7 +871,7 @@
   lang: En
   url: pragmatic-play/megaways/power-of-merlin-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayspowzeus
-  line: Megaways
+  type: Megaways
   provider: Pragmatic Play
   
 - title: Starz Megaways 
@@ -877,7 +880,7 @@
   lang: En
   url: pragmatic-play/megaways/starz-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs117649starz
-  line: Megaways
+  type: Megaways
   provider: Pragmatic Play
   
 - title: Madame Mystique Megaways 
@@ -886,7 +889,7 @@
   lang: En
   url: pragmatic-play/megaways/madame-mystique-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmadameh
-  line: Megaways
+  type: Megaways
   provider: Pragmatic Play
   
 - title: Curse of The Werewolf Megaways 
@@ -895,7 +898,7 @@
   lang: En
   url: pragmatic-play/megaways/curse-of-the-werewolf-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayswerewolf
-  line: Megaways
+  type: Megaways
   provider: Pragmatic Play
   
 - title: A Christmas Carol Megaways 
@@ -904,7 +907,7 @@
   available: available
   url: pragmatic-play/megaways/christmas-carol-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmascarol
-  line: Megaways
+  type: Megaways
   provider: Pragmatic Play
   
 - title: Muertos Multiplier Megaways 
@@ -913,7 +916,7 @@
   available: available
   url: pragmatic-play/megaways/muertos-multiplier-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20muertos
-  line: Megaways
+  type: Megaways
   provider: Pragmatic Play
   
 - title: Fury of Odin Megaways 
@@ -922,7 +925,7 @@
   available: available
   url: pragmatic-play/megaways/fury-of-odin-megaways
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfuryodin
-  line: Megaways
+  type: Megaways
   provider: Pragmatic Play
 
 - title: Fairytale Fortune
@@ -1403,6 +1406,7 @@
   url: pragmatic-play/slotmania-olympus
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20olympmania
 
 - title: Slot Mania Princess
@@ -1411,6 +1415,7 @@
   url: pragmatic-play/slotmania-princess
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smprincess
 
 - title: Wild West Slot Mania
@@ -1419,6 +1424,7 @@
   url: pragmatic-play/wild-west-slotmania
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40smwildwest
 
 - title: Sweet Slot Mania
@@ -1427,6 +1433,7 @@
   url: pragmatic-play/slotmania-sweet
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fruitmania
 
 - title: Slot Mania Bonanza Gold
@@ -1435,6 +1442,7 @@
   url: pragmatic-play/slotmania-bonanza-gold
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20goldmania
 
 - title: Sugar Slot Mania
@@ -1443,6 +1451,7 @@
   url: pragmatic-play/slotmania-sugar
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotsugar
 
 - title: Slot Mania Pyramid
@@ -1451,6 +1460,7 @@
   url: pragmatic-play/slotmania-pyramid
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smbonanza
 
 - title: Slot Mania Gems
@@ -1459,6 +1469,7 @@
   url: pragmatic-play/slotmania-gems
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5slotgems
 
 - title: Slot Mania Gatotkaca
@@ -1467,6 +1478,7 @@
   url: pragmatic-play/slotmania-gatotkaca
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smgatot
 
 - title: Slot Mania Ares
@@ -1475,6 +1487,7 @@
   url: pragmatic-play/slotmania-ares
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slotmanar
 
 - title: Slot Mania Big Bass
@@ -1483,6 +1496,7 @@
   url: pragmatic-play/slotmania-big-bass
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10smbigbass
 
 - title: 5000X Mania
@@ -1491,6 +1505,7 @@
   url: pragmatic-play/5000x-mania
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20xmania
 
 - title: Supermania Slot Mania
@@ -1499,6 +1514,7 @@
   url: pragmatic-play/supermania
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20supermania
 
 - title: Gemstone Slot Mania
@@ -1507,6 +1523,7 @@
   url: pragmatic-play/gemstone
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5gemstone
 
 - title: Nexus Gates of Olympus
@@ -1515,6 +1532,7 @@
   url: pragmatic-play/nexus-olympus
   provider: Pragmatic Play
   available: available
+  type: slotmania
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexusgates
   
 - title: Nexus Starlight Princess
@@ -1739,6 +1757,7 @@
   url: pragmatic-play/super7s
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5super7
   
 - title: Monster Superlanche
@@ -1787,6 +1806,7 @@
   url: pragmatic-play/fruit-rainbow
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40frrainbow
   
 - title: WildMan Super Bonanza
@@ -2044,7 +2064,7 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10amm
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   
 - title: Lucky Lightning
   symbol: vswayslight
@@ -2052,7 +2072,7 @@
   url: pragmatic-play/wild-streak-gaming/lucky-lightning
   provider: Pragmatic Play
   available: available
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayslight
   
 - title: Firebird Spirit 
@@ -2061,7 +2081,7 @@
   url: pragmatic-play/wild-streak-gaming/firebird-spirit
   provider: Pragmatic Play
   available: available
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysconcoll
   
 - title: Gold Party
@@ -2070,7 +2090,7 @@
   url: pragmatic-play/wild-streak-gaming/gold-party
   provider: Pragmatic Play
   available: available
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25goldparty
   
 - title: Queenie
@@ -2079,7 +2099,7 @@
   url: pragmatic-play/wild-streak-gaming/queenie
   provider: Pragmatic Play
   available: available
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs243queenie
   
 - title: Congo Cash
@@ -2088,7 +2108,7 @@
   url: pragmatic-play/wild-streak-gaming/congo-cash
   provider: Pragmatic Play
   available: available
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs432congocash
   
 - title: Big Juan
@@ -2097,7 +2117,7 @@
   url: pragmatic-play/wild-streak-gaming/big-juan
   provider: Pragmatic Play
   available: available
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40bigjuan
   
 - title: Temujin Treasures
@@ -2106,7 +2126,7 @@
   url: pragmatic-play/wild-streak-gaming/temujin-treasures
   provider: Pragmatic Play
   available: available
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024temuj
   
 - title: Cosmic Cash
@@ -2115,7 +2135,7 @@
   url: pragmatic-play/wild-streak-gaming/cosmic-cash
   provider: Pragmatic Play
   available: available
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40cosmiccash
   
 - title: Mystery of The Orient
@@ -2124,7 +2144,7 @@
   url: pragmatic-play/wild-streak-gaming/orient-mystery
   provider: Pragmatic Play
   available: available
-  line: Wild Streak Gaming
+  type: Wild Streak Gaming
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysmorient
   
 - title: Spirit of Adventure
@@ -2133,7 +2153,7 @@
   url: pragmatic-play/reel-kingdom/spirit-adventure
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10spiritadv
   
 - title: Emerald King
@@ -2142,7 +2162,7 @@
   url: pragmatic-play/reel-kingdom/emerald-king
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20eking
   
 - title: Emerald King — Rainbow Road
@@ -2151,7 +2171,7 @@
   url: pragmatic-play/reel-kingdom/emerald-king-rainbow-road
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20ekingrr
 
 - title: Ultra — Hold & Spin
@@ -2160,7 +2180,7 @@
   url: pragmatic-play/reel-kingdom/ultra-hold-spin
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5ultra
   
 - title: Dragon — Hot Hold & Spin
@@ -2169,7 +2189,7 @@
   url: pragmatic-play/reel-kingdom/dragon-hot-hold-spin
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5drhs
   
 - title: Pizza! Pizza? Pizza!
@@ -2178,7 +2198,7 @@
   url: pragmatic-play/reel-kingdom/pizza
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswayspizza
   
 - title: Eye Storm
@@ -2187,7 +2207,7 @@
   url: pragmatic-play/reel-kingdom/eye-storm
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10eyestorm
   
 - title: Rock Vegas
@@ -2196,7 +2216,7 @@
   url: pragmatic-play/reel-kingdom/rock-vegas
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20rockvegas
   
 - title: Lucky, Grace & Charm — Mega Hold & spin
@@ -2205,7 +2225,7 @@
   url: pragmatic-play/reel-kingdom/lucky-grace-charm
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10luckcharm
   
 - title: Floating Dragon — Hold & Spin
@@ -2214,7 +2234,7 @@
   url: pragmatic-play/reel-kingdom/floating-dragon
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom 
+  type: Reel Kingdom 
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10floatdrg
   
 - title: Snakes & Ladders
@@ -2223,7 +2243,7 @@
   url: pragmatic-play/reel-kingdom/snakes-ladders
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom   
+  type: Reel Kingdom   
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10snakeeyes
   
 - title: Bigger Bass Bonanza
@@ -2232,7 +2252,7 @@
   url: pragmatic-play/reel-kingdom/bigger-bass-bonanza
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs12bbb
  
 - title: Big Bass Splash
@@ -2241,7 +2261,7 @@
   url: pragmatic-play/reel-kingdom/big-bass-splash
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10txbigbass
   
 - title: Big Bass Bonanza — Keeping It Reel
@@ -2250,7 +2270,7 @@
   url: pragmatic-play/reel-kingdom/big-bass-keeping-it-reel
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bbkir
   
 - title: Christmas Big Bass Bonanza
@@ -2259,7 +2279,7 @@
   url: pragmatic-play/reel-kingdom/christmas-big-bass-bonanza
   provider: Pragmatic Play
   available: available
-  line: Reel Kingdom
+  type: Reel Kingdom
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10bxmasbnza
   
 - title: Bigger Bass — Blizzard Christmas Catch
@@ -2447,6 +2467,7 @@
   img: shining-hot5.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5sh
 
 - title: Shining Hot 20
@@ -2454,6 +2475,7 @@
   img: shining-hot20.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20sh
 
 - title: Shining Hot 40
@@ -2461,6 +2483,7 @@
   img: shining-hot40.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40sh
 
 - title: Shining Hot 100
@@ -2468,6 +2491,7 @@
   img: shining-hot100.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs100sh
 
 - title: Fire Hot 5
@@ -2475,6 +2499,7 @@
   img: fire-hot5.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5firehot
 
 - title: Fire Hot 20
@@ -2482,6 +2507,7 @@
   img: fire-hot20.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20fh
 
 - title: Fire Hot 40
@@ -2489,6 +2515,7 @@
   img: fire-hot40.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs40firehot
 
 - title: Fire Hot 100
@@ -2496,6 +2523,7 @@
   img: fire-hot100.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs100firehot
 
 - title: Striking Hot 5
@@ -2503,6 +2531,7 @@
   img: striking-hot5.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5strh
 
 - title: Super X
@@ -2510,6 +2539,7 @@
   img: superx.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20superx
 
 - title: Crown of Fire
@@ -2517,6 +2547,7 @@
   img: crown-of-fire.webp
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10crownfire
 
 - title: Fire 88
