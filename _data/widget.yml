@@ -5,9 +5,13 @@
      url: /pragmatic-play
      items:
       - img: https://l154gamer.github.io/assets/feature/peaky-blinders.webp
+        url: /pragmatic-play
       - img: https://l154gamer.github.io/assets/feature/cowboys-coins.webp
+        url: /pragmatic-play
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-duels.webp
+        url: /pragmatic-play
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-gold.webp
+        url: /pragmatic-play
 
 - title: PG Soft
   url: /pgsoft
@@ -16,8 +20,12 @@
      url: /pgsoft
      items:
       - img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCcv4PgOsEbxEXrvLy_lShBinOfPQGHbb_3g&usqp=CAU
+        url: /pgsoft
       - img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSaD8FBvgZkGMq_ImSRyHIsAw5b4dRoA44Wg&usqp=CAU
+        url: /pgsoft
       - img: https://l154gamer.github.io/assets/img/pgsoft/cruise-royale.webp
+        url: /pgsoft
       - img: https://l154gamer.github.io/assets/img/pgsoft/mahjong-ways2.webp
+        url: /pgsoft
 
 
