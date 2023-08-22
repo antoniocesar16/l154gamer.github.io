@@ -28,4 +28,26 @@
       - img: https://l154gamer.github.io/assets/img/pgsoft/mahjong-ways2.webp
         url: /pgsoft
 
+- title: YGGDrasil
+  url: /yggdrasil
+  subcategories:
+   - title: "YGGDrasil"
+     url: /yggdrasil
+     items:
+      - img: https://l154gamer.github.io/assets/feature/beauty-beast.jpeg
+        url: /yggdrasil
+      - img: https://l154gamer.github.io/assets/feature/vikings-berzerk.jpeg
+        url: /yggdrasil
+      - img: https://l154gamer.github.io/assets/feature/holmes.jpeg
+        url: /yggdrasil
+      - img: https://l154gamer.github.io/assets/feature/jungle-books.jpeg
+        url: /yggdrasil
+
+
+
+
+
+
+
+
 
