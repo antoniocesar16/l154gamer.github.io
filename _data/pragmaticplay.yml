@@ -321,6 +321,7 @@
   url: pragmatic-play/fire-strike
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10firestrike
   
 - title: Fire Strike 2
@@ -329,6 +330,7 @@
   url: pragmatic-play/fire-strike2
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10firestrike2
   
 - title: Bomb Bonanza
@@ -607,7 +609,7 @@
   url: pragmatic-play/slotmania-candy-village
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20slmancan
   provider: Pragmatic Play
-  type: Slot Mania
+  type: slotmania
 
 - title: Slot Mania Rabbit 
   symbol: vs20smrabbit
@@ -616,7 +618,7 @@
   url: pragmatic-play/slotmania-rabbit
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20smrabbit
   provider: Pragmatic Play
-  type: Slot Mania
+  type: slotmania
 
 - title: Diamond Cascade 
   symbol: vs50dmdcascade
@@ -1541,8 +1543,8 @@
   url: pragmatic-play/nexus-starlight-princess
   provider: Pragmatic Play
   available: available
-  permalink:
-  type: nexus https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexussp
+  type: nexus
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20nexussp
 
 - title: Nexus Sweet Bonanza
   symbol: vs20fruitsnexus
@@ -1586,7 +1588,6 @@
   url: pragmatic-play/starlight-princess-1000
   provider: Pragmatic Play
   available: available
-  type: infini88
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20starlightx
 
 - title: The Wild Machine
