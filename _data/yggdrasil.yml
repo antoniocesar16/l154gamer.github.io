@@ -1,450 +1,300 @@
 - title: Beauty and The Beast
   id: 7333
-  lang: id
-  currency: IDR
-  img: beauty-the-beast.webp
-  url: yggdrasil/beauty-and-the-beast
+  img: yggdrasil/beauty-the-beast.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7333&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Spina Colada
   id: 7339
-  lang: id
-  currency: IDR
-  img: spina-colada.webp
-  url: yggdrasil/spina-colada
+  img: yggdrasil/spina-colada.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7339&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Golden Fish Tank
   id: 7322
-  lang: id
-  currency: IDR
-  img: golden-fish-tank.webp
-  url: yggdrasil/golden-fish-tank
+  img: yggdrasil/golden-fish-tank.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7322&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Golden Fish Tank 2
   id: 7409
-  lang: id
-  currency: IDR
-  img: golden-fish-tank2.webp
-  url: yggdrasil/golden-fish-tank2
+  img: yggdrasil/golden-fish-tank2.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7409&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Holmes and The Stolen Stones
   id: 7317
-  lang: id
-  currency: IDR
-  img: holmes-stolen-stones.webp
-  url: yggdrasil/holmes-stolen-stones
+  img: yggdrasil/holmes-stolen-stones.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7317&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Vikings Go Berzerk
   id: 7331
-  lang: id
-  currency: IDR
-  img: vikings-go-berzerk.webp
-  url: yggdrasil/vikings-go-berzerk
+  img: yggdrasil/vikings-go-berzerk.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7331&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Rainbow Ryan
   id: 7336
-  lang: id
-  currency: IDR
-  img: rainbow-ryan.webp
-  url: yggdrasil/rainbow-ryan
+  img: yggdrasil/rainbow-ryan.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7336&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Winter Berries
   id: 7302
-  lang: id
-  currency: IDR
-  img: winter-berries.webp
-  url: yggdrasil/winter-berries
+  img: yggdrasil/winter-berries.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7302&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Nirvana
   id: 7319
-  lang: id
-  currency: IDR
-  img: nirvana.webp
-  url: yggdrasil/nirvana
+  img: yggdrasil/nirvana.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7319&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Double Dragons
   id: 7329
-  lang: id
-  currency: IDR
-  img: double-dragons.webp
-  url: yggdrasil/double-dragons
+  img: yggdrasil/double-dragons.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7329&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Jungle Books
   id: 7337
-  lang: id
-  currency: IDR
-  img: jungle-books.webp
-  url: yggdrasil/jungle-books
+  img: yggdrasil/jungle-books.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7337&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Legend of The Golden Monkey
   id: 7325
-  lang: id
-  currency: IDR
-  img: golden-monkey.webp
-  url: yggdrasil/golden-monkey
+  img: yggdrasil/golden-monkey.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7325&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Legend of The White Snake Lady
   id: 7327
-  lang: id
-  currency: IDR
-  img: white-snake-lady.webp
-  url: yggdrasil/white-snake-lady
+  img: yggdrasil/white-snake-lady.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7327&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Seasons
   id: 7323
-  lang: id
-  currency: IDR
-  img: seasons.webp
-  url: yggdrasil/seasons
+  img: yggdrasil/seasons.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7323&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Super Heroes
   id: 7330
-  lang: id
-  currency: IDR
-  img: super-heroes.webp
-  url: yggdrasil/super-heroes
+  img: yggdrasil/super-heroes.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7330&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Sunny Shores
   id: 7338
-  lang: id
-  currency: IDR
-  img: sunny-shores.webp
-  url: yggdrasil/sunny-shores
+  img: yggdrasil/sunny-shores.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7338&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Alchymedes
   id: 7332
-  lang: id
-  currency: IDR
-  img: alchymedes.webp
-  url: yggdrasil/alchymedes
+  img: yggdrasil/alchymedes.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7332&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Big Blox
   id: 7328
-  lang: id
-  currency: IDR
-  img: big-blox.webp
-  url: yggdrasil/big-blox
+  img: yggdrasil/big-blox.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7328&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Vikings Go Wild
   id: 7316
-  lang: id
-  currency: IDR
-  img: vikings-go-wild.webp
-  url: yggdrasil/vikings-go-wild
+  img: yggdrasil/vikings-go-wild.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7316&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Cazino Zeppelin
   id: 7308
-  lang: id
-  currency: IDR
-  img: cazino-zeppelin.webp
-  url: yggdrasil/cazino-zeppelin
+  img: yggdrasil/cazino-zeppelin.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7308&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Gem Rocks
   id: 7343
-  lang: id
-  currency: IDR
-  img: gem-rocks.webp
-  url: yggdrasil/gem-rocks
+  img: yggdrasil/gem-rocks.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7343&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Cyrus The Virus
   id: 7313
-  lang: id
-  currency: IDR
-  img: cyrus-the-virus.webp
-  url: yggdrasil/cyrus-the-virus
+  img: yggdrasil/cyrus-the-virus.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7313&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Fruitoids
   id: 7304
-  lang: id
-  currency: IDR
-  img: fruitoids.webp
-  url: yggdrasil/fruitoids
+  img: yggdrasil/fruitoids.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7304&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Wicked Circus
   id: 7321
-  lang: id
-  currency: IDR
-  img: wicked-circus.webp
-  url: yggdrasil/wicked-circus
+  img: yggdrasil/wicked-circus.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7321&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Sahara Nights
   id: 10157
-  lang: id
-  currency: IDR
-  img: sahara-nights.webp
-  url: yggdrasil/sahara-nights
+  img: yggdrasil/sahara-nights.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10157&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Brazil Bomba
   id: 7375
-  lang: id
-  currency: IDR
-  img: brazil-bomba.webp
-  url: yggdrasil/brazil-bomba
+  img: yggdrasil/brazil-bomba.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7375&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: The Royal Family
   id: 8303
-  lang: id
-  currency: IDR
-  img: royal-family.webp
-  url: yggdrasil/royal-family
+  img: yggdrasil/royal-family.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=8303&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: The One Armed of Bandit
   id: 10143
-  lang: id
-  currency: IDR
-  img: armed-bandit.webp
-  url: yggdrasil/one-armed-bandit
+  img: yggdrasil/armed-bandit.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=10143&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Champions of Rome
   id: 10158
-  lang: id
-  currency: IDR
-  img: champions-rome.webp
-  url: yggdrasil/champions-of-rome
+  img: yggdrasil/champions-rome.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10158&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Penguin City
   id: 7350
-  lang: id
-  currency: IDR
-  img: penguin-city.webp
-  url: yggdrasil/penguin-city
+  img: yggdrasil/penguin-city.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7350&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Easter Island 
   id: 10072
-  lang: id
-  currency: IDR
-  img: easter-island.webp
-  url: yggdrasil/easter-island
+  img: yggdrasil/easter-island.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10072&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Easter Island 2
   id: 7396
-  lang: id
-  currency: IDR
-  img: easter-island2.webp
-  url: yggdrasil/easter-island2
+  img: yggdrasil/easter-island2.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7396&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Baron Samedi
   id: 7354
-  lang: id
-  currency: IDR
-  img: baron-samedi.webp
-  url: yggdrasil/baron-samedi
+  img: yggdrasil/baron-samedi.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7354&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Calavera Crush
   id: 10292
-  lang: id
-  currency: IDR
-  img: calavera-crush.webp
-  url: yggdrasil/calavera-crush
+  img: yggdrasil/calavera-crush.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10292&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Arthur's Fortune
   id: 10160
-  lang: id
-  currency: IDR
-  img: arthurs-fortune.webp
-  url: yggdrasil/arthurs-fortune
+  img: yggdrasil/arthurs-fortune.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10160&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Blood Moon Wilds
   id: 10161
-  lang: id
-  currency: IDR
-  img: blood-moon-wilds.webp
-  url: yggdrasil/blood-moon-wilds
+  img: yggdrasil/blood-moon-wilds.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10161&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Bicicleta
   id: 7326
-  lang: id
-  currency: IDR
-  img: bicicleta.webp
-  url: yggdrasil/bicicleta
+  img: yggdrasil/bicicleta.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7326&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Football Glory
   id: 7386
-  lang: id
-  currency: IDR
-  img: football-glory.webp
-  url: yggdrasil/football-glory
+  img: yggdrasil/football-glory.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7386&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Orient Express
   id: 8301
-  lang: id
-  currency: IDR
-  img: orient-express.webp
-  url: yggdrasil/orient-express
+  img: yggdrasil/orient-express.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8301&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Raptor Doublemax
   id: 7408
-  lang: id
-  currency: IDR
-  img: raptor.webp
-  url: yggdrasil/raptor-doublemax
+  img: yggdrasil/raptor.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7408&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Gator Gold Gigablox 
   id: 7401
-  lang: id
-  currency: IDR
-  img: gator-gold.webp
-  url: yggdrasil/gator-gold
+  img: yggdrasil/gator-gold.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7401&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Gator Gold Gigablox Deluxe 
   id: 10170
-  lang: id
-  currency: IDR
-  img: gator-gold-deluxe.webp
-  url: yggdrasil/gator-gold-deluxe
+  img: yggdrasil/gator-gold-deluxe.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10170&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Trolls Bridge
   id: 8302
-  lang: id
-  currency: IDR
-  img: trolls-bridge.webp
-  url: yggdrasil/trolls-bridge
+  img: yggdrasil/trolls-bridge.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8302&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Time Travel Tigers
   id: 7356
-  lang: id
-  currency: IDR
-  img: time-travel-tigers.webp
-  url: yggdrasil/time-travel-tigers
+  img: yggdrasil/time-travel-tigers.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7356&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Age of Asgard
   id: 7365
-  lang: id
-  currency: IDR
-  img: asgard.webp
-  url: yggdrasil/asgard
+  img: yggdrasil/asgard.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7365&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Aldo's Journey
   id: 7372
-  lang: id
-  currency: IDR
-  img: aldos-journey.webp
-  url: yggdrasil/aldos-journey
+  img: yggdrasil/aldos-journey.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7372&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Pirates Smugglers Paradise
   id: 8304
-  lang: id
-  currency: IDR
-  img: pirates-paradise.webp
-  url: yggdrasil/pirates-paradise
+  img: yggdrasil/pirates-paradise.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=8304&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
   provider: YGGDRASIL
 
 - title: Ozwin's Jackpot
   id: 7345
-  lang: id
-  currency: IDR
-  img: ozwins-jackpots.webp
-  url: yggdrasil/ozwins-jackpots
+  img: yggdrasil/ozwins-jackpots.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?org=demo&gameid=7345&lang=id&currency=IDR
   provider: YGGDRASIL
 
 - title: Eye of Persia 2
   id: 10250
-  lang: id
-  currency: IDR
-  img: persia-eye2.webp
-  url: yggdrasil/eye-of-persia2
+  img: yggdrasil/persia-eye2.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=10250&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
   provider: YGGDRASIL
 
 - title: Tuts Twister
   id: 7349
-  lang: id
-  currency: IDR
-  img: tuts-twister.webp
-  url: yggdrasil/tuts-twister
+  img: yggdrasil/tuts-twister.webp
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7349&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
   provider: YGGDRASIL
 
