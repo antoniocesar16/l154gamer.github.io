@@ -56,3 +56,27 @@
   provider: Bigpot Gaming
   available: not-available
   type: casino
+
+- title: Roulette
+  gameid: rou
+  img: roulette.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
+  type: casino
+
+- title: Blackjack
+  gameid: bj
+  img: blackjack.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
+  type: casino
+
+- title: Dragon Tiger
+  gameid: dt
+  img: dragon-tiger.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
+  type: casino
