@@ -1,81 +1,85 @@
 - title: Olympus Zeus Megaways
   img: olympus-zeus.webp
-  url: isoftbet/olympus-zeus
-  currency: IDR
-  provider: iSoftBet Megaways
+  permalink: https://stage-game-launcher-lux.isoftbet.com/1015/200514?mode=0&turboMode=1&background=1&cur=IDR&lang=en&enableConsole=false
+  provider: iSoftBet
+  type: megaways
+  
 - title: Gold digger Mines
   img: gold-digger-mine.webp
-  url: isoftbet/gold-digger-mines
-  currency: idr
-  lang: id
+  permalink: 
   provider: iSoftBet
+  
 - title: Gold digger Megaways
   img: gold-digger.webp
-  url: isoftbet/gold-digger
-  currency: IDR
-  provider: iSoftBet Megaways
+  permalink: 
+  provider: iSoftBet 
+  type: megaways
+  
 - title: Rising Samurai
   img: rising-samurai.webp
-  url: isoftbet/rising-samurai
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Plunderin Pirates
   img: plunderin-pirates.webp
   url: isoftbet/plunderin-pirates
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Crabbin Crazy
   img: crabbin-crazy.webp
-  url: isoftbet/crabbin-crazy
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Bounty Belles
   img: bounty-belles.webp
-  url: isoftbet/bounty-belles
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Brillian Diamonds
   img: brillian-diamonds.webp
-  url: isoftbet/brillian-diamonds
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Alice Adventure
   img: alice-adventure.webp
-  url: isoftbet/alice-adventure
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Happy Birds
   img: happy-birds.webp
-  url: isoftbet/happy-birds
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Night Queen
   img: night-queen.webp
-  url: isoftbet/night-queen
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Tropical Bonanza
   img: tropical-bonanza.webp
-  url: isoftbet/tropical-bonanza
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Wishing Wheel
   img: wishing-wheel.webp
-  url: isoftbet/wishing-wheel
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Egyptian King
   img: egyptian-king.webp
-  url: isoftbet/egyptian-king
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  
 - title: Tales of Silver Megaways
   img: tales-of-silver.webp
-  url: isoftbet/tales-of-silver
-  currency: IDR
+  permalink: IDR
   provider: iSoftBet
+  type: megaways
+  
 - title: Tyrant King Megaways
   img: tyrant-king.webp
-  url: isoftbet/tyrant-king
-  currency: IDR
+  permalink: permalink
   provider: iSoftBet
+  type: megaways
+
