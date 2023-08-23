@@ -5,6 +5,7 @@
   lang: id
   permalink: https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&serverid=22619&ul=id&playmode=demo&gameid=magicOfSahara
   provider: All41 Studios
+  type: all41studios
   
 - title: Break Da Bank Again  
   gameid: BreakDaBankAgain
@@ -13,6 +14,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=BreakDaBankAgain
   provider: Gameburger Studios
+  type: gameburger
   
 - title: Break Da Bank Again Megaways  
   gameid: BreakDaBankAgainMEGAWAYS
@@ -21,6 +23,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=BreakDaBankAgainMEGAWAYS
   provider: Gameburger Studios
+  type: gameburger
   
 - title: Sherlock of London  
   ganeid: sherlockOfLondonOnlineSlot
@@ -29,6 +32,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=sherlockOfLondonOnlineSlot
   provider: Rabcat Gambling
+  type: rabcat
   
 - title: Book of King Arthur
   gameid: bookOfKingArthur
@@ -37,6 +41,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=bookOfKingArthur
   provider: Just For The Win
+  type: justforthewin
   
 - title: Zeus Ancient Fortunes 
   gameid: ancientFortunesZeus
@@ -45,6 +50,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=ancientFortunesZeus
   provider: Triple Edge Studios
+  type: tripleedgestudios
   
 - title: Amazing Link Zeus 
   gameid: amazingLinkZeus
@@ -53,6 +59,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=amazingLinkZeus
   provider: SpinPlay Games
+  type: spinplay
   
 - title: Atlantis Rising
   gameid: antlantisRising
@@ -61,6 +68,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=atlantisRising
   provider: SpinPlay Games
+  type: spinplay
   
 - title: Queen of Alexandria
   gameid: queenOfAlexandria
@@ -69,6 +77,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=queenOfAlexandria
   provider: Neon Valley Studios
+  type: neonvalleystudios
   
 - title: Queen of Alexandria Wowpot
   gameid: queenOfAlexandriaWowpot
@@ -77,6 +86,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=queenOfAlexandriaWowpot
   provider: Neon Valley Studios
+  type: neonvalleystudios
   
 - title: Neptune's Riches Ocean of Wilds 
   gameid: neptunesRichesOceanOfWilds
@@ -85,6 +95,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=neptunesRichesOceanOfWilds
   provider: Just For The Win
+  type: justforthewin
   
 - title: Goldaur Guardians 
   gameid: goldaurGuardians
@@ -93,15 +104,17 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=goldaurGuardians
   provider: Alchemy Gaming
-  
+  type: alchemygaming
+
 - title: Divine Diamonds 
   gameid: divineDiamonds
   img: divine-diamonds.webp
   url: microgaming/divine-diamonds
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=divineDiamonds
-  provider: Northern Lights
-  
+  provider: Northernlights
+  type: northernlights
+
 - title: 9 Blazing Diamonds 
   gameid: 9BlazingDiamonds
   img: 9blazing-diamonds.webp
@@ -109,6 +122,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=9BlazingDiamonds
   provider: SpinPlay Games
+  type: spinplay
   
 - title: Emerald Gold  
   gameid: emeraldGold
@@ -117,6 +131,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=emeraldGold
   provider: Just For The Win
+  type: justforthewin
   
 - title: Relic Seekers  
   gameid: relicSeekers
@@ -125,6 +140,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=relicSeekers
   provider: Pulse 8 Studios
+  type: pulse8
 
 - title: Agent Jane Blonde Returns  
   gameid: agentJaneBlondeReturns
@@ -132,7 +148,8 @@
   url: microgaming/agent-jane-blonde-returns
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=agentJaneBlondeReturns
-  provider: Storm Craft Studios
+  provider: Stormcraft Studios
+  type: stormcraft
   
 - title: Robin of Sherwood  
   gameid: robinOfSherwoodOnlineSlot
@@ -141,6 +158,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=robinOfSherwoodOnlineSlot
   provider: Rabcat Gambling
+  type: rabcat
 
 - title: Exotic Cats  
   gameid: exoticCats
@@ -157,6 +175,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=risingRoyals
   provider: Just For The Win
+  type: justforthewin
 
 - title: A Dark Matter  
   gameid: aDarkMatter
@@ -189,6 +208,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=wantedOutlaws
   provider: All41 Studios
+  type: all41studios
 
 - title: Boom Pirates
   gameid: boomPirates
@@ -197,6 +217,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=boomPirates
   provider: Foxium
+  type: foxium
 
 - title: Ruby Casino Queen
   gameid: rubyCasinoQueen
@@ -205,6 +226,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=rubyCasinoQueen
   provider: Just For The Win
+  type: justforthewin
 
 - title: Our Days
   gameid: ourDays
@@ -221,6 +243,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=leKaffeeBar
   provider: All41 Studios
+  type: all41studios
 
 - title: Bust The Bank
   gameid: bustTheBank
@@ -237,6 +260,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=wickedTalesDarkRed
   provider: Triple Edge Studios
+  type: tripleedgestudios
 
 - title: Dragon Shard
   gameid: dragonShard
@@ -245,6 +269,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=dragonShard
   provider: Stormcraft Studios
+  type: stormcraft
 
 - title: Jungle Jim And The Lost Sphinx
   gameid: jungleJimAndTheLostSphinx
@@ -253,6 +278,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=jungleJimAndTheLostSphinx
   provider: Stormcraft Studios
+  type: stormcraft
 
 - title: African Quest
   gameid: africanQuest
@@ -261,6 +287,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=africanQuest
   provider: Triple Edge Studios
+  type: tripleedgestudios
 
 - title: Forgotten Island Megaways
   gameid: forgottenIsland
@@ -269,6 +296,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=forgottenIsland
   provider: All41 Studios
+  type: all41studios
 
 - title: Augustus
   gameid: augustus
@@ -277,6 +305,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=augustus
   provider: Neon Valley Studios
+  type: neonvalleystudios
 
 - title: Western Gold
   gameid: westernGold
@@ -285,6 +314,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=westernGold
   provider: Just For The Win
+  type: justforthewin
 
 - title: Arthur's Gold
   gameid: arthursGold
@@ -293,6 +323,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=arthursGold
   provider: Gold Coin Studios
+  type: goldcoin
 
 - title: Aliya's Wishes
   gameid: aliyasWishes
@@ -301,6 +332,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=aliyasWishes
   provider: Fortune Factory Studios
+  type: fortunefactory
   
 - title: Age Of Conquest
   gameid: ageOfConquest
@@ -309,6 +341,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=ageOfConquest
   provider: Neon Valley Studios
+  type: neonvalleystudios
 
 - title: Electric Avenue
   gameid: electricAvenue
@@ -317,6 +350,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=electricAvenue
   provider: All41 Studios
+  type: all41studios
 
 - title: North Storm
   gameid: northStorm
@@ -325,6 +359,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=northStorm
   provider: Rabcat Gambling
+  type: rabcat
 
 - title: Playboy Gold Jackpots
   gameid: playboyGoldJackpots
@@ -333,6 +368,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=playboyGoldJackpots
   provider: Triple Edge Studios
+  type: tripleedgestudios
 
 - title: Pistoleras
   gameid: pistoleras
@@ -373,6 +409,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=footballStarDeluxe
   provider: Stormcraft Studios
+  type: stormcraft
 
 - title: All Win FC
   gameid: allWimFc
@@ -381,6 +418,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=allWinFc
   provider: All41 Studios
+  type: all41studios
 
 - title: 11 Champions
   gameid: 11Champions
@@ -389,6 +427,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=11Champions
   provider: Gameburger Studios
+  type: gameburger
 
 - title: Break Away Deluxe
   gameid: breakAwayDeluxe
@@ -397,6 +436,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=breakAwayDeluxe
   provider: Stormcraft Studios
+  type: stormcraft
 
 - title: Break Away Lucky Wilds
   gameid: breakAwayLuckyWilds
@@ -405,6 +445,7 @@
   lang: id
   permalink: https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=28920&playmode=demo&ul=id&gameid=breakAwayLuckyWilds
   provider: Stormcraft Studios
+  type: stormcraft
 
 - title: Cricket Star
   gameid: cricketStar
