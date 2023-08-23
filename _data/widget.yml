@@ -58,9 +58,35 @@
       - img: https://l154gamer.github.io/assets/img/nolimit-city/rock-bottom.webp
         url: /nolimit-city
 
+- title: Microgaming
+  url: /microgaming
+  subcategories:
+   - title: "Microgaming"
+     url: /microgaming
+     items:
+      - img: https://l154gamer.github.io/assets/feature/sherlock-of-london.webp
+        url: /microgaming
+      - img: https://l154gamer.github.io/assets/feature/magic-of-sahara.webp
+        url: /microgaming
+      - img: https://l154gamer.github.io/assets/img/microgaming/our-days.webp
+        url: /microgaming
+      - img: https://l154gamer.github.io/assets/img/microgaming/ariana.webp
+        url: /microgaming
 
-
-
+- title: NetEnt
+  url: /netent
+  subcategories:
+   - title: "NetEnt"
+     url: /netent
+     items:
+      - img: https://l154gamer.github.io/assets/feature/lost-relics.jpeg
+        url: /netent
+      - img: https://l154gamer.github.io/assets/feature/steam-tower.jpeg
+        url: /netent
+      - img: https://l154gamer.github.io/assets/img/netent/excalibur.webp
+        url: /netent
+      - img: https://l154gamer.github.io/assets/img/netent/secrets-of-atlantis.webp
+        url: /netent
 
 
 
