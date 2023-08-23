@@ -447,3 +447,24 @@
   url: yggdrasil/tuts-twister
   permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=7349&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/games/yggdrasil
   provider: YGGDRASIL
+
+- title: Big Bucks Bandits Megaways
+  id: 1025
+  img: megaways/big-bucks-bandits.webp
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1025&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDrasil
+  type: megaways
+
+- title: Atlantis Megaways
+  id: 1020
+  img: megaways/atlantis-megaways.webp
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1020&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDrasil
+  type: megaways
+
+- title: Odin Infinity Reels Megaways
+  id: 1033
+  img: megaways/odin-megaways.webp
+  permalink: https://static-fra.pff-ygg.com/init/launchClient.html?gameid=1033&org=demo&lang=id&currency=IDR&channel=mobile&home=https://as-saadah.github.io/yggdrasil
+  provider: YGGDrasil
+  type: megaways
