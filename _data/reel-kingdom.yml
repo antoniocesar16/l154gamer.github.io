@@ -312,3 +312,17 @@
   lang: id
   permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10fdrasbf
   provider: Reel Kingdom
+
+- title: Floating Dragon Megaways
+  symbol: vswaysfltdrg
+  img: floating-dragon.webp
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysfltdrg
+  provider: Reel Kingdom
+  type: megaways
+
+- title: Big Bass Bonanza Megaways
+  symbol: vswaysbbb
+  img: big-bass-bonanza-megaways.webp
+  permalink: https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysbbb
+  provider: Reel Kingdom
+  type: megaways
