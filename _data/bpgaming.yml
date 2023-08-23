@@ -47,6 +47,7 @@
   permalink: 
   provider: Bigpot Gaming
   available: not-available
+  type: casino
 
 - title: Baccarat Super 6
   gameid: bs6
@@ -54,3 +55,4 @@
   permalink: 
   provider: Bigpot Gaming
   available: not-available
+  type: casino
