@@ -40,3 +40,17 @@
   currency: IDR
   permalink: https://free.bigpotgaming.com/run/SLOT/SG/?lang=id&currency=IDR&isMobile=true&isFreePlay=true
   provider: Bigpot Gaming
+
+- title: Baccarat Classic
+  gameid: bc
+  img: baccarat.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
+
+- title: Baccarat Super 6
+  gameid: bs6
+  img: baccarat-super6.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
