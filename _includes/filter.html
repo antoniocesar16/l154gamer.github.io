@@ -33,6 +33,30 @@
         </div>
     </li>
     {% endif %}
+
+    {% if page.active == "microgaming" %}
+    <li>
+        <a href="#">Line <span uk-icon="icon: triangle-down"></span></a>
+        <div uk-dropdown="mode: click">
+            <ul class="uk-nav uk-dropdown-nav">
+             <li uk-filter-control="[data-pilih='rabcat']"><a href="#rabcat">Rabcat Gambling</a></li>
+             <li uk-filter-control="[data-pilih='all41studios']"><a href="#all41studios">All41 Studios</a></li>
+             <li uk-filter-control="[data-pilih='gameburger']"><a href="#gameburger">Gameburger Studios</a></li>
+             <li uk-filter-control="[data-pilih='justforthewin']"><a href="#justforthewin">Just For The Win</a></li>
+             <li uk-filter-control="[data-pilih='tripleedgestudios']"><a href="#tripleedgestudios">Triple Edge Studios</a></li>
+             <li uk-filter-control="[data-pilih='spinplay']"><a href="#spinplay">SpinPlay Games</a></li>
+             <li uk-filter-control="[data-pilih='neonvalleystudios']"><a href="#neonvalleystudios">Neon Valley Studios</a></li>
+             <li uk-filter-control="[data-pilih='northernlights']"><a href="#northernlights">Northernlights</a></li>
+             <li uk-filter-control="[data-pilih='alchemygaming']"><a href="#alchemygaming">Alchemy Gaming</a></li>
+             <li uk-filter-control="[data-pilih='pulse8']"><a href="#pulse8">Pulse 8 Studios</a></li>
+             <li uk-filter-control="[data-pilih='stormcraft']"><a href="#stormcraft">Stormcraft Studios</a></li>
+             <li uk-filter-control="[data-pilih='foxium']"><a href="#foxium">Foxium</a></li>
+             <li uk-filter-control="[data-pilih='goldcoin']"><a href="#goldcoin">Gold Coin Studios</a></li>
+             <li uk-filter-control="[data-pilih='fortunefactory']"><a href="#fortunefactory">Fortune Factory Studios</a></li>
+            </ul>
+        </div>
+    </li>
+    {% endif %}
     
     {% if page.active == "pgsoft" %}
     <li uk-filter-control="[data-pilih='buyspin']"><a href="#buyspin">Beli Spin</a></li>
