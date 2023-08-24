@@ -201,6 +201,7 @@
   url: pragmatic-play/jokers-jewel
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs5joker
   
 - title: Candy Village
@@ -379,6 +380,7 @@
   url: pragmatic-play/joker-king
   provider: Pragmatic Play
   available: available
+  type: classic
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs25jokerking
   
 - title: Juicy Fruits
