@@ -2565,5 +2565,68 @@
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs7fire88
+  type: videoslot
 
+- title: Money Roll 
+  symbol: cs5moneyroll
+  img: money-roll.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=cs5moneyroll
+  type: classic
 
+- title: Money Money Money 
+  symbol: vs1money
+  img: money-money-money.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1money
+  type: classic
+  
+- title: Diamonds Are Forever
+  symbol: vs1money
+  img: diamonds-are-forever.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=cs3w
+  type: classic
+
+- title: Irish Charms
+  symbol: cs3irishcharms
+  img: irish-charms.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=cs3irishcharms
+  type: classic
+
+- title: Master Joker
+  symbol: vs1masterjoker
+  img: master-joker.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1masterjoker
+  type: classic
+
+- title: Fu Fu Fu
+  symbol: vs1fufufu
+  img: fufufu.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1fufufu
+  type: classic
+  
+- title: Multihand Blackjack
+  symbol: 
+  img: multihand-blackjack.webp
+  provider: Pragmatic Play
+  available: not-available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=
+  type: casino
+
+- title: American Blackjack
+  symbol: 
+  img: american-blackjack.webp
+  provider: Pragmatic Play
+  available: not-available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=
+  type: casino
