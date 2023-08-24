@@ -324,3 +324,24 @@
   provider: Red Tiger
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/BloodSuckersMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
   type: redtiger
+
+- title: The Wish Master Megaways
+  img: netent/the-wish-master-megaways.webp 
+  permalink: 
+  provider: NetEnt
+  available: not-available
+  type: netent
+
+- title: Wild turkey Megaways
+  img: netent/wild-turkey-megaways.webp 
+  permalink: 
+  provider: NetEnt
+  available: not-available
+  type: netent
+
+- title: Fruit Shop Megaways
+  img: netent/fruit-shop-megaways.webp 
+  permalink: 
+  provider: NetEnt
+  available: not-available
+  type: netent
