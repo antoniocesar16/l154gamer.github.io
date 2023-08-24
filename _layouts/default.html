@@ -4,8 +4,8 @@
  {% include head.html %}
 </head>
 <body>
-{% include nav.html %}    
-<div class="uk-section-large"><!-- section -->
+{% include nav.html %}
+<div class="uk-section-large"><!-- Section -->
  <div data-uk-filter=".js-filter" class="uk-container" style="margin-top: 50px;"><!-- Container -->
   {% if page.url == "/" %}
    {% else %}  
@@ -13,81 +13,8 @@
   {% endif %}
   {{ content }}    
  </div><!-- /Container -->    
-</div><!-- /section -->
-    
+</div><!-- /Section -->    
 <!-- JS -->
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>     
-<script src="https://l154gamer.github.io/assets/js/theme.js"></script>
-<script type="text/javascript" language="javascript">
-$(document).ready(function() {
-  $('#grid').click(function(event) {
-    event.preventDefault()
-    $('.bc').addClass('grid')
-    $('.bc').removeClass('list')
-    localStorage.setItem('.bc', 'grid');
-  });
-  $('#list').click(function(event){
-    event.preventDefault();
-    $('.bc').addClass('list')
-    $('.bc').removeClass('grid')
-    localStorage.setItem('.bc', 'list')
-  })
-  let itemClass = localStorage.getItem('.bc')
-  $('.bc').addClass(itemClass)
-});
-</script>    
-<script>
-function showModal()
-{
-  $('#modal').show();
-}
-
-function hideModal()
-{
-  $('#modal').hide();
-}
-</script>
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-    const inputEl = document.getElementById('myfilter');
-    const tags = Array.from(document.querySelectorAll('.uk-card'));
-
-    inputEl.addEventListener('keyup', () => {
-        const value = inputEl.value;
-
-        tags.forEach(tag => {
-            if (tag.textContent.includes(value)) {
-                tag.parentNode.style.display = 'block'
-            } else {
-                tag.parentNode.style.display = 'none'
-            }
-        })
-    })
-})    
-</script>
-
-<script>
-window.addEventListener("load", function(event) {
-  //hash = document.location.hash;
-  //console.log("Hash: " + hash);
-
-  //Let's assume the document.location.hash returns #white
-  hash = '#semua';
-
-  if (hash !== "") {
-    //get the color subnav button
-    pilih = document.querySelector('a[href="'+hash+'"]');
-    //trigger the click event
-    pilih.click();
-  }
-});
-</script>
-<script>
-$(document).ready(function() {
-    $("#not-available").addClass("disable");
-});	
-</script>    
+{% include scripts.html %}
 </body>
 </html>
