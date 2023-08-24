@@ -74,3 +74,24 @@
   available: not-available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=
   type: pragmaticplay
+
+- title: Spaceman
+  img: pragmatic-play/spaceman.webp
+  provider: Pragmatic Play
+  available: available
+  type: pragmaticplay
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=1302
+
+- title: Blackjack Neo 
+  gameid: blackjackneo
+  img: relax-gaming/blackjack-neo.webp
+  permalink: https://d2drhksbtcqozo.cloudfront.net/casino/apex/layer/?channel=mobile&gameid=blackjackneo&moneymode=fun&jurisdiction=MT&partnerid=1&&apex=1&gameurl=https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html
+  provider: Relax Gaming 
+  type: relaxgaming 
+
+- title: Roulette Nouveau
+  gameid: blackjackneo
+  img: relax-gaming/nouveou-roulette.webp
+  permalink: https://d2drhksbtcqozo.cloudfront.net/casino/apex/layer/?channel=mobile&gameid=roulettenouveau&moneymode=fun&jurisdiction=MT&partnerid=1&&apex=1&gameurl=https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html
+  provider: Relax Gaming 
+  type: relaxgaming 
