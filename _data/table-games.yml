@@ -1,0 +1,42 @@
+- title: Baccarat Pro
+  img: netent/baccarat.webp 
+  permalink: https://games.netent.com/embed/game.html?gameId=baccarat2_not_mobile&currency=EUR&language=en
+  provider: NetEnt
+  available: available
+  type: netent
+
+- title: Classic Blackjack
+  img: netent/classic-blackjack.webp 
+  permalink: https://games.netent.com/embed/game.html?gameId=blackjackclassic_f1_g1_h0_i0_j0_not_mobile&currency=EUR&language=en
+  provider: NetEnt
+  available: available
+  type: netent
+ 
+- title: Roulette Advanced 
+  img: netent/roulette-advanced.webp 
+  permalink: https://games.netent.com/embed/game.html?gameId=roulette2adv_not_mobile&currency=EUR&language=en
+  provider: NetEnt
+  available: available
+  type: netent
+
+- title: American Blackjack
+  img: pgsoft/american-blackjack.webp
+  provider: PG Soft
+  available: not-available
+  type: pgsoft
+  permalink: https://m.pgsoft-games.com/null/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  
+- title: European Blackjack
+  img: pgsoft/european-blackjack.webp
+  provider: PG Soft  
+  type: pgsoft
+  available: not-available
+  permalink: https://m.pgsoft-games.com/null/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  
+- title: Steampunk - Wheel of Destiny
+  img: steampunk.webp
+  available: not-available
+  provider: PG Soft   
+  type: pgsoft
+  permalink: https://m.pgsoft-games.com/16/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  
