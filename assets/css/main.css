@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 .uk-section {
     min-height: 100vh;
 }
-.uk-card-default {
+.uk-dropdown,.uk-card-default {
     background-color: var(--bg-card) !important;
     color: var(--color-text) !important;
 }
