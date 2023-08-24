@@ -1,58 +1,54 @@
-<!--navbar--> 
-<div class="navbar-fixed">
- <nav class="nav-extended">
-   
-<!--top navbar-->   
- <div class="nav-wrapper black">
-  <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">short_text</i></a>
-  <a href="{{ relative_url }}" class="brand-logo center">
-    {% if page.title %}
-     {{ page.title }}
-     {% else %}
-     <span>
-      <span class="branded">{{ site.title }}</span> 
-      Gamer
-     </span>
-    {% endif %}
-   </a>
-   <a href="{{ absolute_url }}" class="sidenav-right-icon show-on-med-and-down right waves-effect waves-light">
-    <i class="material-icons">refresh</i>
-   </a>
-  </div>
-<!--/top navbar-->
-   
-<!--bottom navbar-->   
- <div class="nav-content nav-content-costum" style="z-index:998; padding-left: 15px;">  
-  <ul class="tabs tabs-transparent home">
-   {% if page.active == "pgsoft" %}
-    <a class='dropdown-trigger right' href='#' data-target="bahasa"><i class="material-icons white-text">g_translate</i></a>
-   {% endif %}
-   {% if page.active == "redtiger" %}
-    <a class='dropdown-trigger right' href='#' data-target="bahasa"><i class="material-icons white-text">g_translate</i></a>
-   {% endif %}
-   <!--lang nav-->
-   <ul id='bahasa' class='dropdown-content'>
-    <li id="fr_click" class="current_lang lang">English</li>
-    <li id="en_click" class="lang">Indonesia</li>
-   </ul>
-   <!--/lang nav-->
-  </ul>
-  <!--nav vendors-->
-  <ul class="tabs tabs-transparent tabs-fixed-width z-depth-1 tabs-costum"> 
-   {% for vendor in site.data.vendors %}
-    <li class="tab">
-     <a class="waves-effect waves-light" href="{{ vendor.url | relative_url }}" target="_self">{{ vendor.title }}</a>    
-    </li>
-   {% endfor %} 
-  </ul>    
-  <!--/nav vendors-->
- </div>
-<!--/bottom navbar-->   
-   
- </nav>
+<div id="offcanvas-push" uk-offcanvas="mode: push; overlay: true">
+    <div class="uk-offcanvas-bar">        
+<div class="uk-width-1-2@s">
+    <ul class="uk-text-large uk-nav-default uk-nav-divider" uk-nav>
+      {% for vendor in site.data.vendors %}
+        <li><a href="{{ vendor.url | relative_url }}">{{ vendor.title }}</a></li>
+      {% endfor %}
+    </ul>
 </div>
-<!--/nav--> 
 
-<!--sidenav-->
-{% include sidenav.html %}
-<!--/sidenav-->
+    </div>
+</div>    
+<nav class="uk-navbar-container uk-navbar-transparent uk-fixed-navigation uk-navbar="mode: click"">
+        <div uk-navbar>
+            <div class="uk-navbar-left">                
+               <a class="uk-navbar-toggle uk-navbar-toggle-animate" uk-navbar-toggle-icon href="#"></a>
+                <div class="uk-navbar-dropdown">
+                    <ul class="uk-nav uk-navbar-dropdown-nav uk-text-large">                       
+                        <li><a href="{{ site.url }}">Beranda</a></li>
+                        <li><a href="{{ "about" | relative_url }}">Penafian</a></li>
+                        <li><a href="{{ "providers" | relative_url }}">Providers</a></li>
+                        <li><a href="https://l154gamer.github.io/app/android/L154Gamer_AndroidApp.apk">Unduh App</a></li>
+                    </ul>
+                </div>              
+                
+                <a class="uk-text-bold uk-navbar-item uk-logo branded" href="{{ site.url }}">{{ site.title }}</a>   
+            </div>
+            <div class="uk-navbar-right">
+            <button class="uk-button uk-button-default uk-margin-small-right" type="button" uk-toggle="target: #offcanvas-push">Games</button>
+            
+             <a href="{{ relative_url }}" uk-icon="icon:refresh"></a>         
+            
+    <button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
+      <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
+        <mask class="moon" id="moon-mask">
+          <rect x="0" y="0" width="100%" height="100%" fill="white" />
+          <circle cx="24" cy="10" r="6" fill="black" />
+        </mask>
+        <circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor" />
+        <g class="sun-beams" stroke="currentColor">
+          <line x1="12" y1="1" x2="12" y2="3" />
+          <line x1="12" y1="21" x2="12" y2="23" />
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+          <line x1="1" y1="12" x2="3" y2="12" />
+          <line x1="21" y1="12" x2="23" y2="12" />
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+         </g>
+      </svg>
+    </button>            
+            </div>
+        </div>
+</nav>
