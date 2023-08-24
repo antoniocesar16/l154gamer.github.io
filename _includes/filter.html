@@ -34,6 +34,21 @@
     </li>
     {% endif %}
 
+    {% if page.active == "table-games" %}
+    <li>
+        <a href="#">Providers <span uk-icon="icon: triangle-down"></span></a>
+        <div uk-dropdown="mode: click">
+            <ul class="uk-nav uk-dropdown-nav">
+             <li uk-filter-control="[data-pilih='pragmaticplay']"><a href="#pragmaticplay">Pragmatic Play</a></li>
+             <li uk-filter-control="[data-pilih='pgsoft']"><a href="#pgsoft">PG Soft</a></li>
+             <li uk-filter-control="[data-pilih='netent']"><a href="#netent">Netent</a></li>
+             <li uk-filter-control="[data-pilih='relaxgaming']"><a href="#relaxgaming">Relax Gaming</a></li>
+             <li uk-filter-control="[data-pilih='bpgames']"><a href="#bpgames">Bigpot Gaming</a></li>             
+            </ul>
+        </div>
+    </li>
+    {% endif %}
+
     {% if page.active == "microgaming" %}
     <li>
         <a href="#">Line <span uk-icon="icon: triangle-down"></span></a>
@@ -61,9 +76,12 @@
     {% if page.active == "pgsoft" %}
     <li uk-filter-control="[data-pilih='buyspin']"><a href="#buyspin">Beli Spin</a></li>
     {% endif %}
-    
-    <li uk-filter-control="[data-pilih='casino']"><a href="#casino">Table Games</a></li>
-    
+
+    {% if page.url == "/table-games" %}
+     {% else %}  
+      <li uk-filter-control="[data-pilih='casino']"><a href="#casino">Table Games</a></li> 
+     {% endif %}
+        
     {% if page.active == "isoftbet" %}
     <li uk-filter-control="[data-pilih='megaways']"><a href="#megaways">Megaways</a></li>
     {% endif %}
