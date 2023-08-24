@@ -127,3 +127,23 @@
   available: available
   type: casino
 
+- title: The Wish Master Megaways
+  img: netent/the-wish-master-megaways.webp 
+  permalink: 
+  provider: NETENT
+  available: not-available
+  type: megaways
+
+- title: Wild turkey Megaways
+  img: netent/wild-turkey-megaways.webp 
+  permalink: 
+  provider: NETENT
+  available: not-available
+  type: megaways
+
+- title: Fruit Shop Megaways
+  img: netent/fruit-shop-megaways.webp 
+  permalink: 
+  provider: NETENT
+  available: not-available
+  type: megaways
