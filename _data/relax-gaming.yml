@@ -40,3 +40,28 @@
   permalink: https://d2drhksbtcqozo.cloudfront.net/casino/apex/layer/?channel=mobile&gameid=moneytrainorigins&moneymode=fun&jurisdiction=MT&partnerid=1&&apex=1&gameurl=https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html
   provider: Relax Gaming 
 
+- title: The Great Pigsby Megaways 
+  gameid: greatpigsbymegaways
+  img: relax-gaming/the-great-pigsby-megaways.webp
+  permalink: https://d2drhksbtcqozo.cloudfront.net/casino/apex/layer/?channel=mobile&gameid=greatpigsbymegaways&moneymode=fun&jurisdiction=MT&partnerid=1&&apex=1&gameurl=https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html
+  provider: Relax Gaming 
+  type: megaways
+  
+- title: Blackjack Neo 
+  gameid: blackjackneo
+  img: relax-gaming/blackjack-neo.webp
+  permalink: https://d2drhksbtcqozo.cloudfront.net/casino/apex/layer/?channel=mobile&gameid=blackjackneo&moneymode=fun&jurisdiction=MT&partnerid=1&&apex=1&gameurl=https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html
+  provider: Relax Gaming 
+  type: casino 
+
+- title: Roulette Nouveau
+  gameid: blackjackneo
+  img: relax-gaming/nouveou-roulette.webp
+  permalink: https://d2drhksbtcqozo.cloudfront.net/casino/apex/layer/?channel=mobile&gameid=roulettenouveau&moneymode=fun&jurisdiction=MT&partnerid=1&&apex=1&gameurl=https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html
+  provider: Relax Gaming 
+  type: casino 
+
+
+
+
+
