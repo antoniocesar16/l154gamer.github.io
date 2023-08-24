@@ -67,3 +67,77 @@ $(document).ready(function() {
     $("#not-available").addClass("disable");
 });	
 </script>    
+<script>
+   (function ($) {
+      $.fn.btnLoadmore = function (options) {
+        var defaults = {
+            showItem: 6
+            , whenClickBtn: 3
+            , textBtn: 'Loadmore ...'
+            , classBtn: ''
+            , setCookies: false
+            , delayToScroll: 2000,
+            
+          }
+          , options = $.extend(defaults, options);
+        
+        this.each(function () {
+          
+          var $this = $(this)
+            , $childrenClass = $($this.children());
+          
+          // Get Element Of contents to hide
+          $childrenClass.hide(); // nascondi tutti gli elementi
+          
+          //Show Element from Options
+          $childrenClass.slice(0, defaults.showItem)
+            .show(); // mostra il primo
+          
+          //Show Button when item in contents != 0
+          if ($childrenClass.filter(":hidden")
+            .length > 0) {
+            $this.after('<button style="margin-top: 20px;" type="button" class="btn-loadmore ' + defaults.classBtn + '">' + defaults.textBtn + '</button>')
+          }
+         $(document).on('click', '.btn-loadmore', function (e) {
+              e.preventDefault();
+              $childrenClass.filter(':hidden').slice(0, defaults.whenClickBtn).slideDown();
+              if ($childrenClass.filter(":hidden").length == 0) {
+                  $(".btn-loadmore").fadeOut('slow');
+              }
+              scrollDown();
+          });
+          
+          function scrollDown() {
+            $('html, body')
+              .animate({
+                scrollTop: $childrenClass.filter(":visible")
+                  .last()
+                  .offset()
+                  .top
+              }, defaults.delayToScroll);
+          }
+        });
+        
+        
+        
+      }
+    }(jQuery));
+   $(document)
+      .ready(function () {
+        
+        $('.contents')
+          .btnLoadmore({
+            
+            showItem: 12,
+            
+            whenClickBtn: 6,
+            
+            textBtn: 'Tampilkan lagi...',
+            
+            classBtn: 'uk-button uk-button-default uk-width-1-1 uk-margin-small-bottom'
+            
+          });
+        
+      });
+                 
+</script>
