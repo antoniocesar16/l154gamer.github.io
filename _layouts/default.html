@@ -1,34 +1,120 @@
-<!doctype html>
-<html lang="id">
- <head>
-  {% include head.html %}
- </head>
+<!DOCTYPE html>
+<html data-theme="dark">
+    <head>
+        <title>
+         {% if page.title %}
+          {{ page.title }}
+         {% else %}
+          {{ site.title }}
+         {% endif %}
+        </title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="theme-color" content="Canvas">
+        <meta name="format-detection" content="telephone=no,email=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="renderer" content="webkit">
+        <meta name="force-rendering" content="webkit">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="full-screen" content="yes">
+        <meta name="x5-fullscreen" content="true">
+        <meta name="screen-orientation" content="portrait">
+        <meta name="x5-orientation" content="portrait">
+        <meta name="browsermode" content="application">
+        <meta name="x5-page-mode" content="app">
+        
+<!-- CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/css/uikit.min.css" />
+<link rel="stylesheet" href="https://unpkg.com/ng-table@2.0.2/bundles/ng-table.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+<link rel="stylesheet" href="https://l154gamer.github.io/assets/css/main.css">
+</head>
 <body>
- {% include navbar.html %}
- {% if page.url == "/" %}
- {% else %}
-<div class="row grid-list" style="margin-top: 25px; margin-bottom:10px; padding-bottom: 0px;">
- <div class="col s12" style="margin:0px;">
-  <div class="row white" style="margin-bottom: 5px; padding-bottom: 0px;">
-    <div class="input-field col s4" style="margin: 0px; margin-top:5px;">
-     <div class="btn-group" role="group">
-      <a class="btn btn-inactive" id="grid"><i class="material-icons">view_module</i></a>
-      <a class="btn grey" id="list"><i class="material-icons">view_list</i></a>
-     </div>
-    </div>
-    <div class="input-field col s8" style="margin: 0px;">
-      <i class="material-icons prefix" style="margin-top: 5px; font-size: 24px;">search</i>
-      <input style="border-bottom: 0px;" type="search" id="myfilter" placeholder="Cari di {{ page.title }}">
-   </div>
-  </div>
- </div>
-</div>  
- {% endif %}
 
-  <div class="container" style="width: 97% !important;">
-   {{ content }}
-  </div>
- {% include modal.html %}
- {% include scripts.html %}
+{% include nav.html %}
+
+ <div data-uk-filter=".js-filter" class="uk-container"><!-- Container -->
+ {% if page.url == "/" %}
+  {% else %}  
+  <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3> 
+ {% endif %}
+  {{ content }}    
+ </div><!-- /Container -->    
+
+<!-- JS -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit-icons.min.js"></script>     
+<script src="https://l154gamer.github.io/assets/js/theme.js"></script>
+<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+  $('#grid').click(function(event) {
+    event.preventDefault()
+    $('.bc').addClass('grid')
+    $('.bc').removeClass('list')
+    localStorage.setItem('.bc', 'grid');
+  });
+  $('#list').click(function(event){
+    event.preventDefault();
+    $('.bc').addClass('list')
+    $('.bc').removeClass('grid')
+    localStorage.setItem('.bc', 'list')
+  })
+  let itemClass = localStorage.getItem('.bc')
+  $('.bc').addClass(itemClass)
+});
+</script>    
+<script>
+function showModal()
+{
+  $('#modal').show();
+}
+
+function hideModal()
+{
+  $('#modal').hide();
+}
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const inputEl = document.getElementById('myfilter');
+    const tags = Array.from(document.querySelectorAll('.uk-card'));
+
+    inputEl.addEventListener('keyup', () => {
+        const value = inputEl.value;
+
+        tags.forEach(tag => {
+            if (tag.textContent.includes(value)) {
+                tag.parentNode.style.display = 'block'
+            } else {
+                tag.parentNode.style.display = 'none'
+            }
+        })
+    })
+})    
+</script>
+
+<script>
+window.addEventListener("load", function(event) {
+  //hash = document.location.hash;
+  //console.log("Hash: " + hash);
+
+  //Let's assume the document.location.hash returns #white
+  hash = '#semua';
+
+  if (hash !== "") {
+    //get the color subnav button
+    pilih = document.querySelector('a[href="'+hash+'"]');
+    //trigger the click event
+    pilih.click();
+  }
+});
+</script>
+<script>
+$(document).ready(function() {
+    $("#not-available").addClass("disable");
+});	
+</script>    
 </body>
 </html>
