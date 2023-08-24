@@ -95,3 +95,39 @@
   permalink: https://d2drhksbtcqozo.cloudfront.net/casino/apex/layer/?channel=mobile&gameid=roulettenouveau&moneymode=fun&jurisdiction=MT&partnerid=1&&apex=1&gameurl=https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html
   provider: Relax Gaming 
   type: relaxgaming 
+
+- title: Baccarat Classic
+  img: bp-gaming/baccarat.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
+  type: bpgames
+
+- title: Baccarat Super 6
+  img: bp-gaming/baccarat-super6.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
+  type: bpgames
+
+- title: Roulette
+  img: bp-gaming/roulette.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
+  type: bpgames
+
+- title: Blackjack
+  img: bp-gaming/blackjack.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
+  type: bpgames
+
+- title: Dragon Tiger
+  img: bp-gaming/dragon-tiger.webp
+  permalink: 
+  provider: Bigpot Gaming
+  available: not-available
+  type: bpgames
+
