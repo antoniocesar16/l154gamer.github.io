@@ -28,9 +28,6 @@ html{font:16px/1.5 sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust
     top: 0;
     z-index: 1030;
 }
-.uk-fixed-navigation, .uk-navbar-container{
-  background: #000;
-}
 .branded {
  font-size: 150% !important;	
  font-family: 'Bad Script', cursive !important;
@@ -45,12 +42,6 @@ html{font:16px/1.5 sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust
 }
 .uk-offcanvas-bar {
  padding-top: 90px;
-}
-.blacks {
-  background-color: #000 !important;
-}
-.black h3 {
-  color: #fff;
 }
 
 .sun-and-moon > :is(.moon, .sun, .sun-beams) {
