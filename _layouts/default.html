@@ -33,15 +33,17 @@
 <body>
 
 {% include nav.html %}
-
- <div data-uk-filter=".js-filter" class="uk-container" style="margin-top: 100px; margin-bottom: 50px;"><!-- Container -->
- {% if page.url == "/" %}
-  {% else %}  
-  <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3> 
- {% endif %}
+    
+<div class="uk-section-large"><!-- section -->
+ <div data-uk-filter=".js-filter" class="uk-container" style="margin-top: 60px;"><!-- Container -->
+  {% if page.url == "/" %}
+   {% else %}  
+    <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3> 
+  {% endif %}
   {{ content }}    
  </div><!-- /Container -->    
-
+</div><!-- /section -->
+    
 <!-- JS -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/js/uikit.min.js"></script>
