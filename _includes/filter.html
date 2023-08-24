@@ -77,7 +77,7 @@
     <li uk-filter-control="[data-pilih='buyspin']"><a href="#buyspin">Beli Spin</a></li>
     {% endif %}
 
-    {% if page.url == "/table-games" %}
+    {% if page.url == "./table-games" %}
      {% else %}  
       <li uk-filter-control="[data-pilih='casino']"><a href="#casino">Table Games</a></li> 
      {% endif %}
@@ -111,6 +111,10 @@
     {% endif %}
 
     {% if page.active == "relaxgaming" %}                                                            
+    <li uk-filter-control="[data-pilih='megaways']"><a href="#megaways">Megaways</a></li>
+    {% endif %}
+
+    {% if page.active == "netent" %}                                                            
     <li uk-filter-control="[data-pilih='megaways']"><a href="#megaways">Megaways</a></li>
     {% endif %}
     
