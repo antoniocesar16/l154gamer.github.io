@@ -1,102 +1,98 @@
 - title: Dead or Alive II
-  lang: id
-  img: dead-or-alive2.webp
-  url: netent/dead-or-alive
+  img: netent/dead-or-alive2.webp
   permalink: https://netent-static.casinomodule.com/games/dead-or-alive-2-client/game/dead-or-alive-2-client.xhtml?flashParams.bgcolor=000000&gameId=deadoralive2_mobile_html&mobileParams.lobbyURL=https://games.netent.com/video-slots/dead-or-alive-2/&server=https://netent-game.casinomodule.com/&lang=id&currency=idr&sessId=DEMO-6508278099-USD&operatorId=netent
   provider: NETENT
+  
 - title: Dead or Alive II Feature Buy
-  lang: id 
-  img: dead-or-alive2-feature-buy.webp 
-  url: netent/dead-or-alive2-feature-buy 
+  img: netent/dead-or-alive2-feature-buy.webp  
   permalink: https://netent-static.casinomodule.com/games/dead-or-alive-2-fb-client/game/dead-or-alive-2-fb-client.xhtml?gameId=deadoralive2fb_not_mobile&server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-5459281354-EUR&operatorId=netent
   provider: NETENT
+  
 - title: Secrets of Atlantis
-  lang: id
-  img: secrets-of-atlantis.webp
-  url: netent/secrets-of-atlantis
+  img: netent/secrets-of-atlantis.webp
   permalink: https://netent-static.casinomodule.com/games/highlights_mobile_html/game/highlights_mobile_html.xhtml?staticServer=https://netent-static.casinomodule.com/&gameName=highlights.desktop&targetElement=game&flashParams.bgcolor=000000&mobileParams.lobbyURL=https://www.netent.com/en/section/entertain/&gameId=highlights_not_mobile&server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111-USD&operatorId=default
   provider: NETENT
+  
 - title: Lost Relics
-  lang: id
-  img: lost-relics.webp
-  url: netent/lost-relics
+  img: netent/lost-relics.webp
   permalink: https://netent-static.casinomodule.com/games/lostrelics_mobile_html/game/lostrelics_mobile_html.xhtml?staticServer=https://Fnetent-static.casinomodule.com/&gameName=lostrelics.desktop&targetElement=game&flashParams.bgcolor=000000&mobileParams.lobbyURL=https://www.netent.com/en/section/entertain/&gameId=lostrelics_not_mobile&server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-1122538450639-USD&operatorId=default
   provider: NETENT
+  
 - title: Steam Tower
-  lang: id
-  img: steam-tower.webp
-  url: netent/steam-tower
+  img: netent/steam-tower.webp
   permalink: https://as-saadah.github.io/games/coming-soon/
   provider: NETENT
+  
 - title: Excalibur
-  lang: id
-  img: excalibur.webp
-  url: netent/excalibur
+  img: netent/excalibur.webp
   permalink: https://as-saadah.github.io/games/coming-soon/
   provider: NETENT
+
 - title: Blood Suckers
-  lang: id
-  img: blood-suckers.webp
-  url: netent/blood-suckers
+  img: netent/blood-suckers.webp
   permalink: https://as-saadah.github.io/games/coming-soon/
   provider: NETENT
+  
 - title: Arabian Nights
-  lang: id 
-  img: arabian-nights.webp 
-  url: netent/arabian-nights 
+  img: netent/arabian-nights.webp  
   permalink: https://netent-static.casinomodule.com/games/arabian_mobile_html/game/arabian_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=arabian_not_mobile&operatorId=default 
+  provider: NETENT
+  
 - title: Koi Princess
-  lang: id 
-  img: koi-princess.webp 
-  url: netent/koi-princess
+  img: netent/koi-princess.webp 
   permalink:  
+  provider: NETENT
+
 - title: Drive Multiplier Mayhem
-  lang: id 
-  img: drive-multiplier-mayhem.webp 
-  url: netent/drive-multiplier-mayhem
+  img: netent/drive-multiplier-mayhem.webp 
   permalink:  https://netent-static.casinomodule.com/games/multipliermayhem_mobile_html/game/multipliermayhem_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=multipliermayhem_not_mobile&operatorId=default
+  provider: NETENT
+  
 - title: Spinata Grande
-  lang: id 
-  img: spinata-grande.webp 
-  url: netent/spinata-grande
+  img: netent/spinata-grande.webp 
   permalink:  https://netent-static.casinomodule.com/games/colossalpinatas_mobile_html/game/colossalpinatas_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=colossalpinatas_not_mobile&operatorId=default
+  provider: NETENT
+  
 - title: Mythic Maiden
-  lang: id 
-  img: mythic-maiden.webp 
-  url: netent/mythic-maiden
+  img: netent/mythic-maiden.webp 
   permalink:  https://netent-static.casinomodule.com/games/mythicmaiden_mobile_html/game/mythicmaiden_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=mythicmaiden_not_mobile&operatorId=default
+  provider: NETENT
+  
 - title: Wild Turkey
-  lang: id 
-  img: wild-turkey.webp 
-  url: netent/wild-turkey
+  img: netent/wild-turkey.webp 
   permalink: https://netent-static.casinomodule.com/games/wildturkey_mobile_html/game/wildturkey_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=wildturkey_not_mobile&operatorId=default
+  provider: NETENT
+  
 - title: Dragon Island
-  lang: id
-  img: dragon-island.webp
-  url: netent/dragon-island
+  img: netent/dragon-island.webp
   permalink: https://as-saadah.github.io/games/coming-soon/
   provider: NETENT
+  
 - title: Wild Water
-  lang: id 
-  img: wild-water.webp 
-  url: netent/wild-water 
+  img: netent/wild-water.webp  
   permalink: https://netent-static.casinomodule.com/games/wildwater_mobile_html/game/wildwater_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=wildwater_mobile_html&operatorId=netent
   provider: NETENT
+  
 - title: Jack and The Beanstalk
-  lang: id 
-  img: jack-beanstalk.webp 
-  url: netent/jack-beanstalk
+  img: netent/jack-beanstalk.webp 
   permalink: https://netent-static.casinomodule.com/games/jackandbeanstalk_mobile_html/game/jackandbeanstalk_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=jackandbeanstalk_mobile_html&operatorId=netent
   provider: NETENT
+  
 - title: Jumanji
-  lang: id 
-  img: jumanji.webp 
-  url: netent/jumanji 
+  img: netent/jumanji.webp  
   permalink: https://netent-static.casinomodule.com/games/jumanji_mobile_html/game/jumanji_mobile_html.xhtml?server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-111111111111&gameId=jumanji_mobile_html&operatorId=netent
   provider: NETENT
+  available: available
+  
 - title: The Wolf's Bane
-  lang: id 
-  img: wolfs-bane.webp 
-  url: netent/the-wolfs-bane
+  img: netent/wolfs-bane.webp 
   permalink: https://netent-static.casinomodule.com/games/thewolfsnight_mobile_html/game/thewolfsnight_mobile_html.xhtml?flashParams.bgcolor=000000&gameId=thewolfsnight_not_mobile&mobileParams.lobbyURL=https://games.netent.com/video-slots/the-wolfs-bane/&server=https://netent-game.casinomodule.com/&lang=id&sessId=DEMO-4500771599-EUR&operatorId=netent
   provider: NETENT
+  available: available
+  
+- title: Baccarat
+  img: netent/baccarat.webp 
+  permalink: 
+  provider: NETENT
+  available: not-available
+  type: casino
