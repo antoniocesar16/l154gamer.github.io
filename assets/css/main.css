@@ -131,8 +131,8 @@ html{font:16px/1.5 sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust
 
 .theme-toggle {
   --size: 1rem;
-  --icon-fill: hsl(210 10% 30%);
-  --icon-fill-hover: hsl(210 10% 15%);
+  --icon-fill: hsl(0, 0%, 85%);
+  --icon-fill-hover: hsl(0, 0%, 85%);
 
   background: none;
   border: none;
@@ -156,8 +156,8 @@ html{font:16px/1.5 sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust
   }
 
   @nest [data-theme="dark"] & {
-    --icon-fill: hsl(210 10% 70%);
-    --icon-fill-hover: hsl(210 15% 90%);
+    --icon-fill: hsl(0, 0%, 85%);
+    --icon-fill-hover: hsl(0, 0%, 85%);
   }
 
   @media (hover: none) {
@@ -186,12 +186,12 @@ html {
 }
 
 html{
-    --bg: #e0e0e0;
+    --bg: #37474f;
     --color-heading: rgb(27, 168, 14); 
-    --color-text: #000000;
-    --bg-navbar: #e0e0e0;
-    --bg-card: #f5f5f5;
-    --section: #f4f4f4;
+    --color-text: #d9d9d9;
+    --bg-navbar: #37474f;
+    --bg-card: #263238;
+    --section: #546d78;
 }
 html[data-theme='dark'] {
     --bg: #111;
@@ -201,6 +201,7 @@ html[data-theme='dark'] {
     --bg-card: #222;
     --section: #424242;
 }
+
 html, body { 
     background-color: var(--bg) !important;
     color: var(--color-text) !important;
@@ -212,6 +213,9 @@ html, body {
 .uk-section, .uk-modal-dialog, .uk-modal-close-full {
     background-color: var(--section) !important;
     color: var(--color-text) !important;
+}
+.uk-subnav a, .uk-active, .uk-navbar-toggle, .uk-heading-line, .uk-offcanvas-bar a {
+ color: var(--color-text) !important;   
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--color-text) !important;   
@@ -231,6 +235,18 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 8px 0 8px;
 }
 .branded, .uk-button, .uk-card-body, .uk-card-title{
+  color: var(--color-text) !important;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: var(--color-text) !important;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: var(--color-text) !important;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
   color: var(--color-text) !important;
 }
 @media screen and (min-width: 300px) and (max-width: 320px) {
