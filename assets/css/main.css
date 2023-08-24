@@ -180,7 +180,7 @@ html {
     color-scheme: dark;
 
     @supports not (color-scheme: dark) {
-      background: #111 !important; 
+      background: #37474f !important; 
     }
   }
 }
