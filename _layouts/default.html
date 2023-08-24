@@ -1,41 +1,12 @@
 <!DOCTYPE html>
 <html data-theme="light">
-    <head>
-        <title>
-         {% if page.title %}
-          {{ page.title }}
-         {% else %}
-          {{ site.title }}
-         {% endif %}
-        </title>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="theme-color" content="Canvas">
-        <meta name="format-detection" content="telephone=no,email=no">
-        <meta name="msapplication-tap-highlight" content="no">
-        <meta name="renderer" content="webkit">
-        <meta name="force-rendering" content="webkit">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta name="full-screen" content="yes">
-        <meta name="x5-fullscreen" content="true">
-        <meta name="screen-orientation" content="portrait">
-        <meta name="x5-orientation" content="portrait">
-        <meta name="browsermode" content="application">
-        <meta name="x5-page-mode" content="app">
-        
-<!-- CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.16.23/dist/css/uikit.min.css" />
-<link rel="stylesheet" href="https://unpkg.com/ng-table@2.0.2/bundles/ng-table.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-<link rel="stylesheet" href="https://l154gamer.github.io/assets/css/main.css">
+<head>
+ {% include head.html %}
 </head>
 <body>
-
-{% include nav.html %}
-    
+{% include nav.html %}    
 <div class="uk-section-large"><!-- section -->
- <div data-uk-filter=".js-filter" class="uk-container" style="margin-top: 60px;"><!-- Container -->
+ <div data-uk-filter=".js-filter" class="uk-container" style="margin-top: 50px;"><!-- Container -->
   {% if page.url == "/" %}
    {% else %}  
     <h3 class="uk-heading-line uk-text-center"><span>{{ page.title }}</span></h3> 
