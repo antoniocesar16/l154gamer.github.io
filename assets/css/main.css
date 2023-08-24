@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .uk-navbar {
   background-color: var(--bg-navbar);
-  padding: 0 8px 0 8px;
+  padding: 0 15px 0 15px;
 }
 .branded, .uk-button, .uk-card-body, .uk-card-title{
   color: var(--color-text) !important;
