@@ -90,9 +90,9 @@
   provider: NETENT
   available: available
   
-- title: Baccarat
+- title: Baccarat Pro
   img: netent/baccarat.webp 
-  permalink: 
+  permalink: https://games.netent.com/embed/game.html?gameId=baccarat2_not_mobile&currency=EUR&language=en
   provider: NETENT
-  available: not-available
+  available: available
   type: casino
