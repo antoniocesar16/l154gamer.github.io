@@ -125,7 +125,15 @@
     {% endif %}
 
     {% if page.active == "relaxgaming" %}                                                            
-    <li uk-filter-control="[data-pilih='megaways']"><a href="#megaways">Megaways</a></li>
+    <li>
+        <a href="#">Line <span uk-icon="icon: triangle-down"></span></a>
+        <div uk-dropdown="mode: click">
+            <ul class="uk-nav uk-dropdown-nav">
+             <li uk-filter-control="[data-pilih='peterandsons']"><a href="#peterandsons">Peter & Sons</a></li>
+             <li uk-filter-control="[data-pilih='megaways']"><a href="#megaways">Megaways</a></li>                          
+            </ul>
+        </div>
+    </li>
     {% endif %}
 
     {% if page.active == "netent" %}                                                            
