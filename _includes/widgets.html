@@ -1,0 +1,47 @@
+<div class="uk-child-width-expand@s" uk-grid><!-- grids -->
+{% for item in site.data.widget %}
+{% for subcategory in item.subcategories %}
+<div><!-- grid div -->
+ <div class="uk-card uk-card-default uk-card-body"><!-- card -->
+        <!-- clearfix -->
+        <div class="uk-clearfix">
+         <div class="uk-float-left">
+          <p class="uk-text-bold uk-text-uppercase">{{ subcategory.title }}</p><!-- card title --> 
+         </div>
+         <div class="uk-float-right">
+          <a href="{{ item.url }}" class="uk-button uk-button-text uk-text-capitalize">Lihat Semua <span uk-icon="icon: arrow-right"></span></a>
+         </div>
+        </div>
+        <!-- /clearfix -->                 
+  <div class="uk-grid-small" uk-grid><!-- begin content grids -->
+   <!-- begin content imgs -->
+    {% for item in subcategory.items %}
+     <div class="uk-width-1-2">
+      <a href="{{ item.url }}">
+        <img class="uk-border-rounded" src="{{ item.img }}" width="1800" height="1200" alt="">
+      </a>
+     </div>
+    {% endfor %}
+    <!-- /End content imgs -->
+  </div><!-- /End content grids -->
+ </div><!-- /card -->
+</div><!-- /grid div -->
+{% endfor %}
+{% endfor %}
+</div><!-- /grids -->
+
+<div class="uk-card uk-card-default uk-card-body" style="margin-top: 20px;">    
+ <div class="uk-grid-small" uk-grid><!-- begin content grids -->
+                <div class="uk-width-1-2">
+                    <img class="uk-margin-remove-bottom " src="./assets/donate.png" width="200" height="200" alt="Donate now">                                    
+                </div>
+                <div class="uk-width-1-2">   
+<h3 class="uk-card-title uk-margin-remove-bottom">Donasi</h3>                                        
+<p>
+    <li>Dana Dompet : <span class="uk-text-primary uk-text-bold">0881024240202</span></li>
+    <li>BCA : <span class="uk-text-primary uk-text-bold">6090452515</span></li>
+    <li>BRI Agro / Raya : <span class="uk-text-primary uk-text-bold">001001656525319</span></li>
+</p>    
+                </div>
+ </div>               
+</div>
