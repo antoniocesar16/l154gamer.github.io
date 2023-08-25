@@ -8,9 +8,9 @@
         url: /pragmatic-play
       - img: assets/images/feature/cowboys-gold.webp
         url: /pragmatic-play
-      - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-duels.webp
+      - img: assets/img/pragmatic-play/wild-west-duels.webp
         url: /pragmatic-play
-      - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-gold.webp
+      - img: assets/img/pragmatic-play/wild-west-gold.webp
         url: /pragmatic-play
 
 - title: PG Soft
@@ -23,9 +23,9 @@
         url: /pgsoft
       - img: assets/images/feature/wild-bounty-showdown.webp
         url: /pgsoft
-      - img: https://l154gamer.github.io/assets/img/pgsoft/cruise-royale.webp
+      - img: assets/img/pgsoft/cruise-royale.webp
         url: /pgsoft
-      - img: https://l154gamer.github.io/assets/img/pgsoft/mahjong-ways2.webp
+      - img: assets/img/pgsoft/mahjong-ways2.webp
         url: /pgsoft
 
 - title: YGGDrasil
@@ -38,9 +38,9 @@
         url: /yggdrasil
       - img: assets/images/feature/vikings-go-berzerk.webp
         url: /yggdrasil
-      - img: https://l154gamer.github.io/assets/feature/holmes.jpeg
+      - img: assets/images/feature/holmes.webp
         url: /yggdrasil
-      - img: https://l154gamer.github.io/assets/feature/jungle-books.jpeg
+      - img: assets/images/feature/jungle-books.webp
         url: /yggdrasil
 
 - title: Nolimit City
@@ -53,9 +53,9 @@
         url: /nolimit-city
       - img: assets/images/feature/thor-hummer.webp
         url: /nolimit-city
-      - img: https://l154gamer.github.io/assets/img/nolimit-city/punk-toilet.webp
+      - img: assets/images/feature/punk-toilet.webp
         url: /nolimit-city
-      - img: https://l154gamer.github.io/assets/img/nolimit-city/rock-bottom.webp
+      - img: assets/images/feature/folsom-prison.webp
         url: /nolimit-city
 
 - title: Microgaming
@@ -68,9 +68,9 @@
         url: /microgaming
       - img: assets/images/feature/magic-of-sahara.webp
         url: /microgaming
-      - img: https://l154gamer.github.io/assets/img/microgaming/our-days.webp
+      - img: assets/img/microgaming/our-days.webp
         url: /microgaming
-      - img: https://l154gamer.github.io/assets/img/microgaming/ariana.webp
+      - img: assets/img/microgaming/ariana.webp
         url: /microgaming
 
 - title: NetEnt
@@ -83,9 +83,9 @@
         url: /netent
       - img: assets/images/feature/steamtower.webp
         url: /netent
-      - img: https://l154gamer.github.io/assets/img/netent/excalibur.webp
+      - img: assets/images/feature/excalibur.webp
         url: /netent
-      - img: https://l154gamer.github.io/assets/img/netent/secrets-of-atlantis.webp
+      - img: assets/images/feature/secrets-of-atlnatis.webp
         url: /netent
 
 
