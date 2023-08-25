@@ -50,6 +50,19 @@
     </li>
     {% endif %}
 
+    {% if page.active == "peterandsons" %}
+    <li>
+        <a href="#">Line <span uk-icon="icon: triangle-down"></span></a>
+        <div uk-dropdown="mode: click">
+            <ul class="uk-nav uk-dropdown-nav">
+             <li uk-filter-control="[data-pilih='yggdrasl']"><a href="#yggdrasil">YGGDrasil</a></li>
+             <li uk-filter-control="[data-pilih='oryxgaming']"><a href="#oryxgaming">Oryx Gaming</a></li>
+             <li uk-filter-control="[data-pilih='relaxgaming']"><a href="#relaxgaming">Relax Gaming</a></li>             
+            </ul>
+        </div>
+    </li>
+    {% endif %}
+
     {% if page.active == "microgaming" %}
     <li>
         <a href="#">Line <span uk-icon="icon: triangle-down"></span></a>
