@@ -137,14 +137,7 @@
   img: peter-and-sons/cauldron.webp
   permalink: https://peterandsons.org/launcher.html?gameId=cauldron
   provider: Peter & Sons
-  type: yggdrasil 
-
-- title: Cauldron
-  gameid: cauldron
-  img: peter-and-sons/cauldron.webp
-  permalink: https://peterandsons.org/launcher.html?gameId=cauldron
-  provider: Peter & Sons
-  type: yggdrasil 
+  type: yggdrasil
 
 - title: Kaiser
   gameid: kaiser
