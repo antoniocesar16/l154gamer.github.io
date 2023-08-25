@@ -1,7 +1,6 @@
 - title: Mahjong Ways
   gameid: 65
   img: pgsoft/mahjong-ways.webp
-  url: pgsoft/mahjong-ways
   type: videoslot
   permalink: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
@@ -9,7 +8,6 @@
 - title: Mahjong Ways 2
   gameid: 74
   img: pgsoft/mahjong-ways2.webp
-  lang: Cara Mahyong 2
   type: videoslot
   permalink: https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
@@ -59,7 +57,6 @@
 - title: Phoenix Rises
   gameid: 82
   img: pgsoft/phoenix-rises.webp
-  lang: Phoenix Bangkit
   type: videoslot
   permalink: https://m.pgsoft-games.com/82/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
@@ -72,10 +69,8 @@
   provider: PG Soft
   
 - title: Candy Bonanza
-  img: candy-bonanza.webp
-  url: pgsoft/candy-bonanza
+  img: pgsoft/candy-bonanza.webp
   id: 100
-  lang: Bonanza Permen
   type: videoslot
   permalink: https://m.pgsoft-games.com/100/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
@@ -428,6 +423,7 @@
   gameid: 116
   img: pgsoft/farm-invaders.webp
   type: videoslot
+  available: not-available
   permalink: https://m.pgsoft-games.com/116/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
