@@ -118,5 +118,19 @@
       - img: assets/img/habanero/wild-trucks.webp
         url: /habanero
 
+- title: Red Tiger
+  url: /redtiger
+  subcategories:
+   - title: "Red Tiger"
+     url: /redtiger
+     items:
+      - img: assets/images/feature/pirates-plenty.webp
+        url: redtiger
+      - img: assets/images/feature/ninja-ways.webp
+        url: redtiger
+      - img: assets/img/redtiger/24hour-grand-prix.webp
+        url: redtiger
+      - img: assets/img/redtiger/1942-sky-warrior.webp
+        url: redtiger
 
 
