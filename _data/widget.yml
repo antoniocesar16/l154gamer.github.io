@@ -4,9 +4,9 @@
    - title: "Pragmatic Play"
      url: /pragmatic-play
      items:
-      - img: https://l154gamer.github.io/assets/feature/peaky-blinders.webp
+      - img: assets/images/feature/peaky-blinders.webp
         url: /pragmatic-play
-      - img: https://l154gamer.github.io/assets/feature/cowboys-coins.webp
+      - img: assets/images/feature/cowboys-coins.webp
         url: /pragmatic-play
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-duels.webp
         url: /pragmatic-play
@@ -19,9 +19,9 @@
    - title: "PG Soft"
      url: /pgsoft
      items:
-      - img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCcv4PgOsEbxEXrvLy_lShBinOfPQGHbb_3g&usqp=CAU
+      - img: assets/images/feature/medusa.webp
         url: /pgsoft
-      - img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSaD8FBvgZkGMq_ImSRyHIsAw5b4dRoA44Wg&usqp=CAU
+      - img: assets/images/feature/wild-bounty-showdown.webp
         url: /pgsoft
       - img: https://l154gamer.github.io/assets/img/pgsoft/cruise-royale.webp
         url: /pgsoft
@@ -34,9 +34,9 @@
    - title: "YGGDrasil"
      url: /yggdrasil
      items:
-      - img: https://l154gamer.github.io/assets/feature/beauty-beast.jpeg
+      - img: assets/images/feature/beauty-and-the-beast.webp
         url: /yggdrasil
-      - img: https://l154gamer.github.io/assets/feature/vikings-berzerk.jpeg
+      - img: assets/images/feature/vikings-go-berzerk.webp
         url: /yggdrasil
       - img: https://l154gamer.github.io/assets/feature/holmes.jpeg
         url: /yggdrasil
@@ -49,9 +49,9 @@
    - title: "Nolimit City"
      url: /nolimit-city
      items:
-      - img: https://l154gamer.github.io/assets/feature/deadwood.jpeg
+      - img: assets/images/feature/deadwood.webp
         url: /nolimit-city
-      - img: https://l154gamer.github.io/assets/feature/thor-hammer-time.jpeg
+      - img: assets/images/feature/thor-hammer.webp
         url: /nolimit-city
       - img: https://l154gamer.github.io/assets/img/nolimit-city/punk-toilet.webp
         url: /nolimit-city
@@ -64,9 +64,9 @@
    - title: "Microgaming"
      url: /microgaming
      items:
-      - img: https://l154gamer.github.io/assets/feature/sherlock-of-london.webp
+      - img: assets/images/feature/sherlock-of-london.webp
         url: /microgaming
-      - img: https://l154gamer.github.io/assets/feature/magic-of-sahara.webp
+      - img: assets/images/feature/magic-of-sahara.webp
         url: /microgaming
       - img: https://l154gamer.github.io/assets/img/microgaming/our-days.webp
         url: /microgaming
@@ -79,9 +79,9 @@
    - title: "NetEnt"
      url: /netent
      items:
-      - img: https://l154gamer.github.io/assets/feature/lost-relics.jpeg
+      - img: assets/images/feature/lost-relics.webp
         url: /netent
-      - img: https://l154gamer.github.io/assets/feature/steam-tower.jpeg
+      - img: assets/images/feature/steamtower.webp
         url: /netent
       - img: https://l154gamer.github.io/assets/img/netent/excalibur.webp
         url: /netent
