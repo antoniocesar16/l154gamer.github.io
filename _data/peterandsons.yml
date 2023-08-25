@@ -1,14 +1,13 @@
 - title: Peter Hunter
   gameid: peterhunter
   img: peter-and-sons/peter-hunter.webp
-  lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=peterhunter
   provider: Peter & Sons
+  type: yggdrasil
 
 - title: Wild Duel
   gameid: duel
   img: peter-and-sons/wild-duel.webp
-  lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=duel
   provider: Peter & Sons
   type: yggdrasil
@@ -16,56 +15,54 @@
 - title: Thunder Hawk
   gameid: thunderhawk
   img: peter-and-sons/thunder-hawk.webp
-  lang: ID
+  type: yggdrasil
   permalink: https://peterandsons.org/launcher.html?gameId=thunderhawk
   provider: Peter & Sons
 
 - title: Barbarossa DoubleMax
   gameid: barbarossa
   img: peter-and-sons/barbarossa.webp
-  lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=barbarossa
   provider: Peter & Sons
+  type: yggdrasil
 
 - title: Abra Kadabra
   gameid: abrakadabra
   img: peter-and-sons/abrakadabra.webp
-  lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=abrakadabra
   provider: Peter & Sons
+  type: relaxgaming
 
 - title: Robbin Nottingham Raiders
   gameid: robbin
   img: peter-and-sons/robin-nottingham-raiders.webp
-  lang: ID
+  type: yggdrasil
   permalink: https://peterandsons.org/launcher.html?gameId=robin
   provider: Peter & Sons
 
 - title: Book of Books
   gameid: bookofbooks
   img: peter-and-sons/book-of-books.webp
-  lang: ID
+  type: yggdrasil
   permalink: https://peterandsons.org/launcher.html?gameId=bookofbooks
   provider: Peter & Sons
 
 - title: The Legend of Musashi
   gameid: thelegendofmusashi
   img: peter-and-sons/the-legend-of-musashi.webp
-  lang: ID
+  type: yggdrasil
   permalink: https://peterandsons.org/launcher.html?gameId=thelegendofmusashi
   provider: Peter & Sons
 
 - title: Voodoo Hex
   gameid: voodoohex
   img: peter-and-sons/voodoo-hex.webp
-  lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=voodoohex
   provider: Peter & Sons
 
 - title: Dungeon Tower
   gameid: dungeontower
   img: peter-and-sons/dungeon-tower.webp
-  lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=dungeontower
   provider: Peter & Sons
 
@@ -74,6 +71,7 @@
   img: peter-and-sons/dragonblox.webp
   permalink: https://peterandsons.org/launcher.html?gameId=dragonblox
   provider: Peter & Sons
+  type: yggdrasil
 
 - title: D’cirque
   gameid: circus
