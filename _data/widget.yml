@@ -88,5 +88,20 @@
       - img: assets/images/feature/secrets-of-atlantis.webp
         url: /netent
 
+- title: Peter & Sons
+  url: /peter-and-sons
+  subcategories:
+   - title: "Peter & Sons"
+     url: /peter-and-sons
+     items:
+      - img: assets/images/feature/wild-duel.webp
+        url: /peter-and-sons
+      - img: assets/images/feature/punch-club.webp
+        url: /peter-and-sons
+      - img: assets/img/peter-and-sons/barbarossa.webp
+        url: /peter-and-sons
+      - img: assets/img/peter-and-sons/voodoo-hex.webp
+        url: /peter-and-sons
+
 
 
