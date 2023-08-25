@@ -61,7 +61,10 @@
   provider: Relax Gaming 
   type: casino 
 
-
-
-
+- title: Abra Kadabra
+  gameid: abrakadabra
+  img: peter-and-sons/abrakadabra.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=abrakadabra
+  provider: Relax Gaming
+  type: peterandsons
 
