@@ -1,10 +1,24 @@
-<div class="uk-overflow-autos">
+<div class="uk-margin-remove-bottom uk-clearfix">
+    <div class="uk-float-right">
+<form class="uk-search uk-search-default">
+    <span uk-search-icon></span>
+    <input id="myfilter" class="uk-form-width-small uk-search-input" type="search" placeholder="Cari di Pragmatic Play" aria-label="Search">
+ </form>   
+    </div>
+    <div class="uk-float-left">
+  <div class="uk-button-group"><!-- Buttons group -->
+    <button id="grid" uk-icon="icon: thumbnails; ratio: 2" class="uk-button uk-button-default uk-padding-remove"></button>
+    <button id="list" uk-icon="icon: list; ratio: 2" class="uk-button uk-button-default uk-padding-remove"></button>
+  </div><!-- /Buttons group -->     
+    </div>
+</div>
+<div class="uk-margin-remove-top uk-overflow-autos">
   <ul class="uk-subnav">
     <li uk-filter-control><a href="#">Semua</a></li>
     {% if page.active == "pragmatic-play" %}
     <li uk-filter-control="[data-pilih='classic']"><a href="#classic">Classic</a></li>
     <li>
-        <a href="#">Line <span uk-icon="icon: triangle-down"></span></a>
+        <a href="#">Line <span uk-drop-parent-icon></span></a>
         <div uk-dropdown="mode: click">
             <ul class="uk-nav uk-dropdown-nav">
              <li uk-filter-control="[data-pilih='Megaways']"><a href="#Megaways">Megaways</a></li>
@@ -19,7 +33,7 @@
     {% endif %}
     {% if page.active == "megaways" %}
     <li>
-        <a href="#">Line <span uk-icon="icon: triangle-down"></span></a>
+        <a href="#">Line <span uk-drop-parent-icon></span></a>
         <div uk-dropdown="mode: click">
             <ul class="uk-nav uk-dropdown-nav">
              <li uk-filter-control="[data-pilih='pragmaticplay']"><a href="#pragmaticplay">Pragmatic Play</a></li>
@@ -37,7 +51,7 @@
 
     {% if page.active == "table-games" %}
     <li>
-        <a href="#">Providers <span uk-icon="icon: triangle-down"></span></a>
+        <a href="#">Providers <span uk-drop-parent-icon></span></a>
         <div uk-dropdown="mode: click">
             <ul class="uk-nav uk-dropdown-nav">
              <li uk-filter-control="[data-pilih='pragmaticplay']"><a href="#pragmaticplay">Pragmatic Play</a></li>
@@ -52,7 +66,7 @@
 
     {% if page.active == "peterandsons" %}
     <li>
-        <a href="#">Line <span uk-icon="icon: triangle-down"></span></a>
+        <a href="#">Line <span uk-drop-parent-icon></span></a>
         <div uk-dropdown="mode: click">
             <ul class="uk-nav uk-dropdown-nav">
              <li uk-filter-control="[data-pilih='yggdrasil']"><a href="#yggdrasil">YGGDrasil</a></li>
@@ -65,7 +79,7 @@
 
     {% if page.active == "microgaming" %}
     <li>
-        <a href="#">Line <span uk-icon="icon: triangle-down"></span></a>
+        <a href="#">Line <span uk-drop-parent-icon></span></a>
         <div uk-dropdown="mode: click">
             <ul class="uk-nav uk-dropdown-nav">
              <li uk-filter-control="[data-pilih='rabcat']"><a href="#rabcat">Rabcat Gambling</a></li>
@@ -141,20 +155,5 @@
     {% endif %}
     
   </ul>
-</div>
-
-<div class="uk-margin-remove-bottom uk-clearfix">
-    <div class="uk-float-right">
-<form class="uk-search uk-search-default">
-    <span uk-search-icon></span>
-    <input id="myfilter" class="uk-form-width-small uk-search-input" type="search" placeholder="Cari di Pragmatic Play" aria-label="Search">
- </form>   
-    </div>
-    <div class="uk-float-left">
-  <div class="uk-button-group"><!-- Buttons group -->
-    <button id="grid" uk-icon="icon: thumbnails; ratio: 2" class="uk-button uk-button-default uk-padding-remove"></button>
-    <button id="list" uk-icon="icon: list; ratio: 2" class="uk-button uk-button-default uk-padding-remove"></button>
-  </div><!-- /Buttons group -->     
-    </div>
 </div>
 
