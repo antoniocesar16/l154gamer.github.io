@@ -103,5 +103,20 @@
       - img: assets/img/peter-and-sons/voodoo-hex.webp
         url: /peter-and-sons
 
+- title: Habanero
+  url: /habanero
+  subcategories:
+   - title: "Habanero"
+     url: /habanero
+     items:
+      - img: assets/images/feature/london-hunter.webp
+        url: /habanero
+      - img: assets/images/feature/egyptian-dreams-deluxe.webp
+        url: /habanero
+      - img: assets/img/habanero/koi-gates.webp
+        url: /habanero
+      - img: assets/img/habanero/wild-trucks.webp
+        url: /habanero
+
 
 
