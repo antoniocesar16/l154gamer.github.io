@@ -6,7 +6,7 @@
      items:
       - img: assets/images/feature/peaky-blinders.webp
         url: /pragmatic-play
-      - img: assets/images/feature/cowboys-coins.webp
+      - img: assets/images/feature/cowboys-gold.webp
         url: /pragmatic-play
       - img: https://l154gamer.github.io/assets/img/pragmatic-play/wild-west-duels.webp
         url: /pragmatic-play
@@ -51,7 +51,7 @@
      items:
       - img: assets/images/feature/deadwood.webp
         url: /nolimit-city
-      - img: assets/images/feature/thor-hammer.webp
+      - img: assets/images/feature/thor-hummer.webp
         url: /nolimit-city
       - img: https://l154gamer.github.io/assets/img/nolimit-city/punk-toilet.webp
         url: /nolimit-city
