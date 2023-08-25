@@ -147,3 +147,10 @@
   provider: NETENT
   available: not-available
   type: megaways
+  
+- title: Dead or Alive Megaways
+  img: netent/dead-or-alive-megaways.webp 
+  permalink: 
+  provider: NETENT
+  available: not-available
+  type: megaways
