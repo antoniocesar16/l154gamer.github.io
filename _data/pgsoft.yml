@@ -1,878 +1,835 @@
-mahjong-ways:
-  title: Mahjong Ways
-  id: 65
+- title: Mahjong Ways
+  gameid: 65
+  img: pgsoft/mahjong-ways.webp
   url: pgsoft/mahjong-ways
-  permalink: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  iframe-width: 100%
-  iframe-height: 660px
-  provider: Pocket Soft Games
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
   
-mahjong-ways2:
-  title: Mahjong Ways 2
-  id: 74
-  url: pgsoft/mahjong-ways2
-  iframe-width: 100%
-  iframe-height: 660px
-  permalink: https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
+- title: Mahjong Ways 2
+  gameid: 74
+  img: pgsoft/mahjong-ways2.webp
+  lang: Cara Mahyong 2
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
   
-lucky-neko:
-  title: Lucky Neko
-  id: 89
-  url: pgsoft/lucky-neko
-  permalink: https://m.pgsoft-games.com/89/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
+- title: Lucky Neko
+  gameid: 89
+  img: pgsoft/lucky-neko.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/89/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
   
-dragon-hatch:
-  title: Dragon Hatch
-  id: 57
-  permalink: https://m.pgsoft-games.com/57/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
+- title: Wild Bandito
+  gameid: 104
+  img: pgsoft/wild-bandito.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/104/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
   
-qilin-ways:
-  title: Ways of The Qilin
-  id: 106
-  permalink: https://m.pgsoft-games.com/106/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
+- title: Medusa - The Curse of Athena
+  gameid: 7
+  img: pgsoft/medusa.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/7/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
   
-phoenix-rises:
-  title: Phoenix Rises
-  id: 82
-  permalink: https://m.pgsoft-games.com/82/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
+- title: Medusa - The Quest of Perseus
+  gameid: 6
+  img: pgsoft/medusa2.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/6/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
   
-jurassic-kingdom:
-  title: Jurassic Kingdom
-  img: jurassic-kingdom.webp
-  url: jurassic-kingdom
-  id: 110
-  permalink: https://m.pgsoft-games.com/110/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
+- title: Dragon Hatch
+  gameid: 57
+  img: pgsoft/dragon-hatch.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/57/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
   
-candy-bonanza:
-  title: Candy Bonanza
+- title: Ways of The Qilin
+  gameid: 106
+  img: pgsoft/qilin-ways.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/106/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Phoenix Rises
+  gameid: 82
+  img: pgsoft/phoenix-rises.webp
+  lang: Phoenix Bangkit
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/82/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Jurassic Kingdom
+  gameid: 110
+  img: pgsoft/jurassic-kingdom.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/110/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Candy Bonanza
   img: candy-bonanza.webp
-  url: candy-bonanza
+  url: pgsoft/candy-bonanza
   id: 100
-  permalink: https://m.pgsoft-games.com/100/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-candy-burst:
-  title: Candy Burst
-  img: candy-burst.webp
-  url: candy-burst
-  id: 70
-  permalink: https://m.pgsoft-games.com/70/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-mermaid-riches:
-  title: Mermaid Riches
-  img: mermaid-riches.webp
-  url: mermaid-riches
-  id: 102
-  permalink: https://m.pgsoft-games.com/102/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-aztec-treasures:
-  title: Treasures of Aztec
-  img: aztec-treasures.webp
-  url: aztec-treasures
-  id: 87
-  permalink: https://m.pgsoft-games.com/87/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-garuda-gems:
-  title: Garuda Gems
-  img: garuda-gems.webp
-  url: garuda-gems
-  id: 122
-  permalink: https://m.pgsoft-games.com/122/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-bali-vacation:
-  title: Bali Vacation
-  img: bali-vacation.webp
-  url: bali-vacation
-  id: 94
-  permalink: https://m.pgsoft-games.com/94/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-opera-dynasty:
-  title: Opera Dynasty
-  img: opera-dynasty.webp
-  url: opera-dynasty
-  id: 93
-  permalink: https://m.pgsoft-games.com/93/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-queens-banquet:
-  title: The Queen's Banquet
-  img: queens-banquet.webp
-  url: queens-banquet
-  id: 120
-  permalink: https://m.pgsoft-games.com/120/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-honey-trap:
-  title: Honey Trap of Diao Chan
-  img: honey-trap.webp
-  url: honey-trap
-  id: 1
-  permalink: https://m.pgsoft-games.com/1/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-dreams-macau:
-  title: Dreams of Macau
-  img: dreams-macau.webp
-  url: dreams-macau
-  id: 79
-  permalink: https://m.pgsoft-games.com/79/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-queen-bounty:
-  title: Queen Bounty
-  img: queen-bounty.webp
-  url: queen-bounty
-  id: 84
-  permalink: https://m.pgsoft-games.com/84/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-apollo-rise:
-  title: Rise of Apollo
-  img: apollo-rise.webp
-  url: apollo-rise
-  id: 101
-  permalink: https://m.pgsoft-games.com/101/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-supermarket-spree:
-  title: Supermarket Spree
-  img: supermarket-spree.webp
-  url: supermarket-spree
-  id: 115
-  permalink: https://m.pgsoft-games.com/115/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-cocktail-nights:
-  title: Cocktail Nights
-  img: cocktail-nights.webp
-  url: cocktail-nights
-  id: 117
-  permalink: https://m.pgsoft-games.com/117/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-leprechaun-riches:
-  title: Leprechaun Riches
-  img: leprechaun-riches.webp
-  url: leprechaun-riches
-  id: 60
-  permalink: https://m.pgsoft-games.com/60/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-secrets-cleopatra:
-  title: Secrets of Cleopatra
-  img: secrets-cleopatra.webp
-  url: secrets-cleopatra
-  id: 90
-  permalink: https://m.pgsoft-games.com/90/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-circus-delight:
-  title: Circus Delight
-  img: circus-delight.webp
-  url: circus-delight
-  id: 80
-  permalink: https://m.pgsoft-games.com/80/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-vampires-charm:
-  title: Vampire's Charm
-  img: vampires-charm.webp
-  url: vampires-charm
-  id: 58
-  permalink: https://m.pgsoft-games.com/58/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-crypto-gold:
-  title: Crypto Gold
-  img: crypto-gold.webp
-  url: crypto-gold
-  id: 103
-  permalink: https://m.pgsoft-games.com/103/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-wild-bounty-showdown:
-  title: Wild Bounty Showdown
-  img: wild-bounty-showdown.webp
-  url: wild-bounty-showdown
-  id: 135
-  permalink: https://m.pgsoft-games.com/135/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-bikini-paradise:
-  title: Bikini Paradise
-  img: bikini-paradise.webp
-  url: bikini-paradise
-  id: 69
-  permalink: https://m.pgsoft-games.com/69/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-butterfly-blossom:
-  title: Butterfly Blossom
-  img: butterfly-blossom.webp
-  url: butterfly-blossom
-  id: 125
-  permalink: https://m.pgsoft-games.com/125/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-medusa:
-  title: Medusa The Curse of Athena
-  img: medusa.webp
-  url: medusa-pgsoft
-  id: 7
-  permalink: https://m.pgsoft-games.com/7/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-gem-saviour-sword:
-  title: Gem Saviour Sword
-  img: gem-saviour-sword.webp
-  url: gem-saviour-sword
-  id: 38
-  permalink: https://m.pgsoft-games.com/38/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-emperors-favour:
-  title: Emperor's Favour
-  img: emperors-favour.webp
-  url: emperors-favour
-  id: 44
-  permalink: https://m.pgsoft-games.com/44/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-egypt-book-mystery:
-  title: Egypt's Book of Mystery
-  img: egypt-book-mystery.webp
-  url: egypt-book-mystery
-  id: 73
-  permalink: https://m.pgsoft-games.com/73/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-legend-of-perseus:
-  title: Legend of Perseus
-  img: legend-of-perseus.webp
-  url: legend-of-perseus
-  id: 128
-  permalink: https://m.pgsoft-games.com/128/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/error&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-totem-wonders:
-  title: Totem Wonders
-  img: totem-wonders.webp
-  url: totem-wonders
-  id: 1338274
-  permalink: https://m.pgsoft-games.com/1338274/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-plushie-frenzy:
-  title: Plushie Frenzy
-  img: plushie-frenzy.webp
-  url: plushie-frenzy
-  id: 25
-  permalink: https://m.pgsoft-games.com/25/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-groundhog-harvest:
-  title: Groundhog Harvest
-  img: groundhog-harvest.webp
-  url: groundhog-harvest
-  id: 111
-  permalink: https://m.pgsoft-games.com/111/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-farm-invaders:
-  title: Farm Invaders
-  img: farm-invaders.webp
-  url: farm-invaders
-  id: 116
-  permalink: https://m.pgsoft-games.com/116/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-symbols-of-egypt:
-  title: Symbols of Egypt 
-  img: symbols-of-egypt.webp
-  url: symbols-of-egypt
-  id: 41
-  permalink: https://m.pgsoft-games.com/41/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-dragon-legend:
-  title: Dragon Legend 
-  img: dragon-legend.webp
-  url: dragon-legend
-  id: 29
-  permalink: https://m.pgsoft-games.com/29/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-medusa2:
-  title: Medusa II
-  img: medusa2.webp
-  url: medusa2
-  id: 6
-  permalink: https://m.pgsoft-games.com/6/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-raider-jane:
-  title: Raider Jane's Crypt Of Fortune
-  img: raider-janes-crypt-of-fortune.webp
-  url: raider-jane
-  id: 113
-  permalink: https://m.pgsoft-games.com/113/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-jack-frosts-winter:
-  title: Jack Frost's Winter
-  img: jack-frosts-winter.webp
-  url: pgsoft/jack-frosts-winter
-  id: 97
-  permalink: https://m.pgsoft-games.com/97/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-genies-3-wishes:
-  title: Genie's 3 Wishes
-  img: genies-3-wishes.webp
-  url: pgsoft/genies-3-wishes
-  id: 85
-  permalink: https://m.pgsoft-games.com/85/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-great-icescape:
-  title: The Great Icescape
-  img: the-great-icescap.webp
-  url: pgsoft/great-icescape
-  id: 53
-  permalink: https://m.pgsoft-games.com/53/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-rooster-rumble:
-  title: Rooster Rumble
-  img: rooster-rumble.webp
-  url: pgsoft/rooster-rumble
-  id: 123
-  permalink: https://m.pgsoft-games.com/123/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-win-win-won:
-  title: Win Win Won
-  img: win-win-won.webp
-  url: pgsoft/win-win-won
-  id: 24
-  permalink: https://m.pgsoft-games.com/24/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-fortune-rabbit:
-  title: Fortune Rabbit 
-  img: fortune-rabbit.webp
-  url: fortune-rabbit
-  id: 1543462
-  permalink: https://m.pgsoft-games.com/1543462/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-reel-love:
-  title: Reel Love 
-  img: reel-love.webp
-  url: reel-love
-  id: 20
-  permalink: https://m.pgsoft-games.com/20/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-lucky-piggy:
-  title: Lucky Piggy 
-  img: lucky-piggy.webp
-  url: lucky-piggy
-  id: 130
-  permalink: https://m.pgsoft-games.com/130/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-jungle-delight:
-  title: Jungle Delight 
-  img: jungle-delight.webp
-  url: jungle-delight
-  id: 40
-  permalink: https://m.pgsoft-games.com/40/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-captains-bounty:
-  title: Captain's Bounty 
-  img: captains-bounty.webp
-  url: captains-bounty
-  id: 54
-  permalink: https://m.pgsoft-games.com/54/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-battleground-royale:
-  title: Battleground Royale 
-  img: battleground-royale.webp
-  url: battleground-royale
-  id: 124
-  permalink: https://m.pgsoft-games.com/124/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-wild-fireworks:
-  title: Wild Fireworks 
-  img: wild-fireworks.webp
-  url: wild-fireworks
-  id: 83
-  permalink: https://m.pgsoft-games.com/83/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-spirited-wonders:
-  title: Spirited Wonders 
-  img: spirited-wonders.webp
-  url: spirited-wonders
-  id: 119
-  permalink: https://m.pgsoft-games.com/119/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-3monkeys:
-  title: 3 Monkeys
-  img: 3monkeys.webp
-  url: 3monkeys
-  id: 43
-  permalink: https://m.pgsoft-games.com/43/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-midas-fortune:
-  title: Midas Fortune
-  img: midas-fortune.webp
-  url: midas-fortune
-  id: 1402846
-  permalink: https://m.pgsoft-games.com/1402846/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-wild-bandito:
-  title: Wild Bandito
-  img: wild-bandito.webp
-  url: wild-bandito
-  id: 104
-  permalink: https://m.pgsoft-games.com/104/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-dragon-tiger-luck:
-  title: Dragon Tiger Luck
-  id: 63
-  permalink: https://m.pgsoft-games.com/63/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-great-icescape:
-  title: The Great Icescape
-  id: 53
-  permalink: https://m.pgsoft-games.com/53/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-heist-stakes:
-  title: Heist Stakes
-  id: 105
-  permalink: https://m.pgsoft-games.com/105/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-genies-3-wishes:
-  title: Genie's 3 Wishes
-  id: 85
-  permalink: https://m.pgsoft-games.com/85/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-piggy-gold:
-  title: Piggy Gold
-  id: 39
-  permalink: https://m.pgsoft-games.com/39/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-sushi-oishi:
-  title: Sushi Oishi
-  id: 109
-  permalink: https://m.pgsoft-games.com/109/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-galactic-gems:
-  title: Galactic Gems
-  id: 86
-  permalink: https://m.pgsoft-games.com/86/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-thai-river-wonders:
-  title: Thai River Wonders
-  id: 92
-  permalink: https://m.pgsoft-games.com/92/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-muay-thai-champion:
-  title: Muay Thai Champion
-  id: 64
-  permalink: https://m.pgsoft-games.com/64/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-emoji-riches:
-  title: Emoji Riches
-  id: 114
-  permalink: https://m.pgsoft-games.com/114/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-hot-pot:
-  title: Hot Pot Chili Jackpot
-  id: 28
-  url: pgsoft/hot-pot
-  permalink: https://m.pgsoft-games.com/28/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-mask-carnival:
-  title: Mask Carnival
-  id: 118
-  url: pgsoft/mask-carnival
-  permalink: https://m.pgsoft-games.com/118/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-speed-winner:
-  title: Speed Winner
-  id: 127
-  url: pgsoft/speed-winner
-  permalink: https://m.pgsoft-games.com/127/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-  
-baccarat-deluxe:
-  title: Baccarat Deluxe
-  id: 31
-  url: pgsoft/table-games/baccarat-deluxe
-  permalink: https://m.pgsoft-games.com/31/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-
-fortune-tiger:
-  title: Fortune Tiger
-  id: 126
-  url: pgsoft/fortune-tiger
-  permalink: https://m.pgsoft-games.com/126/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-
-fortune-mouse:
-  title: Fortune Mouse
-  id: 68
-  url: pgsoft/fortune-mouse
-  permalink: https://m.pgsoft-games.com/68/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-
-samurai-vs-ninja:
-  title: Samurai VS Ninja
-  id: 59
-  url: pgsoft/samurai-vs-ninja
-  permalink: https://m.pgsoft-games.com/59/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-
-hood-vs-wolf:
-  title: Hood VS Wolf
-  id: 18
-  url: pgsoft/hood-vs-wolf
-  permalink: https://m.pgsoft-games.com/18/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-
-gem-saviour:
-  title: Gem Saviour
-  img: gem-saviour.webp
-  url: pgsoft/gem-saviour
-  id: 2
-  permalink: https://m.pgsoft-games.com/2/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-
-gem-saviour-conquest:
-  title: Gem Saviour Conquest
-  id: 62
-  url: pgsoft/gem-saviour-conquest
-  permalink: https://m.pgsoft-games.com/62/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-
-buffalo-win:
-  title: Buffalo Win
-  id: 108
-  url: pgsoft/buffalo-win
-  img: buffalo-win.webp
-  permalink: https://m.pgsoft-games.com/108/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-wild-coaster:
-  title: Wild Coaster
-  id: 132
-  url: pgsoft/wild-coaster
-  img: wild-coaster.webp
-  permalink: https://m.pgsoft-games.com/132/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-hip-hop-panda:
-  title: Hip Hop Panda
-  id: 33
-  url: pgsoft/hip-hop-panda
-  img: hip-hop-panda.webp
-  permalink: https://m.pgsoft-games.com/33/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-guardians-ice-fire:
-  title: Guardians of Ice & Fire
-  id: 91
-  url: pgsoft/guardians-ice-fire
-  img: guardians-ice-fire.webp
-  permalink: https://m.pgsoft-games.com/91/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-asgardian-rising:
-  title: Asgardian Rising
-  id: 1340277
-  url: pgsoft/asgardian-rising
-  img: asgardian-rising.webp
-  permalink: https://m.pgsoft-games.com/1340277/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-win-win-fish-prawn-crab:
-  title: Win Win Fish Prawn Crab
-  id: 129
-  url: pgsoft/win-win-fish-prawn-crab
-  img: fish-prawn.webp
-  permalink: https://m.pgsoft-games.com/129/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-santas-gift-rush:
-  title: Santa's Gift Rush
-  id: 37
-  url: pgsoft/santas-gift-rush
-  img: santas-gift-rush.webp
-  permalink: https://m.pgsoft-games.com/37/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-wizdom-wonders:
-  title: Wizdom Wonders
-  id: 17
-  url: pgsoft/wizdom-wonders
-  img: wizdom-wonders.webp
-  permalink: https://m.pgsoft-games.com/17/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-wizdom-wonders:
-  title: Wizdom Wonders
-  id: 17
-  url: pgsoft/wizdom-wonders
-  img: wizdom-wonders.webp
-  permalink: https://m.pgsoft-games.com/17/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-alchemy-gold:
-  title: Alchemy Gold
-  id: 1368367
-  url: pgsoft/alchemy-gold
-  img: alchemy-gold.webp
-  permalink: https://m.pgsoft-games.com/1368367/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-double-fortune:
-  title: Double Fortune
-  id: 48
-  url: pgsoft/double-fortune
-  img: double-fortune.webp
-  permalink: https://m.pgsoft-games.com/48/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-flirting-scholar:
-  title: Flirting Scholar
-  id: 61
-  url: pgsoft/flirting-scholar
-  img: flirting-scholar.webp
-  permalink: https://m.pgsoft-games.com/61/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-destiny-sun-moon:
-  title: Destiny of Sun & Moon
-  id: 121
-  url: pgsoft/destiny-sun-moon
-  img: destiny-sun-moon.webp
-  permalink: https://m.pgsoft-games.com/121/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-rave-party-fever:
-  title: Rave Party Fever
-  id: 1420892
-  url: pgsoft/rave-party-fever
-  img: rave-party-fever.webp
-  permalink: https://m.pgsoft-games.com/1420892/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-prosperity-lion:
-  title: Prosperity Lion
-  id: 36
-  url: pgsoft/prosperity-lion
-  img: prosperity-lion.webp
-  permalink: https://m.pgsoft-games.com/36/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-prosperity-jewels:
-  title: Jewels of Prosperity
-  id: 88
-  url: pgsoft/jewels-of-prosperity
-  img: prosperity-jewels.webp
-  permalink: https://m.pgsoft-games.com/88/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-caishen-wins:
-  title: Caishen Wins
-  id: 71
-  url: pgsoft/caishen-wins
-  img: caishen-wins.webp
-  permalink: https://m.pgsoft-games.com/71/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-journey-wealth:
-  title: Journey to the Wealth
-  id: 50
-  url: pgsoft/journey-to-the-wealth
-  img: journey-wealth.webp
-  permalink: https://m.pgsoft-games.com/50/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-fortune-ox:
-  title: Fortune Ox
-  id: 98
-  url: pgsoft/fortune-ox
-  img: fortune-ox.webp
-  permalink: https://m.pgsoft-games.com/98/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-shaolin-soccer:
-  title: Shaolin Soccer
-  id: 67
-  url: pgsoft/shaolin-soccer
-  img: shaolin-soccer.webp
-  permalink: https://m.pgsoft-games.com/67/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-mr-hallow-win:
-  title: Mr. Hallow-Win
-  id: 35
-  url: pgsoft/mr-hallow-win
-  img: mr-hallow-win.webp
-  permalink: https://m.pgsoft-games.com/35/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-ganesha-fortune:
-  title: Ganesha Fortune
-  id: 75
-  url: pgsoft/ganesha-fortune
-  permalink: https://m.pgsoft-games.com/75/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-ganesha-gold:
-  title: Ganesha Gold
-  id: 42
-  url: pgsoft/ganesha-gold
-  permalink: https://m.pgsoft-games.com/42/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-fortune-mouse:
-  title: Fortune Mouse
-  id: 68
-  url: pgsoft/fortune-mouse
-  permalink: https://m.pgsoft-games.com/68/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-fortune-gods:
-  title: Fortune Gods
-  id: 3
-  url: pgsoft/fortune-gods
-  permalink: https://m.pgsoft-games.com/3/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-prosperity-fortune-tree:
-  title: Prosperity Fortune Tree
-  id: 1312883
-  url: pgsoft/prosperity-fortune-tree
-  permalink: https://m.pgsoft-games.com/1312883/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-tree-of-fortune:
-  title: Tree of Fortune
-  id: 26
-  url: pgsoft/tree-of-fortune
-  permalink: https://m.pgsoft-games.com/26/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-hawaiian-tiki:
-  title: Hawaiian Tiki
-  id: 1381200
-  img: hawaiian-tiki.webp
-  url: pgsoft/hawaiian-tiki
-  permalink: https://m.pgsoft-games.com/1381200/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-legendary-monkey-king:
-  title: Legendary Monkey King
-  id: 107
-  img: legendary-monkey-king.webp
-  url: pgsoft/legendary-monkey-king
-  permalink: https://m.pgsoft-games.com/107/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-diner-delights:
-  title: Diner Delights
-  id: 1372643
-  img: diner-delights.webp
-  url: pgsoft/diner-delights
-  permalink: https://m.pgsoft-games.com/1372643/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refehttps://m.pgsoft-games.com/107/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&r=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-bakery-bonanza:
-  title: Bakery Bonanza
-  id: 1418544
-  img: bakery-bonanza.webp
-  url: pgsoft/bakery-bonanza
-  permalink: https://m.pgsoft-games.com/1418544/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refehttps://m.pgsoft-games.com/107/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&r=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: Pocket Soft Games
-songkran-splash:
-  title: Songkran Splash
-  id: 1448762
-  url: pgsoft/songkran-splash
-  permalink: https://m.pgsoft-games.com/1448762/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  iframe-width: 100%
-  iframe-height: 680px
-  provider: Pocket Soft Games
-mystical-spirits:
-  title: Mystical Spirits
-  id: 1432733
-  img: mystical-spirits.webp
-  url: pgsoft/mystical-spirits
-  permalink: https://m.pgsoft-games.com/1432733/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  iframe-width: 100%
-  iframe-height: 680px
-  provider: Pocket Soft Games
-super-golf-drive:
-  title: Super Golf Drive
-  id: 1513328
-  img: super-golf-drive.webp
-  url: pgsoft/super-golf-drive
-  permalink: https://m.pgsoft-games.com/1513328/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  iframe-width: 100%
-  iframe-height: 800px
-  provider: Pocket Soft Games
-lucky-clover-lady:
-  title: Lucky Clover Lady
-  id: 1601012
-  img: lucky-clover-lady.webp
-  url: pgsoft/lucky-clover-lady
-  permalink: https://m.pgsoft-games.com/1601012/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/error/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  key: lucky
-  provider: Pocket Soft Games
-majestic-treasures:
-  title: Majestic Treasures
-  id: 95
-  img: majestic-treasures.webp
-  url: pgsoft/majestic-treasures
-  permalink: https://m.pgsoft-games.com/95/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  lang: Bonanza Permen
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/100/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Candy Burst
+  gameid: 70
+  img: pgsoft/candy-burst.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/70/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Mermaid Riches
+  gameid: 102
+  img: pgsoft/mermaid-riches.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/102/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Treasures of Aztec
+  gameid: 87
+  img: pgsoft/aztec-treasures.webp
+  lang: Harta Karun Aztek
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/87/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Garuda Gems
+  gameid: 122
+  img: pgsoft/garuda-gems.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/122/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Bali Vacation - Infinity Reels
+  gameid: 94
+  img: pgsoft/bali-vacation.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/94/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Opera Dynasty
+  gameid: 93
+  img: pgsoft/opera-dynasty.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/93/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: The Queen's Banquet
+  gameid: 120
+  img: pgsoft/queens-banquet.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/120/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Honey Trap of Diao Chan
+  gameid: 1
+  img: pgsoft/honey-trap.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Dreams of Macau
+  gameid: 79
+  img: pgsoft/dreams-macau.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/79/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Queen Bounty
+  gameid: 84
+  img: pgsoft/queen-bounty.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/84/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Rise of Apollo
+  gameid: 101
+  img: pgsoft/apollo-rise.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/101/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Supermarket Spree
+  gameid: 115
+  img: pgsoft/supermarket-spree.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/115/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Cocktail Nights
+  gameid: 117
+  img: pgsoft/cocktail-nights.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/117/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Leprechaun Riches
+  gameid: 60
+  img: pgsoft/leprechaun-riches.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/60/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Secrets of Cleopatra - Infinity reels
+  gameid: 90
+  img: pgsoft/secrets-cleopatra.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/90/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Circus Delight
+  gameid: 80
+  img: pgsoft/circus-delight.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/80/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Vampire's Charm
+  gameid: 58
+  img: pgsoft/vampires-charm.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/58/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Crypto Gold
+  gameid: 103
+  img: pgsoft/crypto-gold.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/103/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Wild Bounty Showdown
+  gameid: 135
+  img: pgsoft/wild-bounty-showdown.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/135/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Bikini Paradise
+  gameid: 69
+  img: pgsoft/bikini-paradise.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/69/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Butterfly Blossom
+  gameid: 125
+  img: pgsoft/butterfly-blossom.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/125/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Emperor's Favour
+  gameid: 44
+  img: pgsoft/emperors-favour.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/44/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Egypt's Book of Mystery
+  gameid: 73
+  img: pgsoft/egypt-book-mystery.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/73/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Legend of Perseus
+  gameid: 128
+  img: pgsoft/legend-of-perseus.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/128/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Dragon Legend - Mythical Treasure Jackpot
+  gameid: 29
+  img: pgsoft/dragon-legend.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/29/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Jack Frost's Winter - Infinity Reels
+  gameid: 97
+  img: pgsoft/jack-frosts-winter.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/97/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Raider Jane's Crypt Of Fortune
+  gameid: 113
+  img: pgsoft/raider-janes-crypt-of-fortune.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/113/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Rooster Rumble
+  gameid: 123
+  img: pgsoft/rooster-rumble.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/123/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Reel Love 
+  gameid: 20
+  img: pgsoft/reel-love.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/20/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Totem Wonders
+  gameid: 57
+  img: pgsoft/totem-wonders.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/57/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Plushie Frenzy
+  gameid: 25
+  img: pgsoft/plushie-frenzy.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/25/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Symbols of Egypt 
+  gameid: 41
+  img: pgsoft/symbols-of-egypt.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/41/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Win Win Won
+  gameid: 24
+  img: pgsoft/win-win-won.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/24/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Fortune Rabbit 
+  gameid: 1543462
+  img: pgsoft/fortune-rabbit.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1543462/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Lucky Piggy 
+  gameid: 130
+  img: pgsoft/lucky-piggy.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/130/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Jungle Delight 
+  gameid: 40
+  img: pgsoft/jungle-delight.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/40/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Captain's Bounty 
+  gameid: 54
+  img: pgsoft/captains-bounty.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/54/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Battleground Royale 
+  gameid: 124
+  img: pgsoft/battleground-royale.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/124/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Wild Fireworks 
+  gameid: 83
+  img: pgsoft/wild-fireworks.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/83/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Spirited Wonders 
+  gameid: 119
+  img: pgsoft/spirited-wonders.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/119/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
 
-fruity-candy:
-  title: Fruity Candy
-  id: 1397455
-  img: fruity-candy.webp
-  url: pgsoft/fruity-candy
-  lang: Permen Buah
-  permalink: https://m.pgsoft-games.com/1397455/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: PG Soft 
-
-cruise-royale:
-  title: Cruise royale
-  id: 1473388
-  img: cruise-royale.webp
-  url: pgsoft/cruise-royale
-  lang: Cruise Royale
-  permalink: https://m.pgsoft-games.com/1473388/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: PG Soft 
+- title: Midas Fortune
+  gameid: 1402846
+  img: pgsoft/midas-fortune.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1402846/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
   
-american-blackjack:
-  title: American Blackjack
-  url: pgsoft/table-games/american-blackjack
-  img: american-blackjack.webp
+- title: Dragon Tiger Luck
+  gameid: 63
+  img: pgsoft/dragon-tiger-luck.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/63/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: The Great Icescape
+  gameid: 53
+  img: pgsoft/great-icescape.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/53/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Heist Stakes
+  gameid: 105
+  img: pgsoft/heist-stakes.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/105/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Genie's 3 Wishes
+  gameid: 85
+  img: pgsoft/genies-3-wishes.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/85/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Piggy Gold
+  gameid: 39
+  img: pgsoft/piggy-gold.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/39/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Galactic Gems
+  gameid: 86
+  img: pgsoft/galactic-gems.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/86/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Thai River Wonders
+  gameid: 92
+  img: pgsoft/thai-river-wonders.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/92/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Muay Thai Champion
+  gameid: 64
+  img: pgsoft/muay-thai-champion.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/64/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Farm Invaders
+  gameid: 116
+  img: pgsoft/farm-invaders.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/116/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Emoji Riches
+  gameid: 114
+  img: pgsoft/emoji-riches.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/114/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Hot Pot Chili Jackpot
+  gameid: 28
+  img: pgsoft/hot-pot.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/28/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Mask Carnival
+  gameid: 118
+  img: pgsoft/mask-carnival.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/118/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Speed Winner
+  gameid: 127
+  img: pgsoft/speed-winner.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/127/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Baccarat Deluxe
+  gameid: 31
+  img: pgsoft/baccarat-deluxe.webp
+  type: casino
+  permalink: https://m.pgsoft-games.com/31/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+
+- title: Fortune Tiger
+  gameid: 126
+  img: pgsoft/fortune-tiger.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/126/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Ninja Vs Samurai
+  gameid: 59
+  img: pgsoft/samurai-vs-ninja.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/59/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Hood VS Wolf - The Wild Hunt
+  gameid: 18
+  img: pgsoft/hood-vs-wolf.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/18/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Gem Saviour
+  gameid: 2
+  img: pgsoft/gem-saviour.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/2/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Gem Saviour Sword
+  gameid: 38
+  img: pgsoft/gem-saviour-sword.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/38/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Gem Saviour Conquest
+  gameid: 62
+  img: pgsoft/gem-saviour-conquest.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/62/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Buffalo Win - Infinity Reels
+  gameid: 108
+  img: pgsoft/buffalo-win.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/108/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Wild Coaster
+  gameid: 132
+  img: pgsoft/wild-coaster.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/132/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Hip Hop Panda
+  gameid: 33
+  img: pgsoft/hip-hop-panda.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/33/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Guardians of Ice & Fire
+  gameid: 91
+  img: pgsoft/guardians-ice-fire.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/91/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Asgardian Rising
+  gameid: 1340277
+  img: pgsoft/asgardian-rising.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1340277/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Win Win Fish Prawn Crab
+  gameid: 129
+  img: pgsoft/fish-prawn.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/129/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Santa's Gift Rush
+  gameid: 37
+  img: pgsoft/santas-gift-rush.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/37/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+
+- title: Alchemy Gold
+  gameid: 1368367
+  img: pgsoft/alchemy-gold.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1368367/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Double Fortune
+  gameid: 48
+  img: pgsoft/double-fortune.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/48/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Flirting Scholar
+  gameid: 61
+  img: pgsoft/flirting-scholar.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/61/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Destiny of Sun & Moon
+  gameid: 121
+  img: pgsoft/destiny-sun-moon.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/121/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Rave Party Fever
+  gameid: 1420892
+  img: pgsoft/rave-party-fever.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1420892/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Prosperity Lion
+  gameid: 36
+  img: pgsoft/prosperity-lion.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/36/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+
+- title: Jewels of Prosperity
+  gameid: 88
+  img: pgsoft/prosperity-jewels.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/88/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Caishen Wins
+  gameid: 71
+  img: pgsoft/caishen-wins.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/71/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Journey to the Wealth
+  gameid: 50
+  img: pgsoft/journey-wealth.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/50/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Fortune Ox
+  gameid: 98
+  img: pgsoft/fortune-ox.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/98/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Shaolin Soccer
+  gameid: 67
+  img: pgsoft/shaolin-soccer.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/67/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Mr. Hallow-Win
+  gameid: 35
+  img: pgsoft/mr-hallow-win.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/35/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Ganesha Fortune
+  gameid: 75
+  img: pgsoft/ganesha-fortune.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/75/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Ganesha Gold
+  gameid: 42
+  img: pgsoft/ganesha-gold.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/42/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Fortune Mouse
+  gameid: 68
+  img: pgsoft/fortune-mouse.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/68/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Fortune Gods
+  gameid: 3
+  img: pgsoft/fortune-gods.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/3/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+
+- title: Wizdom Wonders
+  gameid: 17
+  img: pgsoft/wizdom-wonders.webp
+  permalink: https://m.pgsoft-games.com/17/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  type: videoslot
+  available: not-available
+  provider: PG Soft
+  
+- title: 3 Monkeys
+  gameid: 43
+  img: pgsoft/3monkeys.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/43/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  available: not-available
+  provider: PG Soft
+  
+- title: Groundhog Harvest
+  gameid: 111
+  img: pgsoft/groundhog-harvest.webp
+  available: not-available
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/111/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: American Blackjack
+  gameid: 0
+  img: pgsoft/american-blackjack.webp
   lang: American Blackjack
-  type: Table Games
-  permalink: https://m.pgsoft-games.com/null/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  available: not-available
+  type: casino
+  permalink: https://m.pgsoft-games.com/null/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   
-european-blackjack:
-  title: European Blackjack
-  url: pgsoft/table-games/european-blackjack
-  img: european-blackjack.webp
-  lang: European Blackjack
-  type: Table Games
-  permalink: https://m.pgsoft-games.com/null/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://as-saadah.github.io/games/&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
-  provider: PG Soft  
+- title: European Blackjack
+  gameid: 0
+  img: pgsoft/european-blackjack.webp
+  type: casino
+  available: not-available
+  permalink: https://m.pgsoft-games.com/null/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Summon & Conquer
+  gameid: 17
+  img: pgsoft/summon-and-conquer.webp
+  available: not-available
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/17/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Steampunk - Wheel of Destiny
+  gameid: 16
+  img: pgsoft/steampunk.webp
+  available: not-available   
+  type: casino
+  permalink: https://m.pgsoft-games.com/16/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Sushi Oishi
+  gameid: 109
+  img: pgsoft/sushi-oishi.webp
+  available: not-available
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/109/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+
+- title: Prosperity Fortune Tree
+  gameid: 1312883
+  img: pgsoft/prosperity-fortune-tree.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1312883/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Tree of Fortune
+  gameid: 26
+  img: pgsoft/tree-of-fortune.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/26/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Hawaiian Tiki
+  gameid: 1381200
+  img: pgsoft/hawaiian-tiki.webp
+  lang: Tiki Hawaii
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1381200/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Legendary Monkey King
+  gameid: 107
+  img: pgsoft/legendary-monkey-king.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/107/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Diner Delights
+  gameid: 1372643
+  img: pgsoft/diner-delights.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1372643/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Bakery Bonanza
+  gameid: 1418544
+  img: pgsoft/bakery-bonanza.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1418544/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+
+- title: Majestic Treasures
+  gameid: 95
+  img: pgsoft/majestic-treasures.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/95/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+
+- title: Songkran Splash
+  gameid: 1448762
+  img: pgsoft/songkran-splash.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1448762/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Mystical Spirits
+  gameid: 1432733
+  img: pgsoft/mystical-spirits.webp
+  type: videoslot
+  permalink: https://m.pgsoft-games.com/1432733/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Super Golf Drive
+  gameid: 1513328
+  img: pgsoft/super-golf-drive.webp
+  type: new
+  permalink: https://m.pgsoft-games.com/1513328/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Lucky Clover Lady
+  gameid: 1601012
+  img: pgsoft/lucky-clover-lady.webp
+  type: new
+  permalink: https://m.pgsoft-games.com/1601012/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+
+- title: Fruity Candy
+  gameid: 1397455
+  img: pgsoft/fruity-candy.webp
+  type: new
+  permalink: https://m.pgsoft-games.com/1397455/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft 
+
+- title: Cruise Royale
+  gameid: 1473388
+  img: pgsoft/cruise-royale.webp
+  type: new
+  permalink: https://m.pgsoft-games.com/1473388/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft 
+
+- title: Safari Wilds
+  gameid: 1473388
+  img: pgsoft/safari-wilds.webp
+  type: new
+  permalink: 
+  available: not-available
+  provider: PG Soft 
