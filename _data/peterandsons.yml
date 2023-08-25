@@ -1,9 +1,3 @@
-- title: Peter Hunter
-  gameid: peterhunter
-  img: peter-and-sons/peter-hunter.webp
-  permalink: https://peterandsons.org/launcher.html?gameId=peterhunter
-  provider: Peter & Sons
-  type: yggdrasil
 
 - title: Wild Duel
   gameid: duel
@@ -59,12 +53,14 @@
   img: peter-and-sons/voodoo-hex.webp
   permalink: https://peterandsons.org/launcher.html?gameId=voodoohex
   provider: Peter & Sons
+  type: yggdrasil
 
 - title: Dungeon Tower
   gameid: dungeontower
   img: peter-and-sons/dungeon-tower.webp
   permalink: https://peterandsons.org/launcher.html?gameId=dungeontower
   provider: Peter & Sons
+  type: yggdrasil
 
 - title: Dragonblox Gigablox
   gameid: dragonblox
@@ -194,7 +190,7 @@
 
 - title: Water Blox
   gameid: water-blox
-  img: peter-and-sons/water-blox.webp
+  img: peter-and-sons/waterblox.webp
   permalink: https://peterandsons.org/launcher.html?gameId=water-blox
   provider: Peter & Sons
   type: yggdrasil 
@@ -206,3 +202,10 @@
   provider: Peter & Sons
   type: yggdrasil 
 
+- title: Peter Hunter
+  gameid: peterhunter
+  img: peter-and-sons/peter-hunter.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=peterhunter
+  provider: Peter & Sons
+  type: yggdrasil
+  available: not-available
