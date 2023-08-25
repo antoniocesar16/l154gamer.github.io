@@ -345,3 +345,10 @@
   provider: NetEnt
   available: not-available
   type: netent
+
+- title: Dead or Alive Megaways
+  img: netent/dead-or-alive-megaways.webp 
+  permalink: 
+  provider: NETENT
+  available: not-available
+  type: netent
