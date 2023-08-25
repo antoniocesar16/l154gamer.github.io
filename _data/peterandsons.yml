@@ -11,6 +11,7 @@
   lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=duel
   provider: Peter & Sons
+  type: yggdrasil
 
 - title: Thunder Hawk
   gameid: thunderhawk
@@ -71,6 +72,139 @@
 - title: Dragonblox Gigablox
   gameid: dragonblox
   img: peter-and-sons/dragonblox.webp
-  lang: ID
   permalink: https://peterandsons.org/launcher.html?gameId=dragonblox
   provider: Peter & Sons
+
+- title: D’cirque
+  gameid: circus
+  img: peter-and-sons/circus.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=circus
+  provider: Peter & Sons
+  type: oryxgaming
+
+- title: Sheriff Colt
+  gameid: colt
+  img: peter-and-sons/sheriff-colt.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=sheriff-colt
+  provider: Peter & Sons
+  type: oryxgaming
+
+- title: Punch Club
+  gameid: punch-club
+  img: peter-and-sons/punch-club.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=punch-club
+  provider: Peter & Sons
+  type: oryxgaming
+
+- title: Rome - The Conquerors
+  gameid: rome
+  img: peter-and-sons/rome.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=rome
+  provider: Peter & Sons
+  type: oryxgaming
+
+- title: Wild Bard
+  gameid: wild-bars
+  img: peter-and-sons/wild-bard.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=wild-bard
+  provider: Peter & Sons
+  type: oryxgaming
+
+- title: Zombies At The Door
+  gameid: zombies
+  img: peter-and-sons/zombies-at-the-door.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=zombies
+  provider: Peter & Sons
+  type: oryxgaming
+
+- title: Johnan Legendarian
+  gameid: johnan-legendarian
+  img: peter-and-sons/johnan-legendarian.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=johnan-legendarian
+  provider: Peter & Sons
+  type: yggdrasil 
+
+- title: Robin - Sherwood Marauders
+  gameid: robin
+  img: peter-and-sons/robin-sherwood.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=robin
+  provider: Peter & Sons
+  type: yggdrasil 
+
+- title: The Mafiosi
+  gameid: mafiosi
+  img: peter-and-sons/the-mafiosi.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=mafiosi
+  provider: Peter & Sons
+  type: oryxgaming 
+
+- title: Cauldron
+  gameid: cauldron
+  img: peter-and-sons/cauldron.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=cauldron
+  provider: Peter & Sons
+  type: yggdrasil 
+
+- title: Cauldron
+  gameid: cauldron
+  img: peter-and-sons/cauldron.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=cauldron
+  provider: Peter & Sons
+  type: yggdrasil 
+
+- title: Kaiser
+  gameid: kaiser
+  img: peter-and-sons/kaiser.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=kaiser
+  provider: Peter & Sons
+  type: oryxgaming 
+
+- title: Precious 7
+  gameid: precious-7
+  img: peter-and-sons/precious7.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=precious-7
+  provider: Peter & Sons
+  type: oryxgaming 
+
+- title: Hammer of Gods
+  gameid: hammer-of-gods
+  img: peter-and-sons/hammer-of-gods.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=hammer-of-gods
+  provider: Peter & Sons
+  type: yggdrasil 
+
+- title: Monster Blox
+  gameid: monster-blox
+  img: peter-and-sons/monsterblox.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=monster-blox
+  provider: Peter & Sons
+  type: yggdrasil 
+
+- title: Valkyries
+  gameid: valkyries
+  img: peter-and-sons/valkyries.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=valkyries
+  provider: Peter & Sons
+  type: yggdrasil 
+
+- title: Xibalba
+  gameid: xibalba
+  img: peter-and-sons/xibalba.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=xibalba
+  provider: Peter & Sons
+  type: yggdrasil 
+
+- title: Water Blox
+  gameid: water-blox
+  img: peter-and-sons/water-blox.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=water-blox
+  provider: Peter & Sons
+  type: yggdrasil 
+
+- title: Wild 1
+  gameid: wild-one
+  img: peter-and-sons/wild1.webp
+  permalink: https://peterandsons.org/launcher.html?gameId=wild-one
+  provider: Peter & Sons
+  type: yggdrasil 
+
