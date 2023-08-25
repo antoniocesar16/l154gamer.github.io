@@ -4,7 +4,7 @@ id: index
 active: beranda
 ---
 
-<div class="uk-child-width-expand@s" uk-grid><!-- grids -->
+<div class="uk-child-width-expand@s" uk-height-match="target: > div > .uk-card" uk-grid><!-- grids -->
 {% for item in site.data.widget %}
 {% for subcategory in item.subcategories %}
 <div><!-- grid div -->
