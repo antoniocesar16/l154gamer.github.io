@@ -87,5 +87,15 @@
   permalink: https://bgaming-network.com/play/BeerBonanza/FUN?server=demo
   provider: Bgaming
 
+- title: Johnny Cash
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63ee679cc90c5c6726087d8e_Johnny_Cash%2Blogo_horizontal.png
+  permalink: https://bgaming-network.com/play/JohnnyCash/FUN?server=demo
+  provider: Bgaming
+
+- title: Domnitors Deluxe
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63eb7a52a537c6c37fb88b0d_Domnitors_Deluxe_FEATURED.png
+  permalink: https://bgaming-network.com/play/DomnitorsDeluxe/FUN?server=demo
+  provider: Bgaming
+  
 
 
