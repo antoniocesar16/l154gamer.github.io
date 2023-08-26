@@ -40,18 +40,6 @@ active: beranda
 <a href="{{ "providers" | relative_url }}" class="uk-button uk-button-default uk-width-1-1 uk-margin-small-bottom">Lihat Semua</a>
 </div>
 
-<div class="uk-position-relative uk-visible-toggle uk-light uk-margin" tabindex="-1" uk-slider="autoplay: true" uk-slider="center: true">
-    <ul class="uk-slider-items uk-grid">
-     {% for item in site.data.vendors_slider %}
-        <li>
-            <div class="uk-panel">
-                <img src="{{ item.img }}" width="80px" height="80px" alt="{{ item.title }}">
-            </div>
-        </li>
-     {% endfor %}
-    </ul>
- </div>
- 
 <div class="uk-margin uk-card uk-card-default uk-card-body">    
  <div class="uk-grid" uk-grid><!-- begin content grids -->
   <div class="uk-width-auto">  
@@ -68,3 +56,16 @@ active: beranda
   </div>
  </div>               
 </div>
+
+<div class="uk-position-relative uk-visible-toggle uk-light uk-margin" tabindex="-1" uk-slider="autoplay: true" uk-slider="center: true">
+    <ul class="uk-slider-items uk-grid">
+     {% for item in site.data.vendors_slider %}
+        <li>
+            <div class="uk-panel">
+                <img src="{{ item.img }}" width="80px" height="80px" alt="{{ item.title }}">
+            </div>
+        </li>
+     {% endfor %}
+    </ul>
+ </div>
+ 
