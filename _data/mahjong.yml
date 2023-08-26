@@ -1,0 +1,31 @@
+- title: Mahjong Ways
+  gameid: 65
+  img: pgsoft/mahjong-ways.webp
+  type: videoslot
+  available: available
+  permalink: https://m.pgsoft-games.com/65/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+  
+- title: Mahjong Ways 2
+  gameid: 74
+  img: pgsoft/mahjong-ways2.webp
+  type: videoslot
+  available: available
+  permalink: https://m.pgsoft-games.com/74/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  provider: PG Soft
+
+- title: Mahjong Wins
+  gameid: vs1024mahjwins
+  img: pragmatic-play/mahjong-wins.webp
+  available: available
+  url: pragmatic-play/mahjong-wins
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjwins
+  provider: Pragmatic Play
+
+- title: Mahjong Panda
+  gameid: vs1024mahjpanda
+  img: pragmatic-play/mahjong-panda.webp
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjpanda
+  provider: Pragmatic Play
+  
