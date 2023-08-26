@@ -49,5 +49,16 @@
   permalink: https://bgaming-network.com/play/EuropeanRoulette/FUN?server=demo
   provider: Bgaming
   type: casino
+  
+- title: Lucky Moon Wolf Megaways 
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63ef3e1f78e79c267f4b90c6_Lady_Wolf_Moon_Megaways_FEATURED.png
+  permalink: https://bgaming-network.com/play/LuckyLadyMoonMegaways/FUN?server=demo
+  provider: Bgaming
+  type: megaways
 
+- title: Book Of Cats Megaways 
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/6424051c34120f5d6494283f_BookOfCats%2Blogo_gorizontal.png
+  permalink: https://bgaming-network.com/play/BookOfCatsMegaways/FUN?server=demo
+  provider: Bgaming
+  type: megaways
 
