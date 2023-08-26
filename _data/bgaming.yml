@@ -56,6 +56,11 @@
   provider: Bgaming
   type: megaways
 
+- title: Book Of Cats
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63e9ea3c2f5e986dc94fff54_Book_of_Cats_FEATURED_gorizontal.png
+  permalink: https://bgaming-network.com/play/BookOfCats/FUN?server=demo
+  provider: Bgaming
+  
 - title: Book Of Cats Megaways 
   img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/6424051c34120f5d6494283f_BookOfCats%2Blogo_gorizontal.png
   permalink: https://bgaming-network.com/play/BookOfCatsMegaways/FUN?server=demo
@@ -73,7 +78,7 @@
   provider: Bgaming
   
 - title: Book Of Kemet
-  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63fddadaa916bd489b3b3268_Book_of_Kemet_FEATURED_gorizontal.pngg
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63fddadaa916bd489b3b3268_Book_of_Kemet_FEATURED_gorizontal.png
   permalink: https://bgaming-network.com/play/BookOfKemet/FUN?server=demo
   provider: Bgaming
 
@@ -81,5 +86,6 @@
   img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63e9ed9477dff81e8c5e1164_Beer_bonanza_FEATURED_gorizontal.png
   permalink: https://bgaming-network.com/play/BeerBonanza/FUN?server=demo
   provider: Bgaming
+
 
 
