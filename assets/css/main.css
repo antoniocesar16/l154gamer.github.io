@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
 @import "https://unpkg.com/open-props/easings.min.css";
-@import url('https://fonts.cdnfonts.com/css/space-age');
+@import url('https://fonts.cdnfonts.com/css/cafe-francoise');
 
 body {
   min-height: 100vh;
@@ -31,11 +31,6 @@ iframe {
     left: 0;
     top: 0;
     z-index: 1030;
-}
-.branded {
- font-size: 150% !important;	
- font-family: 'Bad Script', cursive !important;
- font-weight: 800 !important;
 }
 .m60 {
  margin-top: 60px;
@@ -304,3 +299,13 @@ input, select, textarea {
   pointer-events: none !important;
   opacity: 0.4 !important;
   }
+
+.branded {
+ font-size: 150% !important;	
+ font-family: 'Café Françoise', sans-serif;                                                                                                
+ font-weight: 500 !important;
+ color: var(--color-text) !important;
+}
+.uk-heading-line {
+ font-family: 'Café Françoise', sans-serif;  
+}
