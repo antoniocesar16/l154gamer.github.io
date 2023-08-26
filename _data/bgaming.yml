@@ -28,11 +28,6 @@
   permalink: https://bgaming-network.com/play/LuckyDamaMuerta/FUN?server=demo
   provider: Bgaming
   
-- title: Lady Wolf Moon
-  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63ef3e1f78e79c267f4b90c6_Lady_Wolf_Moon_Megaways_FEATURED.png
-  permalink: https://bgaming-network.com/play/LuckyLadyMoon/FUN?server=demo
-  provider: Bgaming 
-  
 - title: Aztec Magic Megaways
   img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/644179b025cf396e5dfe07d4_63e61b22f745c5479d7974b6_AztecMagicMegaways%2Blogo_vertical%20(1).webp
   permalink: https://bgaming-network.com/play/AztecMagicMegaways/FUN?server=demo
@@ -49,7 +44,12 @@
   permalink: https://bgaming-network.com/play/EuropeanRoulette/FUN?server=demo
   provider: Bgaming
   type: casino
-  
+
+- title: Lady Wolf Moon
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63ef3a5505de8637c1dca6b7_LadyWolfMoon%2Blogo_horizontal.png
+  permalink: https://bgaming-network.com/play/LuckyLadyMoon/FUN?server=demo
+  provider: Bgaming 
+
 - title: Lady Wolf Moon Megaways 
   img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63ef3e1f78e79c267f4b90c6_Lady_Wolf_Moon_Megaways_FEATURED.png
   permalink: https://bgaming-network.com/play/LuckyLadyMoonMegaways/FUN?server=demo
