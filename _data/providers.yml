@@ -178,6 +178,11 @@
   url: relax-gaming
   available: available
 
+- title: Hacksaw Gaming
+  img: hacksaw-gaming.webp
+  url: hacksaw-gaming
+  available: available
+
 - title: Realtime Gaming
   img: realtime-gaming.webp  
   url: realtimegaming
@@ -216,11 +221,6 @@
 - title: Playstar
   img: playstar.webp
   url: playstar
-  available: not-available
-  
-- title: Hacksaw Gaming
-  img: hacksaw-gaming.webp
-  url: hacksaw-gaming
   available: not-available
   
 - title: CQ9 Gaming
