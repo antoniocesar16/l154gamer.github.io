@@ -30,6 +30,12 @@
   url: booming-games
 - title: Evoplay
   img: assets/images/vendors/evoplay.png
-  url: evoplah
+  url: evoplay
+- title: BGaming
+  img: assets/images/vendors/bgaming.png
+  url: bgaming
+- title: Hacksaw Gaming
+  img: assets/images/vendors/hacksaw.png
+  url: hacksaw-gaming
 
 
