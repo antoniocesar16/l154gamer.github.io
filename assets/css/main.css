@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
 @import "https://unpkg.com/open-props/easings.min.css";
 @import url('https://fonts.cdnfonts.com/css/cafe-francoise');
+@import url('https://fonts.cdnfonts.com/css/swistblnk-monthoers');
 
 body {
   min-height: 100vh;
@@ -302,7 +303,7 @@ input, select, textarea {
 
 .branded {
  font-size: 150% !important;	
- font-family: 'Café Françoise', sans-serif;                                                                                                
+ font-family: 'Swistblnk Monthoers', sans-serif;                                                                                                
  font-weight: 500 !important;
  color: var(--color-text) !important;
 }
