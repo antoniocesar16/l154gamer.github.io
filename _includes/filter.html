@@ -64,6 +64,18 @@
     </li>
     {% endif %}
 
+    {% if page.active == "koleksi" %}
+     <li>
+      <a href="#">Providers <span uk-drop-parent-icon></span></a>
+        <div uk-dropdown="mode: click">
+            <ul class="uk-nav uk-dropdown-nav">
+             <li uk-filter-control="[data-pilih='pragmaticplay']"><a href="#pragmaticplay">Pragmatic Play</a></li>
+             <li uk-filter-control="[data-pilih='pgsoft']"><a href="#pgsoft">PG Soft</a></li>             
+            </ul>
+        </div>
+     </li>
+    {% endif %}
+
     {% if page.active == "peterandsons" %}
     <li>
         <a href="#">Line <span uk-drop-parent-icon></span></a>
