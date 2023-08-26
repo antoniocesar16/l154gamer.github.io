@@ -12,5 +12,11 @@
   permalink: https://static-live.hacksawgaming.com/1229/1.22.0/index.html?language=id&channel=mobile&gameid=1229&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
   provider: Hacksaw Gaming
   
-
+- title: Wanted Dead Or A Wild
+  gameid: 1067
+  img: https://www-live.hacksawgaming.com/casino_thumbnails/1067.jpg
+  type: videoslot
+  available: available
+  permalink: https://static-live.hacksawgaming.com/1067/1.52.1/index.html?language=id&channel=mobile&gameid=1067&mode=2&token=123131&lobbyurl=https://www.hacksawgaming.com&currency=IDR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api
+  provider: Hacksaw Gaming
 
