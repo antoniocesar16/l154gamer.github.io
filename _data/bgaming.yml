@@ -62,3 +62,12 @@
   provider: Bgaming
   type: megaways
 
+- title: West Town
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63f49b475b3973d84ad56f02_West_Town_logo_horizontal.png
+  permalink: https://bgaming-network.com/play/WestTown/FUN?server=demo
+  provider: Bgaming
+
+- title: Lucky Lady's Clover
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63f1f090c682831987f6e277_LuckyLady%27sClover%2Blogo_horizontal.png
+  permalink: https://bgaming-network.com/play/LuckyLadyClover/FUN?server=demo
+  provider: Bgaming
