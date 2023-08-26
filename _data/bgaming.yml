@@ -71,3 +71,15 @@
   img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63f1f090c682831987f6e277_LuckyLady%27sClover%2Blogo_horizontal.png
   permalink: https://bgaming-network.com/play/LuckyLadyClover/FUN?server=demo
   provider: Bgaming
+  
+- title: Book Of Kemet
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63fddadaa916bd489b3b3268_Book_of_Kemet_FEATURED_gorizontal.pngg
+  permalink: https://bgaming-network.com/play/BookOfKemet/FUN?server=demo
+  provider: Bgaming
+
+- title: Beer Bonanza
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63e9ed9477dff81e8c5e1164_Beer_bonanza_FEATURED_gorizontal.png
+  permalink: https://bgaming-network.com/play/BeerBonanza/FUN?server=demo
+  provider: Bgaming
+
+
