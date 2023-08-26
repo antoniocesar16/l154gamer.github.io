@@ -101,4 +101,14 @@
   img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63eb764d35e66632316e5107_Domnitors_FEATURED.png
   permalink: https://bgaming-network.com/play/Domnitors/FUN?server=demo
   provider: Bgaming
+
+- title: Princess Royal
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63f21d7603491fd23025a39b_Princess_Royal_FEATURED_gorizontal.png
+  permalink: https://bgaming-network.com/play/PrincessRoyal/FUN?server=demo
+  provider: Bgaming
+
+- title: Desert Treasure
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63eb4f9b795ed137b6046c0a_Desert_Treasure__FEATURED.png
+  permalink: https://bgaming-network.com/play/DesertTreasure/FUN?server=demo
+  provider: Bgaming
   
