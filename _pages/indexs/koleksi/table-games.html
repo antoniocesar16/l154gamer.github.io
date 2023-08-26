@@ -5,6 +5,38 @@ permalink: /koleksi/table-games/
 active: table-games
 ---
 
+<div class="uk-margin-remove-bottom uk-clearfix">
+    <div class="uk-float-right">
+<form class="uk-search uk-search-default">
+    <span uk-search-icon></span>
+    <input id="myfilter" class="uk-form-width-small uk-search-input" type="search" placeholder="Cari di {{ page.title }}" aria-label="Search">
+ </form>   
+    </div>
+    <div class="uk-float-left">
+  <div class="uk-button-group"><!-- Buttons group -->
+    <button id="grid" uk-icon="icon: thumbnails; ratio: 2" class="uk-button uk-button-default uk-padding-remove"></button>
+    <button id="list" uk-icon="icon: list; ratio: 2" class="uk-button uk-button-default uk-padding-remove"></button>
+  </div><!-- /Buttons group -->     
+    </div>
+</div>
+<div class="uk-margin-remove-top uk-overflow-autos">
+  <ul class="uk-subnav">
+     <li uk-filter-control><a href="#">Semua</a></li>
+     <li>
+        <a href="#">Providers <span uk-drop-parent-icon></span></a>
+        <div uk-dropdown="mode: click">
+            <ul class="uk-nav uk-dropdown-nav">
+             <li uk-filter-control="[data-pilih='pragmaticplay']"><a href="#pragmaticplay">Pragmatic Play</a></li>
+             <li uk-filter-control="[data-pilih='pgsoft']"><a href="#pgsoft">PG Soft</a></li>
+             <li uk-filter-control="[data-pilih='netent']"><a href="#netent">NetEnt</a></li>
+             <li uk-filter-control="[data-pilih='relaxgaming']"><a href="#relaxgaming">Relax Gaming</a></li>
+             <li uk-filter-control="[data-pilih='bpgames']"><a href="#bpgames">Bigpot Gaming</a></li>             
+            </ul>
+        </div>
+     </li>
+  </ul>
+</div>
+
 <div class="js-filter uk-grid-small uk-grid-match" uk-height-match="target: > div > .uk-card" uk-grid><!-- Grids -->
 <!-- Grid 1 -->     
  {% for game in site.data.table-games %}	
