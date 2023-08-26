@@ -1,41 +1,53 @@
 - title: Lucky Farm Bonanza
-  img: lucky-farm-bonanza.webp
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63f1ddd04c0c6f0c1636a9e0_Lucky_Farm_Bonanza_FEATURED.png
   permalink: https://bgaming-network.com/play/LuckyFarmBonanza/FUN?server=demo
   provider: Bgaming
   
 - title: Hit The Route
-  img: hit-the-route.webp
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63ee5beaf5a090eaa4ca0954_Hit_the_Route%2Blogo_horizontal.png
   permalink: https://bgaming-network.com/play/HitTheRoute/FUN?server=demo
   provider: Bgaming
   
 - title: Avalon The Lost Kingdom
-  img: avalon.webp
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63e9f74e093ec8b4c96f08fb_avalon_FEATURED_SECTION_gorizontal.png
   permalink: https://bgaming-network.com/play/Avalon/FUN?server=demo
   provider: Bgaming
   
 - title: Road 2 Riches
-  img: road-2-riches.webp
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63f220c33e7764c7ff4b6183_Road2Riches_FEATURED_gorizontal.png
   permalink: https://bgaming-network.com/play/Road2Riches/FUN?server=demo
   provider: Bgaming
   
 - title: Bonanza Billion
-  img: bonanza-billion.webp
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/6441798f070df8123713a3b0_63e64fe03c29203a4f279aaa_Bonanza_Billion_FEATURED.webp
   permalink: https://bgaming-network.com/play/BonanzaBillion/FUN?server=demo
   provider: Bgaming
   
 - title: Lucky Dama Muerta
-  img: lucky-dama-muerta.webp
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63f1db515dc5f021c2d04238_Lucky_Dama_Muerta_FEATURED.png
   permalink: https://bgaming-network.com/play/LuckyDamaMuerta/FUN?server=demo
   provider: Bgaming
   
 - title: Lady Wolf Moon
-  img: lucky-wolf-moon.webp
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63ef3e1f78e79c267f4b90c6_Lady_Wolf_Moon_Megaways_FEATURED.png
   permalink: https://bgaming-network.com/play/LuckyLadyMoon/FUN?server=demo
   provider: Bgaming 
   
 - title: Aztec Magic Megaways
-  img: aztec-magic-megaways.webp
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/644179b025cf396e5dfe07d4_63e61b22f745c5479d7974b6_AztecMagicMegaways%2Blogo_vertical%20(1).webp
   permalink: https://bgaming-network.com/play/AztecMagicMegaways/FUN?server=demo
   provider: Bgaming
   type: megaways
+
+- title: Lucky Sweets
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63f1ea3b2890a63735340298_Lucky_Sweets_FEATURED.png
+  permalink: https://bgaming-network.com/play/LuckySweets/FUN?server=demo
+  provider: Bgaming
+  
+- title: Roulette European
+  img: https://global-uploads.webflow.com/63b3249466615535f76d4b4e/63eb9f3285739a7a974d7e54_European_Roulette_FEATURED_gorizontal.png
+  permalink: https://bgaming-network.com/play/EuropeanRoulette/FUN?server=demo
+  provider: Bgaming
+  type: casino
+
 
