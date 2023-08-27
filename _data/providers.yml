@@ -183,6 +183,11 @@
   url: hacksaw-gaming
   available: available
 
+- title: Evoplay
+  img: evoplay.webp
+  url: evoplay
+  available: available  
+
 - title: Realtime Gaming
   img: realtime-gaming.webp  
   url: realtimegaming
@@ -228,6 +233,11 @@
   url: cq9gaming
   available: not-available
   
+- title: KA Gaming
+  img: ka-gaming.webp
+  url: kagaming
+  available: not-available
+  
 - title: Just Do The Best
   img: jdb.webp
   url: jdb
@@ -241,16 +251,6 @@
 - title: Dragoon Soft
   img: dragoon-soft.webp
   url: dragoonsoft
-  available: not-available
-  
-- title: KA Gaming
-  img: ka-gaming.webp
-  url: kagaming
-  available: not-available
-  
-- title: Evoplay
-  img: evoplay.webp
-  url: evoplay
   available: not-available
   
 - title: Mancala Gaming
