@@ -47,30 +47,27 @@
 - title: Fire Rooster
   id: 271e3ca3-d219-41d3-a868-bef50d00c5df
   img: fire-rooster.webp
-  url: habanero/fire-rooster
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=271e3ca3-d219-41d3-a868-bef50d00c5df&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
 
 - title: Ways of Fortune
   id: 476fa6fb-63b0-4bfb-a42a-53899023c081
   img: ways-of-fortune.webp
-  url: habanero/fortune-ways
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=476fa6fb-63b0-4bfb-a42a-53899023c081&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
 
 - title: Totem Towers
   img: totem-towers.webp
-  url: habanero/totem-towers
   permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=e231663c-6033-4441-a8f7-da3489ba3a46&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
   
 - title: Cake Valley
   img: cake-valley.webp
-  url: habanero/cake-valley
   permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=4c0fcbcd-d41f-4adf-967b-c4a64a5b42be&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
   
 - title: Before Time Runs Out
   img: before-time-runs-out.webp
-  url: habanero/before-time-runs-out
   permalink: https://app-e.insvr.com/go.ashx?brandid=0545ad86-7e98-e711-a94a-000d3a24d7e6&keyname=SGBeforeTimeRunsOut&mode=fun&locale=id&ifrm=1
   provider: Habanero
   
