@@ -1,89 +1,89 @@
 - title: Baccarat Pro
-  img: netent/baccarat.webp 
+  img: https://l154gamer.github.io/assets/img/netent/baccarat.webp 
   permalink: https://games.netent.com/embed/game.html?gameId=baccarat2_not_mobile&currency=EUR&language=en
   provider: NetEnt
   available: available
   type: netent
 
 - title: Classic Blackjack
-  img: netent/classic-blackjack.webp 
+  img: https://l154gamer.github.io/assets/img/netent/classic-blackjack.webp 
   permalink: https://games.netent.com/embed/game.html?gameId=blackjackclassic_f1_g1_h0_i0_j0_not_mobile&currency=EUR&language=en
   provider: NetEnt
   available: available
   type: netent
  
 - title: Roulette Advanced 
-  img: netent/roulette-advanced.webp 
+  img: https://l154gamer.github.io/assets/img/netent/roulette-advanced.webp 
   permalink: https://games.netent.com/embed/game.html?gameId=roulette2adv_not_mobile&currency=EUR&language=en
   provider: NetEnt
   available: available
   type: netent
 
 - title: Baccarat Deluxe
-  img: pgsoft/baccarat-deluxe.webp
+  img: https://l154gamer.github.io/assets/img/pgsoft/baccarat-deluxe.webp
   type: pgsoft
   permalink: https://m.pgsoft-games.com/31/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   provider: PG Soft
   available: available
   
 - title: American Blackjack
-  img: pgsoft/american-blackjack.webp
+  img: https://l154gamer.github.io/assets/img/pgsoft/american-blackjack.webp
   provider: PG Soft
   available: not-available
   type: pgsoft
   permalink: https://m.pgsoft-games.com/null/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   
 - title: European Blackjack
-  img: pgsoft/european-blackjack.webp
+  img: https://l154gamer.github.io/assets/img/pgsoft/european-blackjack.webp
   provider: PG Soft  
   type: pgsoft
   available: not-available
   permalink: https://m.pgsoft-games.com/null/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   
 - title: Steampunk - Wheel of Destiny
-  img: pgsoft/steampunk.webp
+  img: https://l154gamer.github.io/assets/img/pgsoft/steampunk.webp
   available: not-available
   provider: PG Soft   
   type: pgsoft
   permalink: https://m.pgsoft-games.com/16/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
   
 - title: Multihand Blackjack
-  img: pragmatic-play/multihand-blackjack.webp
+  img: https://l154gamer.github.io/assets/img/pragmatic-play/multihand-blackjack.webp
   provider: Pragmatic Play
   available: not-available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=
   type: pragmaticplay
 
 - title: American Blackjack
-  img: pragmatic-play/american-blackjack.webp
+  img: https://l154gamer.github.io/assets/img/pragmatic-play/american-blackjack.webp
   provider: Pragmatic Play
   available: not-available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=
   type: pragmaticplay
   
 - title: Roulette
-  img: pragmatic-play/roulette.webp
+  img: https://l154gamer.github.io/assets/img/pragmatic-play/roulette.webp
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=rla
   type: pragmaticplay
 
 - title: Baccarat
-  img: pragmatic-play/baccarat.webp
+  img: https://l154gamer.github.io/assets/img/pragmatic-play/baccarat.webp
   provider: Pragmatic Play
   available: available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=bca
   type: pragmaticplay
 
 - title: Baccarat Dragon Bonus
-  img: pragmatic-play/dragon-bonus-baccarat.webp
+  img: https://l154gamer.github.io/assets/img/pragmatic-play/dragon-bonus-baccarat.webp
   provider: Pragmatic Play
   available: not-available
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=
   type: pragmaticplay
 
 - title: Spaceman
-  img: pragmatic-play/spaceman.webp
+  img: https://l154gamer.github.io/assets/img/pragmatic-play/spaceman.webp
   provider: Pragmatic Play
   available: available
   type: pragmaticplay
@@ -91,48 +91,48 @@
 
 - title: Blackjack Neo 
   gameid: blackjackneo
-  img: relax-gaming/blackjack-neo.webp
+  img: https://l154gamer.github.io/assets/img/relax-gaming/blackjack-neo.webp
   permalink: https://d2drhksbtcqozo.cloudfront.net/casino/apex/layer/?channel=mobile&gameid=blackjackneo&moneymode=fun&jurisdiction=MT&partnerid=1&&apex=1&gameurl=https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html
   provider: Relax Gaming 
   type: relaxgaming 
 
 - title: Roulette Nouveau
   gameid: blackjackneo
-  img: relax-gaming/nouveou-roulette.webp
+  img: https://l154gamer.github.io/assets/img/relax-gaming/nouveou-roulette.webp
   permalink: https://d2drhksbtcqozo.cloudfront.net/casino/apex/layer/?channel=mobile&gameid=roulettenouveau&moneymode=fun&jurisdiction=MT&partnerid=1&&apex=1&gameurl=https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html
   provider: Relax Gaming 
   type: relaxgaming 
 
 - title: Baccarat Classic
-  img: bp-gaming/baccarat.webp
+  img: https://l154gamer.github.io/assets/img/bp-gaming/baccarat.webp
   permalink: 
   provider: Bigpot Gaming
   available: not-available
   type: bpgames
 
 - title: Baccarat Super 6
-  img: bp-gaming/baccarat-super6.webp
+  img: https://l154gamer.github.io/assets/img/bp-gaming/baccarat-super6.webp
   permalink: 
   provider: Bigpot Gaming
   available: not-available
   type: bpgames
 
 - title: Roulette
-  img: bp-gaming/roulette.webp
+  img: https://l154gamer.github.io/assets/img/bp-gaming/roulette.webp
   permalink: 
   provider: Bigpot Gaming
   available: not-available
   type: bpgames
 
 - title: Blackjack
-  img: bp-gaming/blackjack.webp
+  img: https://l154gamer.github.io/assets/img/bp-gaming/blackjack.webp
   permalink: 
   provider: Bigpot Gaming
   available: not-available
   type: bpgames
 
 - title: Dragon Tiger
-  img: bp-gaming/dragon-tiger.webp
+  img: https://l154gamer.github.io/assets/img/bp-gaming/dragon-tiger.webp
   permalink: 
   provider: Bigpot Gaming
   available: not-available
