@@ -19,13 +19,13 @@
 - title: Candy Tower
   id: d1a5dd9a-2b2f-4762-8ea8-dba24f8d3b39
   img: candy-tower.webp
-  url: habanero/candy-tower
+  permalimk: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=d1a5dd9a-2b2f-4762-8ea8-dba24f8d3b39&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero 
 
 - title: Mystic Fortune Deluxe
   id: b23828b7-fb27-4802-a483-08e315a8700b
   img: mystic-fortune-deluxe.webp
-  url: habanero/mystic-fortune-deluxe
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=b23828b7-fb27-4802-a483-08e315a8700b&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero 
 
 - title: Egyptian Dreams Deluxe
@@ -41,7 +41,7 @@
 - title: Gold Rush
   id: fb9ccb90-bb6e-485e-9791-0d3d58ca8ce0
   img: gold-rush.webp
-  url: habanero/gold-rush
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=fb9ccb90-bb6e-485e-9791-0d3d58ca8ce0&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
 
 - title: Fire Rooster
