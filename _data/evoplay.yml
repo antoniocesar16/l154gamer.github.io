@@ -30,4 +30,35 @@
   permaink: http://demo.evoplay.games/demo/fullstate/html5/evoplay/jollytreasures
   provider: Evoplay
 
+- title: Gangster Night
+  gameid: gangsternight
+  img: https://evoplay.games/wp-content/uploads/2021/06/GangsterNight_270_270.jpg
+  type: videoslot
+  available: available
+  permaink: https://demo.evoplay.games/demo/fullstate/html5/evoplay/gangsternight
+  provider: Evoplay
+
+- title: Battle Tanks
+  gameid: battletanks
+  img: https://evoplay.games/wp-content/uploads/2021/03/BattleTanks_270x270.jpg
+  type: videoslot
+  available: available
+  permaink: https://demo.evoplay.games/demo/fullstate/html5/evoplay/battletanks
+  provider: Evoplay
+
+- title: Prohibition
+  gameid: prohibition
+  img: https://evoplay.games/wp-content/uploads/2021/03/Prohibition_270x270.jpg
+  type: videoslot
+  available: available
+  permaink: https://demo.evoplay.games/demo/fullstate/html5/evoplay/prohibition
+  provider: Evoplay
+
+- title: USSR Seventies
+  gameid: seventies
+  img: https://evoplay.games/wp-content/uploads/2021/03/BackTo70th_270x270.jpg
+  type: videoslot
+  available: available
+  permaink: https://demo.evoplay.games/demo/fullstate/html5/evoplay/seventies
+  provider: Evoplay
 
