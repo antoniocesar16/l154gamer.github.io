@@ -53,14 +53,14 @@
 
 - title: Lucky Mahjong Box
   img: evoplay/lucky-mahjong-box.webp
-  available: not-available
+  available: available
   type: evoplay
   permalink: 
   provider: Evoplay  
 
-- title: Mahjonh 88
+- title: Mahjong 88
   img: playngo/mahjong88.webp
-  available: not-available
+  available: available
   type: playngo
   permalink: 
   provider: Play'n Go  
