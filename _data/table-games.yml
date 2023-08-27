@@ -138,3 +138,51 @@
   available: not-available
   type: bpgames
 
+- title: Blackjack Lucky Sevens
+  gameid: blackjack
+  img: https://evoplay.games/wp-content/uploads/2021/03/Blackjack-360x360-1.png
+  type: evoplay
+  available: available
+  permaink: http://demo.evoplay.games/demo/table/html5/evoplay/blackjack
+  provider: Evoplay
+
+- title: Baccarat 777
+  gameid: baccarat
+  img: https://evoplay.games/wp-content/uploads/2021/03/Baccarat_270x270.jpg
+  type: evoplay
+  available: available
+  permaink: http://demo.evoplay.games/demo/table/html5/evoplay/baccarat
+  provider: Evoplay
+
+- title: European Roulette
+  gameid: europeanroulette
+  img: https://evoplay.games/wp-content/uploads/2021/03/EuropianRoulette_270x270.jpg
+  type: evoplay
+  available: available
+  permaink: http://demo.evoplay.games/demo/table/html5/evoplay/europeanroulette
+  provider: Evoplay
+
+- title: Texas Hold’em Poker 3D
+  gameid: texasholdempoker3d
+  img: https://evoplay.games/wp-content/uploads/2021/03/TexasHoldEm_270x270.jpg
+  type: evoplay
+  available: available
+  permaink: http://demo.evoplay.games/demo/table/html5/evoplay/texasholdempoker3d
+  provider: Evoplay
+
+- title: Texas Holdem Bonus
+  gameid: texasholdembonus
+  img: https://evoplay.games/wp-content/uploads/2021/03/TexasHoldEmBonus_270x270.jpg
+  type: evoplay
+  available: available
+  permaink: http://demo.evoplay.games/demo/table/html5/evoplay/texasholdembonus
+  provider: Evoplay
+
+- title: Oasis Poker Classic
+  gameid: oasispokerclassic
+  img: https://evoplay.games/wp-content/uploads/2021/03/OasisPokerClassic_270x270.jpg
+  type: evoplay
+  available: available
+  permaink: http://demo.evoplay.games/demo/table/html5/evoplay/oasispokerclassic
+  provider: Evoplay
+
