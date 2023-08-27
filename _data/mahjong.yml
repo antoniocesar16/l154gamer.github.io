@@ -37,17 +37,31 @@
   permalink: https://mahjong-fortune-demo.nagagames.com/?isFun=true
   provider: Naga Games  
 
-- title: Mahjong 3
+- title: Mahjong Ways 3
   img: playstar/mahjong3.webp
   available: available
   type: playstar
   permalink: https://download.iplaystar.net/PSS-ON-00141/?access_token=
   provider: Playstar  
 
-- title: Mahjong 3+
+- title: Mahjong Ways 3+
   img: playstar/mahjong3plus.webp
   available: available
   type: playstar
   permalink: https://download.iplaystar.net/PSS-ON-00146/?access_token=
   provider: Playstar  
+
+- title: Lucky Mahjong Box
+  img: evoplay/lucky-mahjong-box.webp
+  available: not-available
+  type: evoplay
+  permalink: 
+  provider: Evoplay  
+
+- title: Mahjonh 88
+  img: playngo/mahjong88.webp
+  available: not-available
+  type: playngo
+  permalink: 
+  provider: Play'n Go  
 
