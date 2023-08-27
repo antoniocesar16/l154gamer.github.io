@@ -1,19 +1,19 @@
 - title: Koi Gate
   id: a103867f-7f21-467c-9208-5ee7149820cb
   img: koi-gates.webp
-  url: habanero/koi-gates
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=a103867f-7f21-467c-9208-5ee7149820cb&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
 
 - title: Hot Hot Fruit
   id: e5a04f51-6d20-4504-91bc-d17656d2e542
   img: hot-hot-fruit.webp
-  url: habanero/hot-hot-fruit
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=e5a04f51-6d20-4504-91bc-d17656d2e542&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
 
 - title: Orbs of Atlantis
   id: 4ca3dc7b-bac6-450c-ac0e-c6371e9175a8
   img: orbs-of-atlantis.webp
-  url: habanero/orbs-atlantis
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=4ca3dc7b-bac6-450c-ac0e-c6371e9175a8&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
 
 - title: Candy Tower
@@ -76,13 +76,11 @@
   
 - title: Return To The Feature
   img: return-to-the-feature.webp
-  url: habanero/return-to-the-feature
   permalink: https://app-e.insvr.com/go.ashx?brandid=0545ad86-7e98-e711-a94a-000d3a24d7e6&keyname=SGReturnToTheFeature&mode=fun&locale=id&ifrm=1
   provider: Habanero
   
 - title: Tuk Tuk Thailand
   img: tuk-tuk-thailand.webp
-  url: habanero/tuk-tuk-thailand
   permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=27c3554a-c65f-4d79-98c9-0d939fbc5898&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
   
