@@ -130,6 +130,12 @@
   provider: Red Tiger
   type: redtiger
 
+- title: Egyptian Dreams Deluxe
+  img: habanero/egyptian-dreams-deluxe.webp
+  permalink: 
+  provider: Habanero
+  type: habaero
+
 - title: King Pharaoh
   img: spadegaming/king-pharaoh.webp
   permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-PH02
