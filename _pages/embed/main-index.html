@@ -12,18 +12,19 @@ permalink: /game
 <div id="main-content" class="dynamic-content">
   Halaman yang anda cari tidak ditemukan.
 </div>
-<!-- Dynamic Section 1 -->
-<div id="mahjongways" class="dynamic-content">
-  Mahjong Ways
+{% for game in site.data.pg_soft %}
+<div id="{{ game.id }}" class="dynamic-content">
+ <iframe 
+      src="{{ game.permalink }}" 
+      width="100%" 
+      height="680px" 
+      frameborder="0" 
+      allow="autoplay; encrypted-media" 
+      donotallowfullscreen>
+      <p>Your browser does not support iframes.</p>
+ </iframe> 
 </div>
-<!-- Dynamic Section 2 -->
-<div id="mahjongways2" class="dynamic-content">
-  Mahjong Ways 2
-</div>
-<!-- Dynamic Section 3 -->
-<div id="luckyneko" class="dynamic-content">
-  Lucky Neko
-</div>
+{% endfor %}
 
 <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 <script type="text/javascript">
@@ -44,10 +45,11 @@ permalink: /game
 		if (dynamicContent == 'mahjongways') {
 			$('#mahjongways').show();
 		}
-		// Check if the URL parameter is oranges
-		else if (dynamicContent == 'mahjongways2') {
-			$('#mahjongways2').show();
+		{% for game in site.data.pg_soft %}
+		else if (dynamicContent == '{{ game.id }}') {
+			$('#{{ game.id }}').show();
 		}
+		{% endfor %}
 		// Check if the URL parameter is bananas
 		else if (dynamicContent == 'luckyneko') {
 			$('#luckyneko').show();
