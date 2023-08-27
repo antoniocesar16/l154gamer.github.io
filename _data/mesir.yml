@@ -75,5 +75,15 @@
 
 - title: King Pharaoh
   img: spadegaming/king-pharaoh.webp
-  permalink: 
+  permalink: https://lobby.sgplayfun.com/touch/spadenew/index.jsp?menumode=off&language=id_ID&type=web&game=S-PH02
   provider: Spadegaming
+
+- title: Tomb Of Akhenaten
+  img: nolimit-city/tomb-of-akhenaten.webp
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=TombOfAkhenaten&fullscreen=True
+  provider: Nolimit City
+  
+- title: Tomb Of Nefertiti
+  img: nolimit-city/tomb-of-nefertiti.webp
+  permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=TombOfNefertiti&fullscreen=True
+  provider: Nolimit City
