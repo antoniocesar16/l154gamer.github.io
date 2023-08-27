@@ -1,5 +1,6 @@
 ---
 layout: main
+title: Halaman Tidak Ditemukan
 permalink: /game
 ---
 
@@ -10,19 +11,19 @@ permalink: /game
 </style>
 
 <div id="main-content" class="dynamic-content">
-  Forbidden
+  Halaman yang anda cari tidak ditemukan.
 </div>
 <!-- Dynamic Section 1 -->
 <div id="mahjongways" class="dynamic-content">
-  I like apples
+  Mahjong Ways
 </div>
 <!-- Dynamic Section 2 -->
-<div id="oranges" class="dynamic-content">
-  I like oranges
+<div id="mahjongways2" class="dynamic-content">
+  Mahjong Ways 2
 </div>
 <!-- Dynamic Section 3 -->
-<div id="bananas" class="dynamic-content">
-  I like bananas
+<div id="luckyneko" class="dynamic-content">
+  Lucky Neko
 </div>
 
 <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
@@ -46,11 +47,11 @@ permalink: /game
 		}
 		// Check if the URL parameter is oranges
 		else if (dynamicContent == 'oranges') {
-			$('#oranges').show();
+			$('#mahjongways2').show();
 		}
 		// Check if the URL parameter is bananas
-		else if (dynamicContent == 'bananas') {
-			$('#bananas').show();
+		else if (dynamicContent == 'luckyneko') {
+			$('#luckyneko').show();
 		}
 		// Check if the URL parmeter is empty or not defined, display default content
 		else {
