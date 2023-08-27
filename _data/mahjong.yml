@@ -30,3 +30,11 @@
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs1024mahjpanda
   provider: Pragmatic Play
   
+- title: Mahjong Fortune
+  img: naga-games/mahjong-fortune.webp
+  available: available
+  type: nagagames
+  permalink: https://mahjong-fortune-demo.nagagames.com/?isFun=true
+  provider: Naga Games  
+
+
