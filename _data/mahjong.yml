@@ -72,16 +72,10 @@
   permalink: https://h5c.cqgame.games/18/?token=guest{RndNum9}&language=en
   provider: CQ9 Gaming  
 
-- title: Mahjong Jinpay
-  img: skywind-group/mahjong-jinpay.webp
-  available: not-available
+- title: Mahjong Jinpai
+  img: skywind-group/mahjong-jinpai.webp
+  available: available
   type: skywindgroup
-  permalink: 
+  permalink: https://gc-gaming-skywindgroup-com.ss211208.com/mahjongjinpai/master/6/index.html
   provider: Skywind Group  
 
-- title: Mahjong King
-  img: dream-tech/mahjong-king.webp
-  available: not-available
-  type: dreamtech
-  permalink: 
-  provider: Dream Tech
