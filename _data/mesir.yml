@@ -87,3 +87,8 @@
   img: nolimit-city/tomb-of-nefertiti.webp
   permalink: https://prod.nlcasiacdn.net/loader/game-loader.html?operator=DCCBG007&language=en&device=mobile&game=TombOfNefertiti&fullscreen=True
   provider: Nolimit City
+
+- title: Egyptian King
+  img: isoftbet/egyptian-king.webp
+  permalink: https://stage-game-launcher-lux.isoftbet.com/1015/909534?identifier=pulse_egyptian_king&lang=EN&cur=IDR&background=1&mode=0&
+  provider: iSoftBet
