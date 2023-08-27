@@ -29,15 +29,13 @@
   provider: Habanero 
 
 - title: Egyptian Dreams Deluxe
-  id: 8bc1773e-a78b-420a-8063-2aad63d7ef3f
   img: egyptian-dreams-deluxe.webp
-  url: habanero/egyptian-dreams-deluxe
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=8bc1773e-a78b-420a-8063-2aad63d7ef3f&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
 
 - title: London Hunter
-  id: 20b52291-d316-4521-817b-f28863042bf1
   img: london-hunter.webp
-  url: habanero/london-hunter
+  permalink: https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&brandgameid=20b52291-d316-4521-817b-f28863042bf1&mode=fun&locale=id&ifrm=1&lobbyurl=pm-closeGame
   provider: Habanero
 
 - title: Gold Rush
