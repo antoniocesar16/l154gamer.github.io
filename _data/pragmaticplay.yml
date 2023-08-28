@@ -6,6 +6,38 @@
   permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20piggybank
   type: new
 
+- title: Fortune Of The Aztec
+  symbol: vswaysstrlght
+  img: fortunes-of-the-aztec.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vswaysstrlght
+  type: new
+
+- title: Candy Blitz
+  symbol: vs20candyblitz
+  img: candy-blitz.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20candyblitz
+  type: new
+
+- title: Pub Kings
+  symbol: vs20lvlup
+  img: pub-kings.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs20lvlup
+  type: new
+
+- title: Mustang Trail
+  symbol: vs10trail
+  img: mustang-trail.webp
+  provider: Pragmatic Play
+  available: available
+  permalink: https://demogamesfree.ppgames.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol=vs10trail
+  type: new
+
 - title: Gates of Olympus
   symbol: vs20olympgate
   img: olympus-gates.webp
