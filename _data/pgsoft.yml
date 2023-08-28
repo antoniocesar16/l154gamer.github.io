@@ -2,14 +2,14 @@
   gameid: 65
   img: pgsoft/mahjong-ways.webp
   type: videoslot
-  permalink: https://l154gamer.github.io/game/pg65?gameid=mahjongways
+  permalink: https://l154gamer.github.io/games/pg65?gameid=mahjongways
   provider: PG Soft
   
 - title: Mahjong Ways 2
   gameid: 74
   img: pgsoft/mahjong-ways2.webp
   type: videoslot
-  permalink: https://l154gamer.github.io/game/pg74?gameid=mahjongways2
+  permalink: https://l154gamer.github.io/games/pg74?gameid=mahjongways2
   provider: PG Soft
   
 - title: Lucky Neko
