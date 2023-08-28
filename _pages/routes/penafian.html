@@ -1,16 +1,10 @@
 ---
 layout: page
-permalink: /p
+permalink: /page
 ---
 
-<style>
-.dynamic-content {
-    display:none;
-}	
-</style>
-
-<div id="main-content" class="dynamic-content">
-Halaman yang anda cari tidak ditemukan.
+<div id="error" class="dynamic-content">
+ Anda tidak dapat mengakses halaman ini.
 </div>
 <div id="penafian" class="dynamic-content">
 <h5>Penafian</h5>
@@ -44,7 +38,7 @@ Halaman yang anda cari tidak ditemukan.
 	    return decodeURIComponent(results[2].replace(/\+/g, " "));
 	}
 	// Give the parameter a variable name
-	var dynamicContent = getParameterByName('id');
+	var dynamicContent = getParameterByName('get');
 	 $(document).ready(function() {
 		// Check if the URL parameter is apples
 		if (dynamicContent == 'penafian') {
@@ -55,10 +49,9 @@ Halaman yang anda cari tidak ditemukan.
 		}		
 		else if (dynamicContent == 'providers') {
 			$('#providers').show();
-		}
-		// Check if the URL parmeter is empty or not defined, display default content
+		}	
 		else {
-			$('#main-content').show();
+			$('#error').show();
 		}
 	});
 </script>
