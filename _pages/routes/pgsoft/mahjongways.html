@@ -3,9 +3,9 @@ layout: potrait
 permalink: /demo/pgsoft
 ---
 
-<div id="{{ site.data.game.mahjongways-pgsoft.gameid }}" class="game-fallback-container">
+<div id="{{ site.data.game.mahjong-ways-pgsoft.gameid }}" class="game-fallback-container">
 <iframe 
-src="{{ site.data.game.mahjongways-pgsoft.gameid }}"
+src="{{ site.data.game.mahjong-ways-pgsoft.gameid }}"
 frameborder="0" 
 scrolling="no"></iframe>
 </div>
@@ -26,8 +26,8 @@ scrolling="no"></iframe>
 	}
 	var dynamicContent = getParameterByName('gameid');
 	 $(document).ready(function() {
-		if (dynamicContent == '{{ site.data.game.mahjongways-pgsoft.gameid }}') {
-			$('#{{ site.data.game.mahjongways-pgsoft.gameid }}').show();
+		if (dynamicContent == '{{ site.data.game.mahjong-ways-pgsoft.gameid }}') {
+			$('#{{ site.data.game.mahjong-ways-pgsoft.gameid }}').show();
 		}
 		else {
 			$('#error').show();
