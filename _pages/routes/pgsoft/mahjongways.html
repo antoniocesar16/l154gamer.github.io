@@ -5,13 +5,13 @@ permalink: game/pg65
 ---
 
 <div id="{{ site.data.game.mahjong-ways-pgsoft.gameid }}" class="game-fallback-container dynamic-content">
-<iframe 
-src="{{ site.data.game.mahjong-ways-pgsoft.permalink }}"
-frameborder="0" 
-scrolling="no"></iframe>
+ <iframe 
+  src="{{ site.data.game.mahjong-ways-pgsoft.permalink }}"
+  frameborder="0" 
+  scrolling="no"></iframe>
 </div>
 <div id="error" class="dynamic-content">
- Anda tidak dapat mengakses halaman ini.
+ <p>Anda tidak dapat mengakses halaman ini.</p>
 </div>
 <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 <script type="text/javascript">
@@ -33,34 +33,4 @@ scrolling="no"></iframe>
 			$('#error').show();
 		}
 	});
-</script>
-<script>
-  window.addEventListener('resize', (event) => {
-    window.defaultMinimalHeight = window.innerHeight;
-    document.querySelector('.game-fallback-container').style.height = window.innerHeight + 'px';
-  });
-  window.addEventListener('load', (event) => {
-    document.querySelector('.game-fallback-container').style.height = window.innerHeight + 'px';
-    window.defaultMinimalHeight = window.innerHeight;
-
-    document.addEventListener("touchmove", ScrollStart, false);
-    document.addEventListener("scroll", Scroll, false);
-
-    function ScrollStart() {
-      if (window.currentHeight !== window.innerHeight) {
-        window.currentHeight = window.innerHeight;
-        document.querySelector('.game-fallback-container').style.height = (window.innerHeight < window.defaultMinimalHeight) ? window.defaultMinimalHeight + 'px' : window.innerHeight + 'px';
-      }
-    }
-
-    function Scroll() {
-      if (window.currentHeight !== window.innerHeight) {
-        window.currentHeight = window.innerHeight;
-        document.querySelector('.game-fallback-container').style.height = (window.innerHeight < window.defaultMinimalHeight) ? window.defaultMinimalHeight + 'px' : window.innerHeight + 'px';
-      }
-    }
-
-    document.querySelector('.game-fallback-container').style.height = window.innerHeight + 'px';
-  })
-
 </script>
