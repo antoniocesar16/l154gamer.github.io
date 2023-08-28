@@ -1,0 +1,36 @@
+---
+layout: potrait
+Title: Mahjong Ways 2 PG Soft
+permalink: game/pg74
+---
+
+<div id="{{ site.data.game.mahjong-ways2-pgsoft.gameid }}" class="game-fallback-container dynamic-content">
+ <iframe 
+  src="{{ site.data.game.mahjong-ways2-pgsoft.permalink }}"
+  frameborder="0" 
+  scrolling="no"></iframe>
+</div>
+<div id="error" class="dynamic-content">
+ <p>Anda tidak dapat mengakses halaman ini.</p>
+</div>
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript">
+	function getParameterByName(name, url) {
+	    if (!url) url = window.location.href;
+	    name = name.replace(/[\[\]]/g, "\\$&");
+	    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+	        results = regex.exec(url);
+	    if (!results) return null;
+	    if (!results[2]) return '';
+	    return decodeURIComponent(results[2].replace(/\+/g, " "));
+	}
+	var dynamicContent = getParameterByName('gameid');
+	 $(document).ready(function() {
+		if (dynamicContent == '{{ site.data.game.mahjong-ways2-pgsoft.gameid }}') {
+			$('#{{ site.data.game.mahjong-ways2-pgsoft.gameid }}').show();
+		}
+		else {
+			$('#error').show();
+		}
+	});
+</script>
