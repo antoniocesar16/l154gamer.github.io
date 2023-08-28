@@ -124,6 +124,12 @@
   provider: Neon Valley Studios
   type: neonvalleystudios
 
+- title: Eye of Atum
+  img: playngo/eye-of-atum.webp
+  permalink: https://asccw.playngonetwork.com/casino/ContainerLauncher?pid=2&gid=eyeofatum&lang=id_ID&practice=1&channel=mobile&demo=2
+  provider: Play'n Go
+  type: playngo
+
 - title: Egypt Megaways
   img: megaways/egypt-megaways.webp
   permalink: https://gserver-invicta.redtiger.cash/invicta/launcher/EgyptMegaways?affiliate=affiliate&channel=D&casino=5&token=demo_token&lang=id&playMode=demo&hasHistory=false&hasRealPlayButton=true&hasGamble=true&hasRoundId=true&fullScreen=false&hasAutoplayTotalSpins=true&hasAutoplayLimitLoss=true&hasAutoplaySingleWinLimit=true&hasAutoplayStopOnJackpot=true&hasAutoplayStopOnBonus=true
