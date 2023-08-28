@@ -1,6 +1,6 @@
 ---
-layout: null
-permalink: /game
+layout: main
+permalink: /p
 ---
 
 <style>
@@ -12,19 +12,24 @@ permalink: /game
 <div id="main-content" class="dynamic-content">
   Halaman yang anda cari tidak ditemukan.
 </div>
-{% for game in site.data.pg_soft %}
-<div id="{{ game.id }}" class="dynamic-content">
- <iframe 
-      src="{{ game.permalink }}" 
-      width="100%" 
-      height="680px" 
-      frameborder="0" 
-      allow="autoplay; encrypted-media" 
-      donotallowfullscreen>
-      <p>Your browser does not support iframes.</p>
- </iframe> 
+<div id="penafian" class="dynamic-content">
+<h5>Penafian</h5>
+<p>Situs ini berisi konten permainan slot gratis untuk pengguna berusia 18 (delapan belas) tahun ke atas. Dengan menggunakan situs web ini, anda menyatakan dan menjamin bahwa anda setidaknya berusia 18 (delapan belas) tahun keatas dan memiliki kemampuan untuk secara hukum memahami dan menyetujui Penafian ini. Kami tidak bertanggung jawab atau berkewajiban atas kesalahan penyajian usia anda, dan jika anda belum berusia 18 tahun, Anda harus berhenti menggunakan situs web sekarang.</p>
+<p>Beberapa tautan dalam situs ini dapat mengarahkan ke situs-situs lain, termasuk yang dioperasikan dan dikelola oleh pihak ketiga.</p>
+<p>Situs ini bukan agen slot online, togel, agen bola, dan sejenisnya.</p>
+<p>Situs ini juga bukan dari pihak provider permainan slot dan bukan pula dari pihak agen slot manapun.</p>
+<p>Situs ini tidak mempromosikan situs-situs slot manapun.</p>
+<p>Gambar-gambar yang ada disitus ini adalah berasal dari berbagai sumber di internet. Jika kami mengambil gambar dari milik orang lain yang telah dipublikasikan di Internet dan memiliki hak cipta dan kiranya melanggar hak cipta maka silahkan hubungi kami melalui WhatsApp agar kami dapat menghapusnya.</p>
+<p>Dengan menggunakan situs web kami, Anda dengan ini menyetujui penafian kami dan menyetujui ketentuannya.</p>
+<p>Jika kami memperbarui, mengubah atau membuat perubahan apa pun pada dokumen ini, perubahan itu akan diposting secara jelas di sini.</p>
+<h5>Informasi lainnya</h5>
+<p>Logo credit: Royyan Wijaya </p>
+<hr/>
+<h5>Kontak</h5>
+<p>
+ WhatsApp only : 0881024240202
+</p>
 </div>
-{% endfor %}
 
 <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 <script type="text/javascript">
@@ -42,17 +47,14 @@ permalink: /game
 	var dynamicContent = getParameterByName('gameid');
 	 $(document).ready(function() {
 		// Check if the URL parameter is apples
-		if (dynamicContent == 'mahjongways') {
-			$('#mahjongways').show();
+		if (dynamicContent == 'penafian') {
+			$('#penafian').show();
 		}
-		{% for game in site.data.pg_soft %}
-		else if (dynamicContent == '{{ game.id }}') {
-			$('#{{ game.id }}').show();
-		}
-		{% endfor %}
-		// Check if the URL parameter is bananas
-		else if (dynamicContent == 'luckyneko') {
-			$('#luckyneko').show();
+		else if (dynamicContent == 'unduh') {
+			$('#unduh').show();
+		}		
+		else if (dynamicContent == 'providers') {
+			$('#providers').show();
 		}
 		// Check if the URL parmeter is empty or not defined, display default content
 		else {
