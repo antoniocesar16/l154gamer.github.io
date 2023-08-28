@@ -309,3 +309,6 @@ input, select, textarea {
 .uk-heading-line {
  font-family: 'Café Françoise', sans-serif;  
 }
+.dynamic-content {
+    display:none;
+}	
