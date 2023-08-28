@@ -1,0 +1,66 @@
+---
+layout: potrait
+permalink: /demo/pgsoft
+---
+
+<div id="{{ site.data.game.mahjongways-pgsoft.gameid }}" class="game-fallback-container">
+<iframe 
+src="{{ site.data.game.mahjongways-pgsoft.gameid }}"
+frameborder="0" 
+scrolling="no"></iframe>
+</div>
+<div id="error" class="dynamic-content">
+ Anda tidak dapat mengakses halaman ini.
+</div>
+
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript">
+	function getParameterByName(name, url) {
+	    if (!url) url = window.location.href;
+	    name = name.replace(/[\[\]]/g, "\\$&");
+	    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+	        results = regex.exec(url);
+	    if (!results) return null;
+	    if (!results[2]) return '';
+	    return decodeURIComponent(results[2].replace(/\+/g, " "));
+	}
+	var dynamicContent = getParameterByName('gameid');
+	 $(document).ready(function() {
+		if (dynamicContent == '{{ site.data.game.mahjongways-pgsoft.gameid }}') {
+			$('#{{ site.data.game.mahjongways-pgsoft.gameid }}').show();
+		}
+		else {
+			$('#error').show();
+		}
+	});
+</script>
+<script>
+  window.addEventListener('resize', (event) => {
+    window.defaultMinimalHeight = window.innerHeight;
+    document.querySelector('.game-fallback-container').style.height = window.innerHeight + 'px';
+  });
+  window.addEventListener('load', (event) => {
+    document.querySelector('.game-fallback-container').style.height = window.innerHeight + 'px';
+    window.defaultMinimalHeight = window.innerHeight;
+
+    document.addEventListener("touchmove", ScrollStart, false);
+    document.addEventListener("scroll", Scroll, false);
+
+    function ScrollStart() {
+      if (window.currentHeight !== window.innerHeight) {
+        window.currentHeight = window.innerHeight;
+        document.querySelector('.game-fallback-container').style.height = (window.innerHeight < window.defaultMinimalHeight) ? window.defaultMinimalHeight + 'px' : window.innerHeight + 'px';
+      }
+    }
+
+    function Scroll() {
+      if (window.currentHeight !== window.innerHeight) {
+        window.currentHeight = window.innerHeight;
+        document.querySelector('.game-fallback-container').style.height = (window.innerHeight < window.defaultMinimalHeight) ? window.defaultMinimalHeight + 'px' : window.innerHeight + 'px';
+      }
+    }
+
+    document.querySelector('.game-fallback-container').style.height = window.innerHeight + 'px';
+  })
+
+</script>
