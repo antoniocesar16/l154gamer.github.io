@@ -27,15 +27,9 @@ active: mesir
       <a href="#">Providers <span uk-drop-parent-icon></span></a>
         <div uk-dropdown="mode: click">
             <ul class="uk-nav uk-dropdown-nav">
-             <li uk-filter-control="[data-pilih='pragmaticplay']"><a href="#pragmaticplay">Pragmatic Play</a></li>
-             <li uk-filter-control="[data-pilih='pgsoft']"><a href="#pgsoft">PG Soft</a></li>
-             <li uk-filter-control="[data-pilih='reelkingdom']"><a href="#reelkingdom">Reel Kingdom</a></li>
-             <li uk-filter-control="[data-pilih='redtiger']"><a href="#redtiger">Red Tiger</a></li>
-             <li uk-filter-control="[data-pilih='spadegaming']"><a href="#spadegaming">Spadegaming</a></li>
-             <li uk-filter-control="[data-pilih='nolimitcity']"><a href="#nolimitcity">Nolimit City</a></li>
-             <li uk-filter-control="[data-pilih='isoftbet']"><a href="#isoftbet">iSoftBet</a></li>
-             <li uk-filter-control="[data-pilih='neonvalleystudios']"><a href="#neonvalleystudios">Neon Valley Studios</a></li>
-             <li uk-filter-control="[data-pilih='habanero']"><a href="#habanero">Habanero</a></li>
+             {% for game in site.data.mesir %}   
+             <li uk-filter-control="[data-pilih='{{ game.type }}']"><a href="#{{ game.type }}">{{ game.provider }}</a></li>
+             {% endfor %}
             </ul>
         </div>
      </li>
