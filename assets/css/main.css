@@ -308,7 +308,7 @@ input, select, textarea {
  font-weight: 500 !important;
  color: var(--color-text) !important;
 }
-.uk-heading-line, h1, h2, h3, h4, h5, h6 {
+.uk-heading-line {
  font-family: 'Café Françoise', sans-serif;  
 }
 .dynamic-content {
