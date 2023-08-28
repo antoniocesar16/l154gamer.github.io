@@ -1,12 +1,11 @@
 ---
-layout: page
-title: Mahjong Ways
-active: pgsoft
-permalink: /pgsoft/mahjong-ways/
+layout: blank
+permalink: /games
 ---
 
+<div id="{{ site.data.game.mahjong-ways-pgsoft.gameid }}" class="uk-section">
 <iframe 
- src="{{ site.data.pgsoft.mahjong-ways.permalink }}"
+ src="{{ site.data.game.mahjong-ways-pgsoft.permalink }}"
  width="100%" 
  height="680px" 
  frameborder="0" 
@@ -14,3 +13,28 @@ permalink: /pgsoft/mahjong-ways/
  donotallowfullscreen>
  <p>Your browser does not support iframes.</p>
 </iframe>
+</div>
+<div id="error" class="dynamic-content">
+ Anda tidak dapat mengakses halaman ini.
+</div>
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript">
+	function getParameterByName(name, url) {
+	    if (!url) url = window.location.href;
+	    name = name.replace(/[\[\]]/g, "\\$&");
+	    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+	        results = regex.exec(url);
+	    if (!results) return null;
+	    if (!results[2]) return '';
+	    return decodeURIComponent(results[2].replace(/\+/g, " "));
+	}
+	var dynamicContent = getParameterByName('gameid');
+	 $(document).ready(function() {
+		if (dynamicContent == '{{ site.data.game.mahjong-ways-pgsoft.gameid }}') {
+			$('#{{ site.data.game.mahjong-ways-pgsoft.gameid }}').show();
+		}
+		else {
+			$('#error').show();
+		}
+	});
+</script>
