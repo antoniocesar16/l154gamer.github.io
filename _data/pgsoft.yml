@@ -30,14 +30,14 @@
   gameid: 7
   img: pgsoft/medusa.webp
   type: videoslot
-  permalink: https://m.pgsoft-games.com/7/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  permalink: https://l154gamer.github.io/games/pg7?gameid=medusa
   provider: PG Soft
   
 - title: Medusa - The Quest of Perseus
   gameid: 6
   img: pgsoft/medusa2.webp
   type: videoslot
-  permalink: https://m.pgsoft-games.com/6/index.html?l=id&ot=ca7094186b309ee149c55c8822e7ecf2&btt=2&from=https://l154gamer.github.io/error&language=id-ID&__refer=m.pg-redirect.net&or=static.pgsoft-games.com
+  permalink: https://l154gamer.github.io/games/pg6?gameid=medusa2
   provider: PG Soft
   
 - title: Dragon Hatch
